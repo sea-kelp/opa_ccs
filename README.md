@@ -45,8 +45,8 @@
         * Status: Completed
         * Finding: Not Sustained Training Referral
 * Codes (Parsed):
-  * 5.100: Operations Bureau Individual Responsibilities
   * 4.010: Employee Time Off
+  * 5.100: Operations Bureau Individual Responsibilities
 
 ### 2015OPA-0580
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2015OPA-0580ccs10-04-16.pdf
@@ -496,8 +496,8 @@
         * Status: Completed
         * Finding: Not Sustained Training Referral
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2016OPA-0026
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0026ccs08-10-16.pdf
@@ -644,8 +644,8 @@
         * Status: Completed
         * Finding: Not Sustained Lawful and Proper
 * Codes (Parsed):
-  * 6.010: Arrests
   * 8.100: De-Escalation
+  * 6.010: Arrests
 
 ### 2016OPA-0077
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0077ccs08-22-16.pdf
@@ -825,8 +825,8 @@
         * Status: Completed
         * Finding: Not Sustained Lawful and Proper
 * Codes (Parsed):
-  * 8.300: Use of Force Tools
   * 8.200: Using Force
+  * 8.300: Use of Force Tools
 
 ### 2016OPA-0096
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0096ccs08-29-16.pdf
@@ -976,8 +976,8 @@
         * Status: Completed
         * Finding: Not Sustained Lawful and Proper
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 8.400: Use of Force Reporting and Investigation
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2016OPA-0112
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0112ccs07-28-16.pdf
@@ -1011,29 +1011,6 @@
       * Discretion and Authority
         * Status: Completed
         * Finding: Not Sustained Training Referral
-* Codes (Parsed):
-  * 5.001: Standards and Duties
-
-### 2016OPA-0115
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0115ccs08-29-16.pdf
-* Issued Date: 2016-08-29
-* Officers:
-  * REDACTED, REDACTED REDACTED
-    * Badge: REDACTED
-    * Title: Police Officer
-    * Allegations:
-      * Force - Use
-        * Status: Completed
-        * Finding: Not Sustained Unfounded
-      * Force - Use
-        * Status: Completed
-        * Finding: Not Sustained Unfounded
-      * Force - Use
-        * Status: Completed
-        * Finding: Not Sustained Unfounded
-      * Force - Use
-        * Status: Completed
-        * Finding: Not Sustained Unfounded
 * Codes (Parsed):
   * 5.001: Standards and Duties
 
@@ -1175,53 +1152,6 @@
       * Force - Use
         * Status: Completed
         * Finding: Not Sustained Lawful and Proper
-* Codes (Parsed):
-  * 8.200: Using Force
-
-### 2016OPA-0146
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0146ccs08-24-16.pdf
-* Issued Date: 2016-08-24
-* Officers:
-  * Atkinson, Matthew Thomas
-    * Badge: 7632
-    * Title: Acting Police Officer Detective
-    * Allegations:
-      * Force - Use
-        * Status: Completed
-        * Finding: Not Sustained Unfounded
-      * Bias-free Policing
-        * Status: Completed
-        * Finding: Not Sustained Unfounded
-  * Conrad, Gabriel W
-    * Badge: 6947
-    * Title: Acting Police Sergeant
-    * Allegations:
-      * Bias-free Policing
-        * Status: Completed
-        * Finding: Not Sustained Unfounded
-      * Force - Use
-        * Status: Completed
-        * Finding: Not Sustained Unfounded
-  * Kagelmacher, Amy K
-    * Badge: 7629
-    * Title: Police Officer
-    * Allegations:
-      * Bias-free Policing
-        * Status: Completed
-        * Finding: Not Sustained Unfounded
-      * Force - Use
-        * Status: Completed
-        * Finding: Not Sustained Unfounded
-  * Eastgard, Erik Leland
-    * Badge: 8348
-    * Title: Police Officer
-    * Allegations:
-      * Force - Use
-        * Status: Completed
-        * Finding: Not Sustained Unfounded
-      * Bias-free Policing
-        * Status: Completed
-        * Finding: Not Sustained Unfounded
 * Codes (Parsed):
   * 8.200: Using Force
 
@@ -1941,12 +1871,6 @@
 * Codes (Parsed):
   * 7.050: Checking Out Evidence for Court
 
-### 2016OPA-0341
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0341ccs092216.pdf
-* Issued Date: 2016-09-22
-* Codes (Parsed):
-  * 7.050: Checking Out Evidence for Court
-
 ### 2016OPA-0344
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0344ccs10-26-16.pdf
 * Issued Date: 2016-10-26
@@ -2070,8 +1994,8 @@
         * Status: Completed
         * Finding: Not Sustained Training Referral
 * Codes (Parsed):
-  * 15.180: Primary Investigations
   * 5.140: Bias-Free Policing
+  * 15.180: Primary Investigations
 
 ### 2016OPA-0371
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0371ccs10-17-16.pdf
@@ -2159,8 +2083,8 @@
         * Status: Completed
         * Finding: Not Sustained Lawful and Proper
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 11.020: Transportation of Detainees
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2016OPA-0396
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0396ccs10-26-16.pdf
@@ -2358,33 +2282,6 @@
       * Video and Audio Recording
         * Status: Completed
         * Finding: Sustained
-* Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
-
-### 2016OPA-0440
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0440ccs01-20-17.pdf
-* Issued Date: 2017-01-20
-* Officers:
-  * Grayson, Sandlin Jeffrey
-    * Badge: 7634
-    * Title: Police Officer
-    * Allegations:
-      * Force - Use
-        * Status: Completed
-        * Finding: Not Sustained Lawful and Proper
-      * Force - Use
-        * Status: Completed
-        * Finding: Not Sustained Lawful and Proper
-  * Abts-Olsen, Nicolas Kedoa
-    * Badge: 7715
-    * Title: Police Officer
-    * Allegations:
-      * Force - Use
-        * Status: Completed
-        * Finding: Not Sustained Lawful and Proper
-      * Force - Use
-        * Status: Completed
-        * Finding: Not Sustained Lawful and Proper
 * Codes (Parsed):
   * 16.090: In-Car and Body-Worn Video
 
@@ -3019,8 +2916,8 @@
         * Status: Completed
         * Finding: Not Sustained Training Referral
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 11.020: Transportation of Detainees
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2016OPA-0588
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0588ccs03-08-17.pdf
@@ -3476,8 +3373,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0719ccs01-16-18.pdf
 * Issued Date: 2018-01-16
 * Codes (Parsed):
-  * 5.120: Off-Duty Employment
   * 5.001: Standards and Duties
+  * 5.120: Off-Duty Employment
 
 ### 2016OPA-0733
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0733ccs03-31-17.pdf
@@ -3529,55 +3426,6 @@
       * Stops, Detentions and Arrests
         * Status: Completed
         * Finding: Not Sustained Training Referral
-* Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
-
-### 2016OPA-0746
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0746ccs02-13-17.pdf
-* Issued Date: 2017-02-13
-* Officers:
-  * Vaca, Raul 
-    * Badge: 6799
-    * Title: Police Officer
-    * Allegations:
-      * Bias-free Policing
-        * Status: Completed
-        * Finding: Not Sustained Unfounded
-  * Rees, Brian Philippe
-    * Badge: 6890
-    * Title: Police Officer
-    * Allegations:
-      * Bias-free Policing
-        * Status: Completed
-        * Finding: Not Sustained Unfounded
-  * Pirak, Victor Alexei
-    * Badge: 6979
-    * Title: Police Officer
-    * Allegations:
-      * Bias-free Policing
-        * Status: Completed
-        * Finding: Not Sustained Unfounded
-  * Johnson, Donald K
-    * Badge: 5836
-    * Title: Police Officer
-    * Allegations:
-      * Bias-free Policing
-        * Status: Completed
-        * Finding: Not Sustained Unfounded
-  * Levitt, Jared Dale
-    * Badge: 7726
-    * Title: Police Officer
-    * Allegations:
-      * Bias-free Policing
-        * Status: Completed
-        * Finding: Not Sustained Unfounded
-  * Kraus, Brian J
-    * Badge: 5290
-    * Title: Police Sergeant
-    * Allegations:
-      * Bias-free Policing
-        * Status: Completed
-        * Finding: Not Sustained Unfounded
 * Codes (Parsed):
   * 16.090: In-Car and Body-Worn Video
 
@@ -3781,8 +3629,8 @@
         * Status: Completed
         * Finding: Not Sustained Lawful and Proper
 * Codes (Parsed):
-  * 9.020: Uniform
   * 8.200: Using Force
+  * 9.020: Uniform
 
 ### 2016OPA-0791
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0791ccs01-02-18.pdf
@@ -3801,9 +3649,9 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0793ccs011519.pdf
 * Issued Date: 2019-01-15
 * Codes (Parsed):
-  * 6.010: Arrests
   * 8.200: Using Force
   * 8.100: De-Escalation
+  * 6.010: Arrests
 
 ### 2016OPA-0794
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0794ccs01-12-17.pdf
@@ -4032,8 +3880,8 @@
         * Status: Completed
         * Finding: Not Sustained Lawful and Proper
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
   * 8.200: Using Force
+  * 8.400: Use of Force Reporting and Investigation
 
 ### 2016OPA-0867
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0867ccs03-31-17.pdf
@@ -4057,8 +3905,8 @@
         * Status: Completed
         * Finding: Not Sustained Unfounded
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
   * 8.200: Using Force
+  * 8.400: Use of Force Reporting and Investigation
 
 ### 2016OPA-0870
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0870ccs01-25-17.pdf
@@ -4074,27 +3922,6 @@
       * Professionalism
         * Status: Completed
         * Finding: Not Sustained Inconclusive
-* Codes (Parsed):
-  * 5.140: Bias-Free Policing
-
-### 2016OPA-0879
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0879ccs02-21-17.pdf
-* Issued Date: 2017-02-21
-* Officers:
-  * Spaulding, Michael B
-    * Badge: 7491
-    * Title: Acting Police Officer Detective
-    * Allegations:
-      * Video and Audio Recording
-        * Status: Completed
-        * Finding: Sustained
-  * Miller, Scott Matthew
-    * Badge: 7496
-    * Title: Police Officer
-    * Allegations:
-      * Video and Audio Recording
-        * Status: Completed
-        * Finding: Sustained
 * Codes (Parsed):
   * 5.140: Bias-Free Policing
 
@@ -4318,8 +4145,8 @@
         * Status: Completed
         * Finding: Not Sustained Unfounded
 * Codes (Parsed):
-  * 15.180: Primary Investigations
   * 15.120: Responding to Bias Crimes and Incidents
+  * 15.180: Primary Investigations
 
 ### 2016OPA-0902
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0902ccs04-19-17.pdf
@@ -4408,8 +4235,8 @@
         * Status: Completed
         * Finding: Not Sustained Lawful and Proper
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
   * 8.200: Using Force
+  * 8.400: Use of Force Reporting and Investigation
 
 ### 2016OPA-0907
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0907ccs12-13-16.pdf
@@ -4429,9 +4256,9 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0926ccs113018.pdf
 * Issued Date: 2018-11-30
 * Codes (Parsed):
-  * 6.010: Arrests
-  * 8.200: Using Force
   * 11.010: Detainee Management
+  * 8.200: Using Force
+  * 6.010: Arrests
 
 ### 2016OPA-0927
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0927ccs06-14-17.pdf
@@ -4929,8 +4756,8 @@
         * Status: Completed
         * Finding: Not Sustained Lawful and Proper
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
   * 8.200: Using Force
+  * 8.400: Use of Force Reporting and Investigation
 
 ### 2016OPA-1019
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1019ccs03-17-17.pdf
@@ -5094,8 +4921,8 @@
         * Status: Completed
         * Finding: Not Sustained Training Referral
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2016OPA-1067
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1067ccs03-17-17.pdf
@@ -5200,8 +5027,8 @@
         * Status: Completed
         * Finding: Not Sustained Inconclusive
 * Codes (Parsed):
-  * 5.100: Operations Bureau Individual Responsibilities
   * 15.260: Collision Investigations
+  * 5.100: Operations Bureau Individual Responsibilities
   * 5.140: Bias-Free Policing
 
 ### 2016OPA-1085
@@ -5291,8 +5118,8 @@
         * Status: Completed
         * Finding: Not Sustained Inconclusive
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 13.031: Vehicle Eluding/Pursuits
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2016OPA-1097
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1097ccs07-25-17.pdf
@@ -5586,27 +5413,6 @@
 * Codes (Parsed):
   * 16.090: In-Car and Body-Worn Video
 
-### 2016OPA-1170
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1170ccs04-03-17.pdf
-* Issued Date: 2017-04-03
-* Officers:
-  * Richards, Alan K.
-    * Badge: 7497
-    * Title: Police Officer
-    * Allegations:
-      * Video and Audio Recording
-        * Status: Completed
-        * Finding: Not Sustained Inconclusive
-  * Duennes, Travis Aaron
-    * Badge: 8301
-    * Title: Police Officer
-    * Allegations:
-      * Video and Audio Recording
-        * Status: Completed
-        * Finding: Not Sustained Inconclusive
-* Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
-
 ### 2016OPA-1172
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1172ccs06-14-17.pdf
 * Issued Date: 2017-06-14
@@ -5767,41 +5573,6 @@
       * Conformance to Law
         * Status: Completed
         * Finding: Not Sustained Inconclusive
-* Codes (Parsed):
-  * 5.001: Standards and Duties
-
-### 2016OPA-1222
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1222ccs04-11-17.pdf
-* Issued Date: 2017-04-11
-* Officers:
-  * Norris, Richard A
-    * Badge: 7741
-    * Title: Police Officer
-    * Allegations:
-      * Video and Audio Recording
-        * Status: Completed
-        * Finding: Not Sustained Training Referral
-  * Erwin, Ryan Joseph
-    * Badge: 8368
-    * Title: Police Officer
-    * Allegations:
-      * Video and Audio Recording
-        * Status: Completed
-        * Finding: Not Sustained Training Referral
-  * Flick, Benjamin James
-    * Badge: 8369
-    * Title: Police Officer
-    * Allegations:
-      * Vehicle Operation
-        * Status: Completed
-        * Finding: Not Sustained Training Referral
-  * Keller, Jared MacKenzie
-    * Badge: 8371
-    * Title: Police Officer
-    * Allegations:
-      * Vehicle Operation
-        * Status: Completed
-        * Finding: Not Sustained Training Referral
 * Codes (Parsed):
   * 5.001: Standards and Duties
 
@@ -6036,8 +5807,8 @@
         * Status: Completed
         * Finding: Not Sustained Unfounded
 * Codes (Parsed):
-  * 6.180: Searches-General
   * 5.001: Standards and Duties
+  * 6.180: Searches-General
 
 ### 2016OPA-1266
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1266ccs04-19-17.pdf
@@ -6158,9 +5929,9 @@
         * Status: Completed
         * Finding: Not Sustained Inconclusive
 * Codes (Parsed):
-  * 15.180: Primary Investigations
-  * 6.010: Arrests
   * 15.370: Sexual Assault Investigation
+  * 6.010: Arrests
+  * 15.180: Primary Investigations
 
 ### 2016OPA-1291
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1291ccs06-23-17.pdf
@@ -6198,33 +5969,6 @@
     * Badge: 8375
     * Title: Police Officer
     * Allegations:
-      * Video and Audio Recording
-        * Status: Completed
-        * Finding: Not Sustained Training Referral
-* Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
-
-### 2016OPA-1306
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1306ccs05-25-17.pdf
-* Issued Date: 2017-05-25
-* Officers:
-  * Skommesa, John M
-    * Badge: 5640
-    * Title: Police Officer
-    * Allegations:
-      * Video and Audio Recording
-        * Status: Completed
-        * Finding: Not Sustained Training Referral
-      * Video and Audio Recording
-        * Status: Completed
-        * Finding: Not Sustained Training Referral
-  * Shopay, Nathan P
-    * Badge: 7470
-    * Title: Police Officer
-    * Allegations:
-      * Video and Audio Recording
-        * Status: Completed
-        * Finding: Not Sustained Training Referral
       * Video and Audio Recording
         * Status: Completed
         * Finding: Not Sustained Training Referral
@@ -6281,8 +6025,8 @@
         * Status: Completed
         * Finding: Not Sustained Lawful and Proper
 * Codes (Parsed):
-  * 8.200: Using Force
   * 11.010: Detainee Management
+  * 8.200: Using Force
 
 ### 2016OPA-1313
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1313ccs05-10-17.pdf
@@ -6300,43 +6044,6 @@
     * Title: Police Officer
     * Allegations:
       * Force - Use
-        * Status: Completed
-        * Finding: Not Sustained Unfounded
-* Codes (Parsed):
-  * 8.200: Using Force
-
-### 2016OPA-1316
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1316ccs04-19-17.pdf
-* Issued Date: 2017-04-19
-* Officers:
-  * Simbeck, Paul T
-    * Badge: 7788
-    * Title: Police Officer
-    * Allegations:
-      * Bias-free Policing
-        * Status: Completed
-        * Finding: Not Sustained Unfounded
-      * Investigations and Reports
-        * Status: Completed
-        * Finding: Not Sustained Unfounded
-  * Keranen-Vermeulen, Kirstyn Viana
-    * Badge: 8330
-    * Title: Police Officer
-    * Allegations:
-      * Investigations and Reports
-        * Status: Completed
-        * Finding: Not Sustained Unfounded
-      * Bias-free Policing
-        * Status: Completed
-        * Finding: Not Sustained Unfounded
-  * Morasco, Anthony R
-    * Badge: 8392
-    * Title: Police Officer
-    * Allegations:
-      * Bias-free Policing
-        * Status: Completed
-        * Finding: Not Sustained Unfounded
-      * Investigations and Reports
         * Status: Completed
         * Finding: Not Sustained Unfounded
 * Codes (Parsed):
@@ -6408,7 +6115,7 @@
   * 13.010: Collisions Involving Department Vehicles
 
 ### 2016OPA-1325
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1327ccs05-08-17.pdf
+* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1325ccs06-08-17.pdf
 * Issued Date: 2017-06-08
 * Officers:
   * Dunckle, Michael David
@@ -6830,27 +6537,6 @@
       * Force - Use
         * Status: Completed
         * Finding: Not Sustained Lawful and Proper
-* Codes (Parsed):
-  * 8.200: Using Force
-
-### 2016OPA-1397
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1397ccs06-30-17.pdf
-* Issued Date: 2017-06-30
-* Officers:
-  * Couet, Christopher Dean
-    * Badge: 7758
-    * Title: Police Officer
-    * Allegations:
-      * Video and Audio Recording
-        * Status: Completed
-        * Finding: Sustained
-  * Maehler, Jamison A
-    * Badge: 7761
-    * Title: Police Officer
-    * Allegations:
-      * Video and Audio Recording
-        * Status: Completed
-        * Finding: Sustained
 * Codes (Parsed):
   * 8.200: Using Force
 
@@ -7657,10 +7343,10 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1531ccs06-27-17.pdf
 * Issued Date: 2017-06-27
 * Codes (Parsed):
+  * 5.001: Standards and Duties
+  * 15.180: Primary Investigations
   * 7.090: Photographic Evidence
   * 16.090: In-Car and Body-Worn Video
-  * 15.180: Primary Investigations
-  * 5.001: Standards and Duties
 
 ### 2017OPA-0004
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0004ccs12-29-17.pdf
@@ -7683,27 +7369,6 @@
         * Status: Completed
         * Finding: Not Sustained Unfounded
       * Information and Communications Systems
-        * Status: Completed
-        * Finding: Not Sustained Unfounded
-* Codes (Parsed):
-  * 12.050: Criminal Justice Information Systems
-
-### 2017OPA-0012
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0012ccs06-20-17.pdf
-* Issued Date: 2017-06-20
-* Officers:
-  * Edison, Simon J
-    * Badge: 6603
-    * Title: Acting Police Officer Detective
-    * Allegations:
-      * Video and Audio Recording
-        * Status: Completed
-        * Finding: Not Sustained Unfounded
-  * Bourdon, Jorge Leonel
-    * Badge: 7523
-    * Title: Police Officer
-    * Allegations:
-      * Video and Audio Recording
         * Status: Completed
         * Finding: Not Sustained Unfounded
 * Codes (Parsed):
@@ -7789,7 +7454,7 @@
   * 8.200: Using Force
 
 ### 2017OPA-0025
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0031ccs03-07-18.pdf
+* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0025ccs07-12-17.pdf
 * Issued Date: 2017-07-12
 * Officers:
   * Benner, Devon J
@@ -7800,7 +7465,7 @@
         * Status: Completed
         * Finding: Not Sustained Lawful and Proper
 * Codes (Parsed):
-  * 73.075 (Not found: Might be an OCR error, see the linked PDF)
+  * 15.260: Collision Investigations
 
 ### 2017OPA-0032
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0032ccs06-30-17.pdf
@@ -7938,12 +7603,6 @@
       * Force - Use
         * Status: Completed
         * Finding: Not Sustained Lawful and Proper
-* Codes (Parsed):
-  * 8.200: Using Force
-
-### 2017OPA-0059
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0059ccs101019.pdf
-* Issued Date: 2019-10-10
 * Codes (Parsed):
   * 8.200: Using Force
 
@@ -8162,12 +7821,12 @@
         * Status: Completed
         * Finding: Not Sustained Training Referral
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
   * 8.200: Using Force
   * 8.100: De-Escalation
+  * 8.400: Use of Force Reporting and Investigation
 
 ### 2017OPA-0118
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0119ccs113018.pdf
+* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0118ccs07-11-17.pdf
 * Issued Date: 2017-07-11
 * Officers:
   * Alvord, Jason Anthony
@@ -8346,10 +8005,10 @@
   * 5.001: Standards and Duties
 
 ### 2017OPA-0152
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0153ccs12-15-17.pdf
+* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0152ccs02-27-18.pdf
 * Issued Date: 2018-02-27
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
+  * 5.001: Standards and Duties
 
 ### 2017OPA-0154
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0154ccs09-19-17.pdf
@@ -8434,7 +8093,7 @@
   * 16.090: In-Car and Body-Worn Video
 
 ### 2017OPA-0171
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0172ccs11-21-17.pdf
+* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0171ccs07-03-17.pdf
 * Issued Date: 2017-07-03
 * Officers:
   * Pirak, Jacques Cedric
@@ -8445,7 +8104,7 @@
         * Status: Completed
         * Finding: Sustained
 * Codes (Parsed):
-  * 13.031: Vehicle Eluding/Pursuits
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2017OPA-0178
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0178ccs09-05-17.pdf
@@ -8610,8 +8269,8 @@
         * Status: Completed
         * Finding: Sustained
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 5.140: Bias-Free Policing
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2017OPA-0225
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0225ccs08-09-17.pdf
@@ -8764,9 +8423,9 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0253ccs03-08-18.pdf
 * Issued Date: 2018-03-08
 * Codes (Parsed):
-  * 7.020: Found Property
-  * 7.010: Submitting Evidence
   * 5.001: Standards and Duties
+  * 7.010: Submitting Evidence
+  * 7.020: Found Property
 
 ### 2017OPA-0258
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0258ccs08-07-17.pdf
@@ -8803,10 +8462,11 @@
   * 8.400: Use of Force Reporting and Investigation
 
 ### 2017OPA-0268
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0270ccs09-11-17.pdf
+* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0268ccs07-10-18.pdf
 * Issued Date: 2018-07-10
 * Codes (Parsed):
-  * 5.007 (Not found: Might be an OCR error, see the linked PDF)
+  * 6.020: Interactions with Foreign Nationals
+  * 15.180: Primary Investigations
 
 ### 2017OPA-0272
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0272ccs09-22-17.pdf
@@ -8852,9 +8512,9 @@
         * Status: Completed
         * Finding: Sustained
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
-  * 6.010: Arrests
   * 6.020: Interactions with Foreign Nationals
+  * 6.010: Arrests
+  * 8.400: Use of Force Reporting and Investigation
 
 ### 2017OPA-0274
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0274ccs09-27-17.pdf
@@ -9016,16 +8676,6 @@
 * Codes (Parsed):
   * 13.031: Vehicle Eluding/Pursuits
 
-### 2017OPA-0318
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0318ccs10-30-17.pdf
-* Issued Date: 2017-10-02
-* Codes (Parsed):
-  * 8.300: Use of Force Tools
-  * 8.400: Use of Force Reporting and Investigation
-  * 13.031: Vehicle Eluding/Pursuits
-  * 73.037 (Not found: Might be an OCR error, see the linked PDF)
-  * 8.200: Using Force
-
 ### 2017OPA-0322
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0322ccs10-02-17.pdf
 * Issued Date: 2017-10-02
@@ -9079,8 +8729,8 @@
         * Status: Completed
         * Finding: Not Sustained Training Referral
 * Codes (Parsed):
-  * 15.180: Primary Investigations
   * 5.001: Standards and Duties
+  * 15.180: Primary Investigations
 
 ### 2017OPA-0336
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0336ccs09-22-17.pdf
@@ -9534,8 +9184,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0451ccs10-27-17.pdf
 * Issued Date: 2017-10-27
 * Codes (Parsed):
-  * 5.001: Standards and Duties
   * 5.125: Social Media
+  * 5.001: Standards and Duties
 
 ### 2017OPA-0452
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0452ccs11-07-17.pdf
@@ -9811,18 +9461,18 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0520ccs03-14-18.pdf
 * Issued Date: 2018-03-14
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 5.001: Standards and Duties
+  * 16.090: In-Car and Body-Worn Video
   * 5.140: Bias-Free Policing
 
 ### 2017OPA-0521
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0521ccs11-09-17.pdf
 * Issued Date: 2017-11-09
 * Codes (Parsed):
-  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
   * 8.100: De-Escalation
-  * 8.200: Using Force
+  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
   * 5.001: Standards and Duties
+  * 8.200: Using Force
   * 5.140: Bias-Free Policing
 
 ### 2017OPA-0526
@@ -9973,16 +9623,6 @@
 * Codes (Parsed):
   * 5.001: Standards and Duties
 
-### 2017OPA-0550
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0550ccs040418.pdf
-* Issued Date: 2017-11-16
-* Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
-  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
-  * 11.010: Detainee Management
-  * 8.200: Using Force
-  * 5.001: Standards and Duties
-
 ### 2017OPA-0552
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0552ccs12-11-17.pdf
 * Issued Date: 2017-12-11
@@ -10042,9 +9682,9 @@
 * Issued Date: 2017-12-22
 * Codes (Parsed):
   * 5.001: Standards and Duties
-  * 8.400: Use of Force Reporting and Investigation
-  * 8.100: De-Escalation
   * 16.110: Crisis Intervention
+  * 8.100: De-Escalation
+  * 8.400: Use of Force Reporting and Investigation
 
 ### 2017OPA-0567
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0567ccs01-26-18.pdf
@@ -10074,10 +9714,14 @@
   * 5.140: Bias-Free Policing
 
 ### 2017OPA-0568
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0571ccs02-05-18.pdf
+* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0568ccs12-01-17.pdf
 * Issued Date: 2017-12-01
 * Codes (Parsed):
-  * 8.200: Using Force
+  * 16.110: Crisis Intervention
+  * 5.001: Standards and Duties
+  * 15.180: Primary Investigations
+  * 15.410: Domestic Violence Investigation
+  * 15.400 (Not found: Might be an OCR error, see the linked PDF)
 
 ### 2017OPA-0575
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0575ccs02-08-18.pdf
@@ -10151,8 +9795,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0625ccs12-19-17.pdf
 * Issued Date: 2017-12-19
 * Codes (Parsed):
-  * 1.110: Public Information
   * 5.001: Standards and Duties
+  * 1.110: Public Information
 
 ### 2017OPA-0628
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0628ccs02-23-18.pdf
@@ -10170,8 +9814,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0631ccs12-18-17.pdf
 * Issued Date: 2017-12-18
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 8.200: Using Force
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2017OPA-0632
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0632ccs12-13-17.pdf
@@ -10195,8 +9839,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0636ccs03-14-18.pdf
 * Issued Date: 2018-03-14
 * Codes (Parsed):
-  * 15.180: Primary Investigations
   * 15.120: Responding to Bias Crimes and Incidents
+  * 15.180: Primary Investigations
 
 ### 2017OPA-0637
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0637ccs122217.pdf
@@ -10208,9 +9852,9 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0644ccs12-26-17.pdf
 * Issued Date: 2017-12-26
 * Codes (Parsed):
-  * 4.040: Sick Leave
-  * 5.001: Standards and Duties
   * 4.010: Employee Time Off
+  * 5.001: Standards and Duties
+  * 4.040: Sick Leave
 
 ### 2017OPA-0645
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0645ccs03-12-18.pdf
@@ -10274,40 +9918,12 @@
 * Codes (Parsed):
   * 5.140: Bias-Free Policing
 
-### 2017OPA-0682
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0682ccs10-06-17.pdf
-* Issued Date: 2017-10-06
-* Officers:
-  * Rogers, Christopher J
-    * Badge: 7702
-    * Title: Police Officer
-    * Allegations:
-      * Bias-free Policing
-        * Status: Completed
-        * Finding: Not Sustained Unfounded
-  * Twiggs, Christopher Douglas
-    * Badge: 8431
-    * Title: Police Officer
-    * Allegations:
-      * Bias-free Policing
-        * Status: Completed
-        * Finding: Not Sustained Unfounded
-  * Harris, Alexandra Brenneman
-    * Badge: 8444
-    * Title: Police Officer
-    * Allegations:
-      * Bias-free Policing
-        * Status: Completed
-        * Finding: Not Sustained Unfounded
-* Codes (Parsed):
-  * 5.140: Bias-Free Policing
-
 ### 2017OPA-0685
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0685ccs12-26-17.pdf
 * Issued Date: 2017-12-26
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
   * 8.200: Using Force
+  * 8.400: Use of Force Reporting and Investigation
 
 ### 2017OPA-0688
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0688ccs01-03-18.pdf
@@ -10389,12 +10005,6 @@
 * Codes (Parsed):
   * 5.001: Standards and Duties
 
-### 2017OPA-0701
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0701ccs12-26-17.pdf
-* Issued Date: 2017-12-26
-* Codes (Parsed):
-  * 5.001: Standards and Duties
-
 ### 2017OPA-0702
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0702ccs12-20-17.pdf
 * Issued Date: 2017-12-20
@@ -10406,12 +10016,6 @@
 * Issued Date: 2019-01-04
 * Codes (Parsed):
   * 5.001: Standards and Duties
-
-### 2017OPA-0704
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0705ccs12-27-17.pdf
-* Issued Date: 2017-12-21
-* Codes (Parsed):
-  * 5.007 (Not found: Might be an OCR error, see the linked PDF)
 
 ### 2017OPA-0708
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0708ccs12-18-17.pdf
@@ -10429,18 +10033,12 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0720ccs02-18-19.pdf
 * Issued Date: 2019-02-18
 * Codes (Parsed):
-  * 6.130: Informant Management
   * 5.001: Standards and Duties
+  * 6.130: Informant Management
 
 ### 2017OPA-0727
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0727ccs03-09-18.pdf
 * Issued Date: 2018-03-09
-* Codes (Parsed):
-  * 5.001: Standards and Duties
-
-### 2017OPA-0731
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0731ccs01-05-18.pdf
-* Issued Date: 2018-01-05
 * Codes (Parsed):
   * 5.001: Standards and Duties
 
@@ -10474,35 +10072,35 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0744ccs01-19-18.pdf
 * Issued Date: 2018-01-19
 * Codes (Parsed):
+  * 5.001: Standards and Duties
   * 15.180: Primary Investigations
   * 15.410: Domestic Violence Investigation
-  * 5.001: Standards and Duties
 
 ### 2017OPA-0746
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0751ccs01-04-18.pdf
+* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0746ccs01-19-18.pdf
 * Issued Date: 2018-01-19
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
-  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
+  * 8.100: De-Escalation
+  * 5.001: Standards and Duties
   * 8.200: Using Force
-  * 16.090: In-Car and Body-Worn Video
-  * 76.090 (Not found: Might be an OCR error, see the linked PDF)
+  * 6.010: Arrests
+  * 5.140: Bias-Free Policing
 
 ### 2017OPA-0753
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0753ccs01-18-18.pdf
 * Issued Date: 2018-01-18
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
   * 8.200: Using Force
   * 5.001: Standards and Duties
+  * 8.400: Use of Force Reporting and Investigation
 
 ### 2017OPA-0761
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0761ccs011918.pdf
 * Issued Date: 2018-01-19
 * Codes (Parsed):
-  * 15.180: Primary Investigations
   * 11.050: Detainee Property
   * 5.001: Standards and Duties
+  * 15.180: Primary Investigations
 
 ### 2017OPA-0764
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0764ccs01-09-18.pdf
@@ -10535,8 +10133,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0805ccs020518.pdf
 * Issued Date: 2018-02-05
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
   * 8.200: Using Force
+  * 8.400: Use of Force Reporting and Investigation
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
 
 ### 2017OPA-0807
@@ -10544,38 +10142,33 @@
 * Issued Date: 2018-01-09
 * Codes (Parsed):
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
-  * 6.180: Searches-General
-  * 6.010: Arrests
   * 8.200: Using Force
+  * 6.010: Arrests
+  * 6.180: Searches-General
 
 ### 2017OPA-0810
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0810ccs02-03-18.pdf
 * Issued Date: 2018-02-03
 * Codes (Parsed):
-  * 7.060: Releasing Evidence
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
   * 8.200: Using Force
   * 5.001: Standards and Duties
+  * 7.060: Releasing Evidence
 
 ### 2017OPA-0812
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0813ccs12-28-17.pdf
+* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0812ccs01-19-18.pdf
 * Issued Date: 2018-01-19
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
-  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
-  * 6.070 (Not found: Might be an OCR error, see the linked PDF)
-  * 75.020 (Not found: Might be an OCR error, see the linked PDF)
-  * 8.700 (Not found: Might be an OCR error, see the linked PDF)
-  * 5.007 (Not found: Might be an OCR error, see the linked PDF)
+  * 5.140: Bias-Free Policing
 
 ### 2017OPA-0820
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0820ccs02-05-18.pdf
 * Issued Date: 2018-02-05
 * Codes (Parsed):
-  * 15.180: Primary Investigations
+  * 5.001: Standards and Duties
   * 6.150: Advising Persons of Right to Counsel and Miranda
   * 6.010: Arrests
-  * 5.001: Standards and Duties
+  * 15.180: Primary Investigations
 
 ### 2017OPA-0824
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0824ccs02-05-18pdf - Updated.pdf
@@ -10589,16 +10182,16 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0831ccs02-07-18.pdf
 * Issued Date: 2018-02-07
 * Codes (Parsed):
-  * 11.020: Transportation of Detainees
   * 8.200: Using Force
+  * 11.020: Transportation of Detainees
   * 5.140: Bias-Free Policing
 
 ### 2017OPA-0835
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0835ccs02-13-18.pdf
 * Issued Date: 2018-02-13
 * Codes (Parsed):
-  * 15.180: Primary Investigations
   * 5.001: Standards and Duties
+  * 15.180: Primary Investigations
   * 5.140: Bias-Free Policing
 
 ### 2017OPA-0836
@@ -10629,9 +10222,9 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0848ccs02-12-18.pdf
 * Issued Date: 2018-02-12
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
   * 8.200: Using Force
   * 5.001: Standards and Duties
+  * 8.400: Use of Force Reporting and Investigation
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
 
 ### 2017OPA-0850
@@ -10645,17 +10238,17 @@
 * Issued Date: 2018-03-14
 * Codes (Parsed):
   * 8.100: De-Escalation
-  * 6.220: Voluntary Contacts, Terry Stops & Detentions
-  * 6.010: Arrests
-  * 8.200: Using Force
   * 5.001: Standards and Duties
+  * 6.220: Voluntary Contacts, Terry Stops & Detentions
+  * 8.200: Using Force
+  * 6.010: Arrests
 
 ### 2017OPA-0852
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0852ccs02-14-18.pdf
 * Issued Date: 2018-02-14
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 5.001: Standards and Duties
+  * 16.090: In-Car and Body-Worn Video
   * 5.140: Bias-Free Policing
 
 ### 2017OPA-0856
@@ -10668,9 +10261,9 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0858ccs02-15-18.pdf
 * Issued Date: 2018-02-15
 * Codes (Parsed):
-  * 6.180: Searches-General
-  * 6.120: Impounding Vehicles
   * 5.001: Standards and Duties
+  * 6.120: Impounding Vehicles
+  * 6.180: Searches-General
   * 5.140: Bias-Free Policing
 
 ### 2017OPA-0859
@@ -10684,8 +10277,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0862ccs02-12-18.pdf
 * Issued Date: 2018-02-12
 * Codes (Parsed):
-  * 6.180: Searches-General
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
+  * 6.180: Searches-General
   * 5.140: Bias-Free Policing
 
 ### 2017OPA-0865
@@ -10717,8 +10310,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0875ccs02-22-18.pdf
 * Issued Date: 2018-02-22
 * Codes (Parsed):
-  * 5.001: Standards and Duties
   * 11.010: Detainee Management
+  * 5.001: Standards and Duties
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
 
 ### 2017OPA-0878
@@ -10732,8 +10325,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0880ccs02-23-18.pdf
 * Issued Date: 2018-02-23
 * Codes (Parsed):
-  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
   * 5.001: Standards and Duties
+  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
   * 5.140: Bias-Free Policing
 
 ### 2017OPA-0883
@@ -10746,8 +10339,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0884ccs08-05-18.pdf
 * Issued Date: 2018-08-05
 * Codes (Parsed):
-  * 8.300: Use of Force Tools
   * 8.200: Using Force
+  * 8.300: Use of Force Tools
 
 ### 2017OPA-0886
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0886ccs062418.pdf
@@ -10760,40 +10353,40 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0887ccs02-18-18.pdf
 * Issued Date: 2018-02-18
 * Codes (Parsed):
-  * 5.140: Bias-Free Policing
   * 8.200: Using Force
   * 5.001: Standards and Duties
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
+  * 5.140: Bias-Free Policing
 
 ### 2017OPA-0894
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0894ccs02-15-18.pdf
 * Issued Date: 2018-02-15
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
-  * 6.010: Arrests
   * 5.001: Standards and Duties
+  * 6.010: Arrests
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2017OPA-0895
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0895ccs02-24-18.pdf
 * Issued Date: 2018-02-24
 * Codes (Parsed):
-  * 8.300: Use of Force Tools
   * 8.200: Using Force
+  * 8.300: Use of Force Tools
 
 ### 2017OPA-0898
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0898ccs02-23-18.pdf
 * Issued Date: 2018-02-23
 * Codes (Parsed):
-  * 15.180: Primary Investigations
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
   * 5.001: Standards and Duties
+  * 15.180: Primary Investigations
 
 ### 2017OPA-0899
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0899ccs02-21-18.pdf
 * Issued Date: 2018-02-21
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
   * 8.200: Using Force
+  * 8.400: Use of Force Reporting and Investigation
 
 ### 2017OPA-0900
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0900ccs02-18-18.pdf
@@ -10820,16 +10413,16 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0909ccs030218.pdf
 * Issued Date: 2018-03-01
 * Codes (Parsed):
-  * 5.001: Standards and Duties
   * 8.200: Using Force
   * 8.100: De-Escalation
+  * 5.001: Standards and Duties
 
 ### 2017OPA-0910
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0910ccs02-17-18.pdf
 * Issued Date: 2018-02-17
 * Codes (Parsed):
-  * 8.300: Use of Force Tools
   * 8.200: Using Force
+  * 8.300: Use of Force Tools
 
 ### 2017OPA-0912
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0912ccs013018.pdf
@@ -10869,8 +10462,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0931ccs03-16-18.pdf
 * Issued Date: 2018-03-16
 * Codes (Parsed):
-  * 15.180: Primary Investigations
   * 5.001: Standards and Duties
+  * 15.180: Primary Investigations
 
 ### 2017OPA-0932
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0932ccs02-22-18.pdf
@@ -10886,17 +10479,17 @@
   * 5.140: Bias-Free Policing
 
 ### 2017OPA-0936
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0937ccs03-05-18.pdf
+* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0936ccs03-03-18.pdf
 * Issued Date: 2018-03-03
 * Codes (Parsed):
-  * 76.090 (Not found: Might be an OCR error, see the linked PDF)
+  * 5.001: Standards and Duties
 
 ### 2017OPA-0940
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0940ccs030118.pdf
 * Issued Date: 2018-03-01
 * Codes (Parsed):
-  * 5.120: Off-Duty Employment
   * 5.001: Standards and Duties
+  * 5.120: Off-Duty Employment
 
 ### 2017OPA-0942
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0942ccs02-20-18.pdf
@@ -10941,10 +10534,10 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0950ccs03-06-18.pdf
 * Issued Date: 2018-03-06
 * Codes (Parsed):
-  * 5.001: Standards and Duties
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
   * 8.200: Using Force
   * 8.100: De-Escalation
+  * 5.001: Standards and Duties
 
 ### 2017OPA-0952
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0952ccs03-06-18.pdf
@@ -10972,15 +10565,15 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0956ccs03-03-18.pdf
 * Issued Date: 2018-03-03
 * Codes (Parsed):
-  * 6.120: Impounding Vehicles
   * 5.001: Standards and Duties
+  * 6.120: Impounding Vehicles
 
 ### 2017OPA-0958
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0958ccs02-25-18.pdf
 * Issued Date: 2018-02-25
 * Codes (Parsed):
-  * 5.001: Standards and Duties
   * 15.370: Sexual Assault Investigation
+  * 5.001: Standards and Duties
 
 ### 2017OPA-0960
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0960ccs03-03-18.pdf
@@ -10992,46 +10585,46 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0962ccs030918.pdf
 * Issued Date: 2018-03-09
 * Codes (Parsed):
-  * 15.180: Primary Investigations
-  * 16.090: In-Car and Body-Worn Video
   * 5.001: Standards and Duties
+  * 16.090: In-Car and Body-Worn Video
+  * 15.180: Primary Investigations
 
 ### 2017OPA-0963
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0963ccs03-07-18.pdf
 * Issued Date: 2018-03-07
 * Codes (Parsed):
-  * 8.100: De-Escalation
   * 5.001: Standards and Duties
+  * 8.100: De-Escalation
 
 ### 2017OPA-0966
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0966ccs03-14-18.pdf
 * Issued Date: 2018-03-14
 * Codes (Parsed):
-  * 6.010: Arrests
   * 8.200: Using Force
+  * 6.010: Arrests
 
 ### 2017OPA-0969
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0969ccs03-16-18.pdf
 * Issued Date: 2018-03-16
 * Codes (Parsed):
-  * 15.180: Primary Investigations
   * 15.120: Responding to Bias Crimes and Incidents
+  * 15.180: Primary Investigations
 
 ### 2017OPA-0971
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0971ccs02-22-18.pdf
 * Issued Date: 2018-02-22
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
-  * 8.400: Use of Force Reporting and Investigation
   * 8.200: Using Force
+  * 8.400: Use of Force Reporting and Investigation
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2017OPA-0972
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0972ccs031318.pdf
 * Issued Date: 2018-03-13
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
   * 8.200: Using Force
+  * 8.400: Use of Force Reporting and Investigation
 
 ### 2017OPA-0973
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0973ccs02-15-18.pdf
@@ -11044,16 +10637,16 @@
 * Issued Date: 2018-03-11
 * Codes (Parsed):
   * 5.001: Standards and Duties
-  * 8.400: Use of Force Reporting and Investigation
   * 7.010: Submitting Evidence
+  * 8.400: Use of Force Reporting and Investigation
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
 
 ### 2017OPA-0981
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0981ccs032018.pdf
 * Issued Date: 2018-03-20
 * Codes (Parsed):
-  * 15.180: Primary Investigations
   * 5.001: Standards and Duties
+  * 15.180: Primary Investigations
 
 ### 2017OPA-0982
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0982ccs05-04-18.pdf
@@ -11078,26 +10671,26 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0990ccs032318.pdf
 * Issued Date: 2018-03-23
 * Codes (Parsed):
-  * 15.180: Primary Investigations
-  * 6.180: Searches-General
   * 5.001: Standards and Duties
+  * 6.180: Searches-General
+  * 15.180: Primary Investigations
 
 ### 2017OPA-0997
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0997ccs03-25-18.pdf
 * Issued Date: 2018-03-25
 * Codes (Parsed):
-  * 6.220: Voluntary Contacts, Terry Stops & Detentions
-  * 6.010: Arrests
-  * 8.200: Using Force
   * 5.001: Standards and Duties
+  * 6.220: Voluntary Contacts, Terry Stops & Detentions
+  * 8.200: Using Force
+  * 6.010: Arrests
   * 5.140: Bias-Free Policing
 
 ### 2017OPA-0998
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0998ccs061818.pdf
 * Issued Date: 2018-03-12
 * Codes (Parsed):
-  * 5.120: Off-Duty Employment
   * 5.001: Standards and Duties
+  * 5.120: Off-Duty Employment
 
 ### 2017OPA-0999
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0999ccs03-02-18.pdf
@@ -11123,8 +10716,8 @@
 * Issued Date: 2018-03-19
 * Codes (Parsed):
   * 5.001: Standards and Duties
-  * 8.400: Use of Force Reporting and Investigation
   * 7.010: Submitting Evidence
+  * 8.400: Use of Force Reporting and Investigation
 
 ### 2017OPA-1010
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1010ccs02-09-18.pdf
@@ -11133,11 +10726,10 @@
   * 16.090: In-Car and Body-Worn Video
 
 ### 2017OPA-1014
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1015ccs03-17-18.pdf
+* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1014ccs010918.pdf
 * Issued Date: 2018-01-09
 * Codes (Parsed):
-  * 75.780 (Not found: Might be an OCR error, see the linked PDF)
-  * 7.770 (Not found: Might be an OCR error, see the linked PDF)
+  * 5.140: Bias-Free Policing
 
 ### 2017OPA-1016
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1016ccs121517.pdf
@@ -11161,8 +10753,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1023ccs03-18-18.pdf
 * Issued Date: 2018-03-18
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 5.001: Standards and Duties
+  * 16.090: In-Car and Body-Worn Video
   * 5.140: Bias-Free Policing
 
 ### 2017OPA-1027
@@ -11182,15 +10774,15 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1031ccs03-30-18.pdf
 * Issued Date: 2018-03-30
 * Codes (Parsed):
-  * 5.001: Standards and Duties
   * 13.080: Use of Department Vehicles
+  * 5.001: Standards and Duties
 
 ### 2017OPA-1036
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1036ccs050418.pdf
 * Issued Date: 2018-05-04
 * Codes (Parsed):
-  * 5.120: Off-Duty Employment
   * 5.001: Standards and Duties
+  * 5.120: Off-Duty Employment
   * 5.140: Bias-Free Policing
 
 ### 2017OPA-1037
@@ -11209,23 +10801,23 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1053ccs03-16-18.pdf
 * Issued Date: 2018-03-16
 * Codes (Parsed):
-  * 8.300: Use of Force Tools
   * 8.200: Using Force
+  * 8.300: Use of Force Tools
 
 ### 2017OPA-1054
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1054ccs03-28-18.pdf
 * Issued Date: 2018-03-28
 * Codes (Parsed):
-  * 6.180: Searches-General
   * 5.001: Standards and Duties
+  * 6.180: Searches-General
 
 ### 2017OPA-1055
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1055ccs04-06-18.pdf
 * Issued Date: 2018-04-06
 * Codes (Parsed):
-  * 15.180: Primary Investigations
-  * 6.010: Arrests
   * 5.001: Standards and Duties
+  * 6.010: Arrests
+  * 15.180: Primary Investigations
 
 ### 2017OPA-1056
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1056ccs03-20-18.pdf
@@ -11237,10 +10829,10 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1059ccs04-06-18.pdf
 * Issued Date: 2018-04-06
 * Codes (Parsed):
+  * 5.001: Standards and Duties
   * 8.300: Use of Force Tools
   * 8.100: De-Escalation
   * 8.200: Using Force
-  * 5.001: Standards and Duties
 
 ### 2017OPA-1060
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1060ccs04-02-18.pdf
@@ -11265,8 +10857,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1074ccs04-05-18.pdf
 * Issued Date: 2018-04-05
 * Codes (Parsed):
-  * 13.030: Emergency Vehicle Operations
   * 13.031: Vehicle Eluding/Pursuits
+  * 13.030: Emergency Vehicle Operations
 
 ### 2017OPA-1077
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1077ccs010918.pdf
@@ -11284,17 +10876,17 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1080ccs03-29-18.pdf
 * Issued Date: 2018-03-29
 * Codes (Parsed):
-  * 15.120: Responding to Bias Crimes and Incidents
   * 5.001: Standards and Duties
+  * 15.120: Responding to Bias Crimes and Incidents
   * 5.140: Bias-Free Policing
 
 ### 2017OPA-1081
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1081ccs04-07-18.pdf
 * Issued Date: 2018-04-07
 * Codes (Parsed):
-  * 15.180: Primary Investigations
   * 5.001: Standards and Duties
   * 15.260: Collision Investigations
+  * 15.180: Primary Investigations
 
 ### 2017OPA-1087
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1087ccs03-22-18.pdf
@@ -11312,8 +10904,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1091ccs041318.pdf
 * Issued Date: 2018-04-03
 * Codes (Parsed):
-  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
+  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
   * 5.140: Bias-Free Policing
 
 ### 2017OPA-1096
@@ -11333,19 +10925,19 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1101ccs040518.pdf
 * Issued Date: 2018-04-05
 * Codes (Parsed):
-  * 15.180: Primary Investigations
-  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
-  * 13.031: Vehicle Eluding/Pursuits
   * 13.030: Emergency Vehicle Operations
-  * 6.220: Voluntary Contacts, Terry Stops & Detentions
+  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
   * 5.001: Standards and Duties
+  * 15.180: Primary Investigations
+  * 6.220: Voluntary Contacts, Terry Stops & Detentions
+  * 13.031: Vehicle Eluding/Pursuits
 
 ### 2017OPA-1102
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1102ccs03-08-18.pdf
 * Issued Date: 2018-03-08
 * Codes (Parsed):
-  * 6.010: Arrests
   * 5.001: Standards and Duties
+  * 6.010: Arrests
 
 ### 2017OPA-1103
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1103ccs04-21-18.pdf
@@ -11358,9 +10950,9 @@
 * Issued Date: 2018-06-22
 * Codes (Parsed):
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
+  * 5.001: Standards and Duties
   * 8.400: Use of Force Reporting and Investigation
   * 8.200: Using Force
-  * 5.001: Standards and Duties
 
 ### 2017OPA-1106
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1106ccs04-21-18.pdf
@@ -11370,17 +10962,17 @@
   * 5.100: Operations Bureau Individual Responsibilities
 
 ### 2017OPA-1107
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1108ccs01-10-18.pdf
+* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1107ccs03-24-18.pdf
 * Issued Date: 2018-03-24
 * Codes (Parsed):
-  * 5.740 (Not found: Might be an OCR error, see the linked PDF)
-  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
+  * 5.140: Bias-Free Policing
 
 ### 2017OPA-1109
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1121ccs041018.pdf
+* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1109ccs04-05-18.pdf
 * Issued Date: 2018-04-05
 * Codes (Parsed):
-  * 5.007 (Not found: Might be an OCR error, see the linked PDF)
+  * 8.200: Using Force
+  * 5.001: Standards and Duties
 
 ### 2017OPA-1123
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1123ccs041318.pdf
@@ -11412,28 +11004,28 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1128ccs04-26-18.pdf
 * Issued Date: 2018-04-26
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 5.001: Standards and Duties
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2017OPA-1131
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1132ccs03-17-18.pdf
+* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1131ccs033018.pdf
 * Issued Date: 2018-03-30
 * Codes (Parsed):
-  * 5.007 (Not found: Might be an OCR error, see the linked PDF)
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2017OPA-1138
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1138ccs03-16-18.pdf
 * Issued Date: 2018-03-16
 * Codes (Parsed):
-  * 15.180: Primary Investigations
   * 12.080: Disclosure of Department Records 
+  * 15.180: Primary Investigations
 
 ### 2017OPA-1143
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1143ccs05-01-18.pdf
 * Issued Date: 2018-05-01
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 15.260: Collision Investigations
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2017OPA-1151
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1151ccs03-31-18.pdf
@@ -11450,13 +11042,6 @@
 ### 2017OPA-1154
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1154ccs04-03-18.pdf
 * Issued Date: 2018-04-03
-* Codes (Parsed):
-  * 6.220: Voluntary Contacts, Terry Stops & Detentions
-  * 5.001: Standards and Duties
-
-### 2017OPA-1155
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1155ccs05-04-18.pdf
-* Issued Date: 2018-05-04
 * Codes (Parsed):
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
   * 5.001: Standards and Duties
@@ -11496,8 +11081,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1165ccs05-01-18.pdf
 * Issued Date: 2018-05-01
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
   * 8.200: Using Force
+  * 8.400: Use of Force Reporting and Investigation
 
 ### 2017OPA-1166
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1166ccs04-26-18.pdf
@@ -11551,7 +11136,7 @@
   * 8.200: Using Force
 
 ### 2017OPA-1195
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1196ccs05-14-18.pdf
+* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1195ccs05-15-18.pdf
 * Issued Date: 2018-05-15
 * Codes (Parsed):
   * 5.001: Standards and Duties
@@ -11566,8 +11151,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1202ccs060818.pdf
 * Issued Date: 2018-06-04
 * Codes (Parsed):
-  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
   * 5.001: Standards and Duties
+  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
   * 5.140: Bias-Free Policing
 
 ### 2017OPA-1204
@@ -11586,24 +11171,25 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1208ccs05-08-18.pdf
 * Issued Date: 2018-05-08
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
-  * 8.400: Use of Force Reporting and Investigation
   * 8.200: Using Force
   * 8.100: De-Escalation
+  * 8.400: Use of Force Reporting and Investigation
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2017OPA-1213
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1213ccs05-08-18.pdf
 * Issued Date: 2018-05-08
 * Codes (Parsed):
-  * 6.180: Searches-General
-  * 8.200: Using Force
   * 5.001: Standards and Duties
+  * 8.200: Using Force
+  * 6.180: Searches-General
   * 5.140: Bias-Free Policing
 
 ### 2017OPA-1216
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1218ccs092618.pdf
+* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1216ccs05-15-18.pdf
 * Issued Date: 2018-05-15
 * Codes (Parsed):
+  * 5.001: Standards and Duties
   * 8.200: Using Force
 
 ### 2017OPA-1222
@@ -11630,8 +11216,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1230ccs042418.pdf
 * Issued Date: 2018-04-24
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
   * 8.200: Using Force
+  * 8.400: Use of Force Reporting and Investigation
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
 
 ### 2017OPA-1233
@@ -11700,25 +11286,25 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1274ccs06-11-18.pdf
 * Issued Date: 2018-06-11
 * Codes (Parsed):
-  * 15.410: Domestic Violence Investigation
   * 5.001: Standards and Duties
+  * 15.410: Domestic Violence Investigation
   * 5.140: Bias-Free Policing
 
 ### 2017OPA-1275
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1275ccs06-11-18.pdf
 * Issued Date: 2018-06-11
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 5.001: Standards and Duties
   * 15.260: Collision Investigations
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2017OPA-1277
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1277ccs06-04-18.pdf
 * Issued Date: 2018-06-04
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
   * 8.200: Using Force
   * 5.001: Standards and Duties
+  * 8.400: Use of Force Reporting and Investigation
   * 5.140: Bias-Free Policing
 
 ### 2017OPA-1278
@@ -11745,10 +11331,10 @@
 * Issued Date: 2018-06-05
 * Codes (Parsed):
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
-  * 6.220: Voluntary Contacts, Terry Stops & Detentions
-  * 6.010: Arrests
-  * 8.200: Using Force
   * 5.001: Standards and Duties
+  * 6.220: Voluntary Contacts, Terry Stops & Detentions
+  * 8.200: Using Force
+  * 6.010: Arrests
   * 5.140: Bias-Free Policing
 
 ### 2017OPA-1284
@@ -11761,18 +11347,16 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1287ccs06-04-18.pdf
 * Issued Date: 2018-06-04
 * Codes (Parsed):
-  * 4.040: Sick Leave
-  * 5.001: Standards and Duties
   * 4.010: Employee Time Off
+  * 5.001: Standards and Duties
+  * 4.040: Sick Leave
 
 ### 2017OPA-1288
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1289ccs06-25-18.pdf
+* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1288ccs060418.pdf
 * Issued Date: 2018-06-04
 * Codes (Parsed):
-  * 5.740 (Not found: Might be an OCR error, see the linked PDF)
-  * 8.400: Use of Force Reporting and Investigation
-  * 8.200: Using Force
-  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
+  * 11.050: Detainee Property
+  * 5.001: Standards and Duties
 
 ### 2017OPA-1291
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1291ccs05-31-18.pdf
@@ -11784,8 +11368,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1294ccs08-15-18.pdf
 * Issued Date: 2018-08-15
 * Codes (Parsed):
-  * 4.100: Family and Medical Leave
   * 5.001: Standards and Duties
+  * 4.100: Family and Medical Leave
 
 ### 2017OPA-1295
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1295ccs04-11-18.pdf
@@ -11812,10 +11396,10 @@
   * 5.140: Bias-Free Policing
 
 ### 2017OPA-1299
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1301ccs04-04-18.pdf
+* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1299ccs05-23-18.pdf
 * Issued Date: 2018-05-23
 * Codes (Parsed):
-  * 76.090 (Not found: Might be an OCR error, see the linked PDF)
+  * 8.200: Using Force
 
 ### 2017OPA-1303
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1303ccs05-23-18.pdf
@@ -11827,15 +11411,15 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1306ccs061218.pdf
 * Issued Date: 2018-06-12
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
   * 8.200: Using Force
+  * 8.400: Use of Force Reporting and Investigation
 
 ### 2017OPA-1308
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1308ccs06-22-18.pdf
 * Issued Date: 2018-06-22
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
   * 8.200: Using Force
+  * 8.400: Use of Force Reporting and Investigation
 
 ### 2017OPA-1312
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1312ccs06-24-18.pdf
@@ -11861,8 +11445,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1323ccs062118.pdf
 * Issued Date: 2018-06-21
 * Codes (Parsed):
-  * 5.001: Standards and Duties
   * 4.010: Employee Time Off
+  * 5.001: Standards and Duties
 
 ### 2017OPA-1324
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1324ccs110918.pdf
@@ -11881,8 +11465,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1327ccs06-11-18.pdf
 * Issued Date: 2018-06-11
 * Codes (Parsed):
-  * 15.410: Domestic Violence Investigation
   * 5.001: Standards and Duties
+  * 15.410: Domestic Violence Investigation
   * 5.140: Bias-Free Policing
 
 ### 2018OPA-0006
@@ -11901,8 +11485,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0010ccs070218.pdf
 * Issued Date: 2018-06-20
 * Codes (Parsed):
-  * 5.120: Off-Duty Employment
   * 5.001: Standards and Duties
+  * 5.120: Off-Duty Employment
 
 ### 2018OPA-0011
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0011ccs05-03-18.pdf
@@ -11914,20 +11498,13 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0013ccs011919.pdf
 * Issued Date: 2019-01-19
 * Codes (Parsed):
+  * 5.001: Standards and Duties
   * 13.010: Collisions Involving Department Vehicles
   * 13.030: Emergency Vehicle Operations
-  * 5.001: Standards and Duties
 
 ### 2018OPA-0014
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0014ccs06-12-18.pdf
 * Issued Date: 2018-06-12
-* Codes (Parsed):
-  * 5.001: Standards and Duties
-  * 5.140: Bias-Free Policing
-
-### 2018OPA-0016
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0016ccs061818.pdf
-* Issued Date: 2018-06-18
 * Codes (Parsed):
   * 5.001: Standards and Duties
   * 5.140: Bias-Free Policing
@@ -12036,8 +11613,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0053ccs06-23-18.pdf
 * Issued Date: 2018-06-23
 * Codes (Parsed):
-  * 6.180: Searches-General
   * 5.001: Standards and Duties
+  * 6.180: Searches-General
 
 ### 2018OPA-0054
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0054ccs062018.pdf
@@ -12062,25 +11639,25 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0061ccs071518.pdf
 * Issued Date: 2018-07-15
 * Codes (Parsed):
-  * 8.300: Use of Force Tools
   * 8.200: Using Force
+  * 8.300: Use of Force Tools
   * 8.100: De-Escalation
 
 ### 2018OPA-0062
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0062ccs070318.pdf
 * Issued Date: 2018-07-03
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
   * 5.001: Standards and Duties
+  * 16.090: In-Car and Body-Worn Video
   * 5.140: Bias-Free Policing
 
 ### 2018OPA-0063
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0063ccs07-06-18.pdf
 * Issued Date: 2018-07-06
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
   * 8.200: Using Force
+  * 8.400: Use of Force Reporting and Investigation
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
 
 ### 2018OPA-0064
@@ -12094,40 +11671,40 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0065ccs101918.pdf
 * Issued Date: 2018-10-19
 * Codes (Parsed):
-  * 10.020: Physical Security of Police Facilities
   * 5.001: Standards and Duties
+  * 10.020: Physical Security of Police Facilities
 
 ### 2018OPA-0067
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0067ccs07-16-18.pdf
 * Issued Date: 2018-07-16
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
-  * 16.090: In-Car and Body-Worn Video
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
   * 8.200: Using Force
+  * 8.400: Use of Force Reporting and Investigation
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2018OPA-0069
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0069ccs10-07-18.pdf
 * Issued Date: 2018-10-07
 * Codes (Parsed):
-  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
-  * 8.400: Use of Force Reporting and Investigation
   * 8.200: Using Force
+  * 8.400: Use of Force Reporting and Investigation
+  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
   * 5.140: Bias-Free Policing
 
 ### 2018OPA-0072
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0072ccs07-16-18.pdf
 * Issued Date: 2018-07-16
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2018OPA-0074
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0074ccs07-18-18.pdf
 * Issued Date: 2018-07-18
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 13.030: Emergency Vehicle Operations
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2018OPA-0075
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0075ccs071718.pdf
@@ -12154,18 +11731,18 @@
 * Issued Date: 2018-07-12
 * Codes (Parsed):
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
-  * 6.010: Arrests
   * 8.200: Using Force
   * 5.001: Standards and Duties
+  * 6.010: Arrests
 
 ### 2018OPA-0081
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0081ccs10-09-19.pdf
 * Issued Date: 2019-10-09
 * Codes (Parsed):
+  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
+  * 5.001: Standards and Duties
   * 6.010: Arrests
   * 15.400 (Not found: Might be an OCR error, see the linked PDF)
-  * 5.001: Standards and Duties
-  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
 
 ### 2018OPA-0084
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0084ccs07-20-18.pdf
@@ -12195,8 +11772,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0094ccs07-23-18.pdf
 * Issued Date: 2018-07-23
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 9.030: Equipment
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2018OPA-0101
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0101ccs061618.pdf
@@ -12234,10 +11811,10 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0113ccs07-31-18.pdf
 * Issued Date: 2018-07-31
 * Codes (Parsed):
+  * 5.001: Standards and Duties
   * 15.180: Primary Investigations
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
   * 8.200: Using Force
-  * 5.001: Standards and Duties
   * 5.140: Bias-Free Policing
 
 ### 2018OPA-0114
@@ -12258,18 +11835,9 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0117ccs07-20-18.pdf
 * Issued Date: 2018-07-20
 * Codes (Parsed):
-  * 8.200: Using Force
   * 5.001: Standards and Duties
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
-
-### 2018OPA-0118
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0118ccs072718.pdf
-* Issued Date: 2018-07-20
-* Codes (Parsed):
-  * 6.070 (Not found: Might be an OCR error, see the linked PDF)
-  * 5.007 (Not found: Might be an OCR error, see the linked PDF)
-  * 6.220: Voluntary Contacts, Terry Stops & Detentions
-  * 6.780 (Not found: Might be an OCR error, see the linked PDF)
+  * 8.200: Using Force
 
 ### 2018OPA-0119
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0119ccs08-01-18.pdf
@@ -12297,10 +11865,10 @@
   * 5.001: Standards and Duties
 
 ### 2018OPA-0127
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0129ccs073018.pdf
+* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0127ccs072718.pdf
 * Issued Date: 2018-07-27
 * Codes (Parsed):
-  * 76.090 (Not found: Might be an OCR error, see the linked PDF)
+  * 8.200: Using Force
 
 ### 2018OPA-0130
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0130ccs10-09-19.pdf
@@ -12367,26 +11935,20 @@
 * Codes (Parsed):
   * 8.200: Using Force
 
-### 2018OPA-0147
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0147ccs111318.pdf
-* Issued Date: 2018-11-13
-* Codes (Parsed):
-  * 8.200: Using Force
-
 ### 2018OPA-0153
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0153ccs08-12-18.pdf
 * Issued Date: 2018-08-12
 * Codes (Parsed):
-  * 8.300: Use of Force Tools
   * 8.200: Using Force
+  * 8.300: Use of Force Tools
   * 8.100: De-Escalation
 
 ### 2018OPA-0156
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0156ccs08-03-18.pdf
 * Issued Date: 2018-08-03
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 5.001: Standards and Duties
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2018OPA-0157
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0157ccs08-03-18.pdf
@@ -12399,11 +11961,11 @@
 * Issued Date: 2018-08-14
 * Codes (Parsed):
   * 8.300: Use of Force Tools
-  * 13.031: Vehicle Eluding/Pursuits
-  * 6.010: Arrests
-  * 8.200: Using Force
   * 5.001: Standards and Duties
+  * 8.200: Using Force
+  * 13.031: Vehicle Eluding/Pursuits
   * 16.090: In-Car and Body-Worn Video
+  * 6.010: Arrests
 
 ### 2018OPA-0164
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0164ccs061418.pdf
@@ -12460,8 +12022,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0175ccs081018.pdf
 * Issued Date: 2018-08-07
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
   * 8.200: Using Force
+  * 8.400: Use of Force Reporting and Investigation
 
 ### 2018OPA-0177
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0177ccs07-25-18.pdf
@@ -12486,18 +12048,18 @@
 * Issued Date: 2018-07-27
 * Codes (Parsed):
   * 8.300: Use of Force Tools
-  * 8.400: Use of Force Reporting and Investigation
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
-  * 8.200: Using Force
   * 8.500: Reviewing Use of Force
+  * 8.400: Use of Force Reporting and Investigation
+  * 8.200: Using Force
 
 ### 2018OPA-0189
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0189ccs09-25-18.pdf
 * Issued Date: 2018-09-25
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
-  * 8.200: Using Force
   * 5.125: Social Media
+  * 8.200: Using Force
+  * 8.400: Use of Force Reporting and Investigation
 
 ### 2018OPA-0190
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0190ccs081718.pdf
@@ -12530,8 +12092,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0198ccs07-23-18.pdf
 * Issued Date: 2018-07-23
 * Codes (Parsed):
-  * 13.031: Vehicle Eluding/Pursuits
   * 5.001: Standards and Duties
+  * 13.031: Vehicle Eluding/Pursuits
 
 ### 2018OPA-0199
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0199ccs08-21-18.pdf
@@ -12543,17 +12105,17 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0201ccs11-18-18.pdf
 * Issued Date: 2018-11-18
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
-  * 6.180: Searches-General
   * 5.001: Standards and Duties
+  * 6.180: Searches-General
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2018OPA-0210
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0210ccs08-29-18.pdf
 * Issued Date: 2018-08-29
 * Codes (Parsed):
-  * 6.180: Searches-General
   * 8.200: Using Force
   * 5.001: Standards and Duties
+  * 6.180: Searches-General
 
 ### 2018OPA-0211
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0211ccs08-28-18.pdf
@@ -12572,8 +12134,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0213ccs08-27-18.pdf
 * Issued Date: 2018-08-27
 * Codes (Parsed):
-  * 15.180: Primary Investigations
   * 5.001: Standards and Duties
+  * 15.180: Primary Investigations
 
 ### 2018OPA-0215
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0215ccs09-27-18.pdf
@@ -12598,23 +12160,23 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0222ccs08-28-18.pdf
 * Issued Date: 2018-08-28
 * Codes (Parsed):
-  * 16.230: Issuing Tickets and Traffic Contact Reports
   * 5.001: Standards and Duties
+  * 16.230: Issuing Tickets and Traffic Contact Reports
   * 5.140: Bias-Free Policing
 
 ### 2018OPA-0223
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0223ccs09-05-18.pdf
 * Issued Date: 2018-09-05
 * Codes (Parsed):
-  * 6.180: Searches-General
   * 5.001: Standards and Duties
+  * 6.180: Searches-General
 
 ### 2018OPA-0225
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0225ccs09-03-18.pdf
 * Issued Date: 2018-09-03
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
+  * 16.090: In-Car and Body-Worn Video
   * 6.010: Arrests
   * 5.140: Bias-Free Policing
 
@@ -12635,40 +12197,32 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0231ccs063018.pdf
 * Issued Date: 2018-06-30
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
   * 8.200: Using Force
+  * 8.400: Use of Force Reporting and Investigation
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
 
 ### 2018OPA-0235
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0235ccs031919.pdf
 * Issued Date: 2019-03-19
 * Codes (Parsed):
-  * 8.300: Use of Force Tools
   * 8.200: Using Force
+  * 8.300: Use of Force Tools
   * 5.001: Standards and Duties
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
-
-### 2018OPA-0237
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0237ccs121118.pdf
-* Issued Date: 2019-03-19
-* Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
-  * 6.010: Arrests
-  * 5.140: Bias-Free Policing
 
 ### 2018OPA-0238
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0238ccs100118.pdf
 * Issued Date: 2018-10-01
 * Codes (Parsed):
   * 8.300: Use of Force Tools
-  * 15.180: Primary Investigations
-  * 8.400: Use of Force Reporting and Investigation
-  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
-  * 13.031: Vehicle Eluding/Pursuits
   * 13.030: Emergency Vehicle Operations
+  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
+  * 5.001: Standards and Duties
+  * 8.400: Use of Force Reporting and Investigation
+  * 15.180: Primary Investigations
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
   * 8.200: Using Force
-  * 5.001: Standards and Duties
+  * 13.031: Vehicle Eluding/Pursuits
   * 16.090: In-Car and Body-Worn Video
 
 ### 2018OPA-0239
@@ -12699,34 +12253,34 @@
 * Issued Date: 2018-09-07
 * Codes (Parsed):
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
-  * 6.180: Searches-General
-  * 6.010: Arrests
   * 5.001: Standards and Duties
+  * 6.010: Arrests
+  * 6.180: Searches-General
 
 ### 2018OPA-0245
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0245ccs071619.pdf
 * Issued Date: 2019-07-16
 * Codes (Parsed):
   * 8.300: Use of Force Tools
-  * 8.400: Use of Force Reporting and Investigation
-  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
   * 8.100: De-Escalation
-  * 5.170: Alcohol and Substance Use
-  * 6.220: Voluntary Contacts, Terry Stops & Detentions
-  * 6.010: Arrests
-  * 8.200: Using Force
+  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
   * 5.001: Standards and Duties
+  * 8.400: Use of Force Reporting and Investigation
+  * 6.220: Voluntary Contacts, Terry Stops & Detentions
+  * 8.200: Using Force
+  * 6.010: Arrests
+  * 5.170: Alcohol and Substance Use
 
 ### 2018OPA-0247
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0247ccs101418.pdf
 * Issued Date: 2018-11-19
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
-  * 8.100: De-Escalation
-  * 8.200: Using Force
-  * 5.001: Standards and Duties
-  * 16.090: In-Car and Body-Worn Video
   * 16.110: Crisis Intervention
+  * 8.100: De-Escalation
+  * 5.001: Standards and Duties
+  * 8.400: Use of Force Reporting and Investigation
+  * 8.200: Using Force
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2018OPA-0248
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0248ccs09-10-18.pdf
@@ -12738,9 +12292,9 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0250ccs081418.pdf
 * Issued Date: 2018-08-14
 * Codes (Parsed):
-  * 6.180: Searches-General
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
   * 5.001: Standards and Duties
+  * 6.180: Searches-General
   * 5.140: Bias-Free Policing
 
 ### 2018OPA-0252
@@ -12753,24 +12307,17 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0255ccs07-24-18.pdf
 * Issued Date: 2018-07-24
 * Codes (Parsed):
-  * 6.010: Arrests
   * 5.001: Standards and Duties
-
-### 2018OPA-0256
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0256ccs09-10-18.pdf
-* Issued Date: 2018-09-10
-* Codes (Parsed):
   * 6.010: Arrests
-  * 5.001: Standards and Duties
 
 ### 2018OPA-0258
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0258ccs091718.pdf
 * Issued Date: 2018-09-17
 * Codes (Parsed):
-  * 11.030: Guarding Detainees at a Hospital
-  * 8.400: Use of Force Reporting and Investigation
-  * 6.010: Arrests
   * 8.200: Using Force
+  * 6.010: Arrests
+  * 8.400: Use of Force Reporting and Investigation
+  * 11.030: Guarding Detainees at a Hospital
 
 ### 2018OPA-0259
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0259ccs08-29-18.pdf
@@ -12782,13 +12329,13 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0260ccs10-05-18.pdf
 * Issued Date: 2018-10-05
 * Codes (Parsed):
-  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
-  * 6.220: Voluntary Contacts, Terry Stops & Detentions
   * 16.230: Issuing Tickets and Traffic Contact Reports
-  * 8.200: Using Force
+  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
   * 5.001: Standards and Duties
-  * 5.140: Bias-Free Policing
+  * 6.220: Voluntary Contacts, Terry Stops & Detentions
+  * 8.200: Using Force
   * 16.090: In-Car and Body-Worn Video
+  * 5.140: Bias-Free Policing
 
 ### 2018OPA-0266
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0266ccs09-10-18.pdf
@@ -12852,8 +12399,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0300ccs09-17-18.pdf
 * Issued Date: 2018-09-17
 * Codes (Parsed):
-  * 15.180: Primary Investigations
   * 5.001: Standards and Duties
+  * 15.180: Primary Investigations
   * 5.140: Bias-Free Policing
 
 ### 2018OPA-0301
@@ -12892,10 +12439,10 @@
 * Issued Date: 2018-10-17
 * Codes (Parsed):
   * 8.300: Use of Force Tools
-  * 8.400: Use of Force Reporting and Investigation
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
-  * 8.200: Using Force
   * 5.001: Standards and Duties
+  * 8.400: Use of Force Reporting and Investigation
+  * 8.200: Using Force
   * 16.090: In-Car and Body-Worn Video
 
 ### 2018OPA-0317
@@ -12908,17 +12455,17 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0318ccs121918.pdf
 * Issued Date: 2018-10-19
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
-  * 6.010: Arrests
   * 5.001: Standards and Duties
   * 16.110: Crisis Intervention
+  * 6.010: Arrests
+  * 8.400: Use of Force Reporting and Investigation
 
 ### 2018OPA-0319
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0319ccs09-15-18.pdf
 * Issued Date: 2018-09-15
 * Codes (Parsed):
-  * 8.100: De-Escalation
   * 8.200: Using Force
+  * 8.100: De-Escalation
   * 5.001: Standards and Duties
 
 ### 2018OPA-0320
@@ -12971,8 +12518,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0334ccs10-05-18.pdf
 * Issued Date: 2018-10-05
 * Codes (Parsed):
-  * 8.100: De-Escalation
   * 8.200: Using Force
+  * 8.100: De-Escalation
   * 5.001: Standards and Duties
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
 
@@ -13026,8 +12573,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0347ccs10-06-18.pdf
 * Issued Date: 2018-10-06
 * Codes (Parsed):
-  * 15.180: Primary Investigations
   * 5.001: Standards and Duties
+  * 15.180: Primary Investigations
   * 5.140: Bias-Free Policing
 
 ### 2018OPA-0349
@@ -13047,13 +12594,13 @@
 * Issued Date: 2018-10-15
 * Codes (Parsed):
   * 7.150: Non-Detainee Property for Safekeeping
+  * 5.001: Standards and Duties
   * 8.400: Use of Force Reporting and Investigation
-  * 6.180: Searches-General
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
   * 8.200: Using Force
-  * 5.001: Standards and Duties
-  * 1.020: Chain of Command
+  * 6.180: Searches-General
   * 16.090: In-Car and Body-Worn Video
+  * 1.020: Chain of Command
 
 ### 2018OPA-0354
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0354ccs10-15-18.pdf
@@ -13065,9 +12612,9 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0356ccs04-19-18.pdf
 * Issued Date: 2018-10-20
 * Codes (Parsed):
-  * 8.200: Using Force
   * 5.001: Standards and Duties
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
+  * 8.200: Using Force
 
 ### 2018OPA-0357
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0357ccs10-23-18.pdf
@@ -13104,9 +12651,9 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0377ccs10-22-18.pdf
 * Issued Date: 2018-10-22
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
-  * 9.010: Employee Dress Standards
   * 5.001: Standards and Duties
+  * 9.010: Employee Dress Standards
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2018OPA-0378
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0378ccs09-14-18.pdf
@@ -13118,8 +12665,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0379ccs10-27-18.pdf
 * Issued Date: 2018-10-27
 * Codes (Parsed):
-  * 5.003: Front Line Investigations
   * 5.001: Standards and Duties
+  * 5.003: Front Line Investigations
 
 ### 2018OPA-0390
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0390ccs10-22-18.pdf
@@ -13132,18 +12679,18 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0394ccs09-08-18.pdf
 * Issued Date: 2018-09-08
 * Codes (Parsed):
-  * 15.410: Domestic Violence Investigation
   * 5.001: Standards and Duties
   * 15.080: Follow up Unit Notification & Follow up Investigation
+  * 15.410: Domestic Violence Investigation
 
 ### 2018OPA-0396
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0396ccs103118.pdf
 * Issued Date: 2018-10-21
 * Codes (Parsed):
-  * 8.300: Use of Force Tools
-  * 8.400: Use of Force Reporting and Investigation
   * 8.200: Using Force
+  * 8.300: Use of Force Tools
   * 5.001: Standards and Duties
+  * 8.400: Use of Force Reporting and Investigation
 
 ### 2018OPA-0399
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0399ccs10-22-18.pdf
@@ -13187,9 +12734,9 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0413ccs11-06-18.pdf
 * Issued Date: 2018-11-06
 * Codes (Parsed):
-  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
-  * 6.010: Arrests
   * 8.200: Using Force
+  * 6.010: Arrests
+  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
   * 5.140: Bias-Free Policing
 
 ### 2018OPA-0414
@@ -13209,16 +12756,16 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0416ccs04-19-19.pdf
 * Issued Date: 2019-06-04
 * Codes (Parsed):
-  * 6.130: Informant Management
   * 5.001: Standards and Duties
+  * 6.130: Informant Management
 
 ### 2018OPA-0417
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0417ccs112118.pdf
 * Issued Date: 2018-11-21
 * Codes (Parsed):
-  * 6.180: Searches-General
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
   * 8.200: Using Force
+  * 6.180: Searches-General
 
 ### 2018OPA-0418
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0418ccs110818.pdf
@@ -13232,8 +12779,8 @@
 * Codes (Parsed):
   * 11.030: Guarding Detainees at a Hospital
   * 8.400: Use of Force Reporting and Investigation
-  * 8.200: Using Force
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
+  * 8.200: Using Force
 
 ### 2018OPA-0428
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0428ccs09-15-18.pdf
@@ -13245,19 +12792,19 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0429ccs102619.pdf
 * Issued Date: 2018-10-26
 * Codes (Parsed):
+  * 13.080: Use of Department Vehicles
+  * 5.001: Standards and Duties
   * 13.010: Collisions Involving Department Vehicles
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
-  * 5.001: Standards and Duties
-  * 13.080: Use of Department Vehicles
 
 ### 2018OPA-0430
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0430ccs11-07-18.pdf
 * Issued Date: 2018-11-07
 * Codes (Parsed):
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
-  * 5.120: Off-Duty Employment
   * 5.001: Standards and Duties
   * 8.100: De-Escalation
+  * 5.120: Off-Duty Employment
 
 ### 2018OPA-0431
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0431ccs11-06-18.pdf
@@ -13307,16 +12854,16 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0460ccs080518.pdf
 * Issued Date: 2018-08-05
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
   * 8.200: Using Force
+  * 8.400: Use of Force Reporting and Investigation
 
 ### 2018OPA-0461
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0461ccs112418.pdf
 * Issued Date: 2018-11-24
 * Codes (Parsed):
-  * 5.140: Bias-Free Policing
   * 5.001: Standards and Duties
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
+  * 5.140: Bias-Free Policing
 
 ### 2018OPA-0467
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0467ccs110618.pdf
@@ -13334,8 +12881,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0471ccs11-05-18.pdf
 * Issued Date: 2018-11-05
 * Codes (Parsed):
-  * 5.140: Bias-Free Policing
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
+  * 5.140: Bias-Free Policing
 
 ### 2018OPA-0477
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0477ccs11-23-18.pdf
@@ -13347,17 +12894,17 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0479ccs101419.pdf
 * Issued Date: 2019-10-14
 * Codes (Parsed):
-  * 5.001: Standards and Duties
-  * 8.400: Use of Force Reporting and Investigation
   * 8.200: Using Force
   * 8.100: De-Escalation
+  * 8.400: Use of Force Reporting and Investigation
+  * 5.001: Standards and Duties
 
 ### 2018OPA-0480
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0480ccs112318.pdf
 * Issued Date: 2018-11-23
 * Codes (Parsed):
-  * 6.180: Searches-General
   * 5.001: Standards and Duties
+  * 6.180: Searches-General
 
 ### 2018OPA-0482
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0482ccs111618.pdf
@@ -13394,9 +12941,9 @@
 * Issued Date: 2018-12-03
 * Codes (Parsed):
   * 5.001: Standards and Duties
-  * 1.020: Chain of Command
-  * 8.100: De-Escalation
   * 16.110: Crisis Intervention
+  * 8.100: De-Escalation
+  * 1.020: Chain of Command
 
 ### 2018OPA-0490
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0490ccs11-27-18.pdf
@@ -13470,8 +13017,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0505ccs112318.pdf
 * Issued Date: 2018-11-23
 * Codes (Parsed):
-  * 12.050: Criminal Justice Information Systems
   * 5.001: Standards and Duties
+  * 12.050: Criminal Justice Information Systems
 
 ### 2018OPA-0507
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0507ccs11-24-18.pdf
@@ -13551,9 +13098,9 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0547ccs121518.pdf
 * Issued Date: 2018-12-15
 * Codes (Parsed):
+  * 5.001: Standards and Duties
   * 15.360: Use of Mobile Fingerprint Identification Devices (Mobile IDs)
   * 1.020: Chain of Command
-  * 5.001: Standards and Duties
 
 ### 2018OPA-0548
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0548ccs112818.pdf
@@ -13565,11 +13112,11 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0552ccs012319.pdf
 * Issued Date: 2019-01-23
 * Codes (Parsed):
+  * 5.001: Standards and Duties
   * 8.400: Use of Force Reporting and Investigation
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
-  * 6.010: Arrests
   * 8.200: Using Force
-  * 5.001: Standards and Duties
+  * 6.010: Arrests
 
 ### 2018OPA-0553
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0553ccs123118.pdf
@@ -13581,8 +13128,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0554ccs121818.pdf
 * Issued Date: 2018-12-18
 * Codes (Parsed):
-  * 6.150: Advising Persons of Right to Counsel and Miranda
   * 5.001: Standards and Duties
+  * 6.150: Advising Persons of Right to Counsel and Miranda
 
 ### 2018OPA-0556
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0556ccs11-28-18.pdf
@@ -13609,9 +13156,9 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0563ccs121618.pdf
 * Issued Date: 2018-12-16
 * Codes (Parsed):
-  * 6.010: Arrests
   * 8.200: Using Force
   * 8.100: De-Escalation
+  * 6.010: Arrests
   * 5.140: Bias-Free Policing
 
 ### 2018OPA-0567
@@ -13624,8 +13171,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0570ccs020919.pdf
 * Issued Date: 2019-02-09
 * Codes (Parsed):
-  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
   * 8.200: Using Force
+  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
   * 5.140: Bias-Free Policing
 
 ### 2018OPA-0571
@@ -13634,13 +13181,6 @@
 * Codes (Parsed):
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
   * 5.140: Bias-Free Policing
-
-### 2018OPA-0577
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0577ccs121918.pdf
-* Issued Date: 2019-01-18
-* Codes (Parsed):
-  * 8.700 (Not found: Might be an OCR error, see the linked PDF)
-  * 8.200: Using Force
 
 ### 2018OPA-0581
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0581ccs121318.pdf
@@ -13653,9 +13193,9 @@
 * Issued Date: 2019-01-26
 * Codes (Parsed):
   * 8.300: Use of Force Tools
-  * 8.400: Use of Force Reporting and Investigation
-  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
   * 13.010: Collisions Involving Department Vehicles
+  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
+  * 8.400: Use of Force Reporting and Investigation
   * 13.031: Vehicle Eluding/Pursuits
   * 16.090: In-Car and Body-Worn Video
 
@@ -13688,10 +13228,10 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0596ccs052119.pdf
 * Issued Date: 2019-05-21
 * Codes (Parsed):
-  * 5.120: Off-Duty Employment
-  * 6.010: Arrests
   * 8.200: Using Force
   * 8.100: De-Escalation
+  * 6.010: Arrests
+  * 5.120: Off-Duty Employment
 
 ### 2018OPA-0597
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0597ccs121918.pdf
@@ -13703,8 +13243,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0599ccs122718.pdf
 * Issued Date: 2018-12-27
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 8.200: Using Force
+  * 16.090: In-Car and Body-Worn Video
   * 5.140: Bias-Free Policing
 
 ### 2018OPA-0602
@@ -13743,8 +13283,8 @@
 * Issued Date: 2018-12-27
 * Codes (Parsed):
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
-  * 6.010: Arrests
   * 8.200: Using Force
+  * 6.010: Arrests
 
 ### 2018OPA-0618
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0618ccs021619.pdf
@@ -13764,17 +13304,17 @@
 * Issued Date: 2018-12-18
 * Codes (Parsed):
   * 8.100: De-Escalation
+  * 5.001: Standards and Duties
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
   * 8.200: Using Force
-  * 5.001: Standards and Duties
   * 5.140: Bias-Free Policing
 
 ### 2018OPA-0622
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0622ccs11-24-18.pdf
 * Issued Date: 2018-11-24
 * Codes (Parsed):
-  * 8.300: Use of Force Tools
   * 8.200: Using Force
+  * 8.300: Use of Force Tools
 
 ### 2018OPA-0625
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0625ccs121718.pdf
@@ -13811,10 +13351,10 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0639ccs123118.pdf
 * Issued Date: 2018-12-31
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
   * 5.001: Standards and Duties
   * 16.110: Crisis Intervention
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2018OPA-0641
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0641ccs121818.pdf
@@ -13826,9 +13366,9 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0642ccs01-03-19.pdf
 * Issued Date: 2019-01-03
 * Codes (Parsed):
-  * 6.180: Searches-General
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
   * 5.001: Standards and Duties
+  * 6.180: Searches-General
   * 5.140: Bias-Free Policing
 
 ### 2018OPA-0643
@@ -13882,10 +13422,10 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0656ccs060519.pdf
 * Issued Date: 2019-06-05
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 8.200: Using Force
   * 5.001: Standards and Duties
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2018OPA-0659
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0659ccs123118.pdf
@@ -13923,8 +13463,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0678ccs040519.pdf
 * Issued Date: 2019-02-15
 * Codes (Parsed):
-  * 4.130: Military Leave
   * 5.001: Standards and Duties
+  * 4.130: Military Leave
   * 4.010: Employee Time Off
 
 ### 2018OPA-0682
@@ -13952,31 +13492,31 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0690ccs022119.pdf
 * Issued Date: 2019-02-21
 * Codes (Parsed):
-  * 6.180: Searches-General
   * 5.001: Standards and Duties
+  * 6.180: Searches-General
 
 ### 2018OPA-0691
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0691ccs01-28-19.pdf
 * Issued Date: 2019-01-28
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 5.001: Standards and Duties
+  * 16.090: In-Car and Body-Worn Video
   * 5.140: Bias-Free Policing
 
 ### 2018OPA-0694
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0694ccs01092019.pdf
 * Issued Date: 2019-01-09
 * Codes (Parsed):
-  * 15.180: Primary Investigations
-  * 6.185: Search Warrants
   * 5.001: Standards and Duties
+  * 6.185: Search Warrants
+  * 15.180: Primary Investigations
 
 ### 2018OPA-0698
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0698ccs01-18-19.pdf
 * Issued Date: 2019-01-18
 * Codes (Parsed):
-  * 12.050: Criminal Justice Information Systems
   * 5.001: Standards and Duties
+  * 12.050: Criminal Justice Information Systems
 
 ### 2018OPA-0701
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0701ccs01-20-19.pdf
@@ -13990,8 +13530,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0704ccs012019.pdf
 * Issued Date: 2019-01-20
 * Codes (Parsed):
-  * 8.100: De-Escalation
   * 5.001: Standards and Duties
+  * 8.100: De-Escalation
 
 ### 2018OPA-0705
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0705ccs01-15-19.pdf
@@ -14027,11 +13567,11 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0718ccs012619.pdf
 * Issued Date: 2019-01-26
 * Codes (Parsed):
+  * 7.010: Submitting Evidence
   * 7.150: Non-Detainee Property for Safekeeping
+  * 16.110: Crisis Intervention
   * 5.001: Standards and Duties
   * 1.020: Chain of Command
-  * 7.010: Submitting Evidence
-  * 16.110: Crisis Intervention
 
 ### 2018OPA-0719
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0719ccs02222019.pdf
@@ -14050,9 +13590,9 @@
 * Issued Date: 2019-01-29
 * Codes (Parsed):
   * 8.100: De-Escalation
-  * 6.180: Searches-General
-  * 6.220: Voluntary Contacts, Terry Stops & Detentions
   * 5.001: Standards and Duties
+  * 6.220: Voluntary Contacts, Terry Stops & Detentions
+  * 6.180: Searches-General
   * 5.140: Bias-Free Policing
 
 ### 2018OPA-0734
@@ -14079,10 +13619,10 @@
 * Issued Date: 2019-02-08
 * Codes (Parsed):
   * 8.300: Use of Force Tools
-  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
   * 8.100: De-Escalation
-  * 8.200: Using Force
+  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
   * 5.001: Standards and Duties
+  * 8.200: Using Force
 
 ### 2018OPA-0741
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0741ccs012219.pdf
@@ -14132,11 +13672,11 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0751ccs020319.pdf
 * Issued Date: 2019-02-03
 * Codes (Parsed):
+  * 5.001: Standards and Duties
   * 11.010: Detainee Management
+  * 8.200: Using Force
   * 11.020: Transportation of Detainees
   * 6.010: Arrests
-  * 8.200: Using Force
-  * 5.001: Standards and Duties
 
 ### 2018OPA-0752
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0752ccs010319.pdf
@@ -14155,17 +13695,17 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0757ccs02-02-19.pdf
 * Issued Date: 2019-02-02
 * Codes (Parsed):
+  * 5.001: Standards and Duties
   * 15.180: Primary Investigations
   * 16.090: In-Car and Body-Worn Video
-  * 5.001: Standards and Duties
 
 ### 2018OPA-0758
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0758ccs02-02-19.pdf
 * Issued Date: 2019-02-02
 * Codes (Parsed):
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
-  * 6.010: Arrests
   * 8.200: Using Force
+  * 6.010: Arrests
   * 5.140: Bias-Free Policing
 
 ### 2018OPA-0759
@@ -14186,8 +13726,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0765ccs122918.pdf
 * Issued Date: 2018-12-29
 * Codes (Parsed):
-  * 6.010: Arrests
   * 8.200: Using Force
+  * 6.010: Arrests
   * 5.140: Bias-Free Policing
 
 ### 2018OPA-0772
@@ -14209,26 +13749,26 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0776ccs012419.pdf
 * Issued Date: 2019-01-24
 * Codes (Parsed):
-  * 8.200: Using Force
   * 5.001: Standards and Duties
+  * 8.200: Using Force
 
 ### 2018OPA-0781
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0781ccs051619.pdf
 * Issued Date: 2019-05-16
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 9.060: Firearms
   * 9.020: Uniform
+  * 16.090: In-Car and Body-Worn Video
   * 5.140: Bias-Free Policing
 
 ### 2018OPA-0783
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0783ccs050219.pdf
 * Issued Date: 2019-05-02
 * Codes (Parsed):
+  * 5.001: Standards and Duties
   * 8.300: Use of Force Tools
   * 8.100: De-Escalation
   * 8.200: Using Force
-  * 5.001: Standards and Duties
 
 ### 2018OPA-0791
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0791ccs012419.pdf
@@ -14273,16 +13813,16 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0799ccs032919.pdf
 * Issued Date: 2019-02-02
 * Codes (Parsed):
-  * 15.180: Primary Investigations
-  * 16.090: In-Car and Body-Worn Video
   * 5.001: Standards and Duties
+  * 16.090: In-Car and Body-Worn Video
+  * 15.180: Primary Investigations
 
 ### 2018OPA-0806
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0806ccs021219.pdf
 * Issued Date: 2019-02-12
 * Codes (Parsed):
-  * 5.120: Off-Duty Employment
   * 5.001: Standards and Duties
+  * 5.120: Off-Duty Employment
 
 ### 2018OPA-0812
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0812ccs02-02-19.pdf
@@ -14296,9 +13836,9 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0813ccs020919.pdf
 * Issued Date: 2019-02-09
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 8.200: Using Force
   * 5.001: Standards and Duties
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2018OPA-0814
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0814ccs012619.pdf
@@ -14318,8 +13858,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0819ccs021019.pdf
 * Issued Date: 2019-02-10
 * Codes (Parsed):
-  * 5.140: Bias-Free Policing
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
+  * 5.140: Bias-Free Policing
 
 ### 2018OPA-0820
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0820ccs021219.pdf
@@ -14331,8 +13871,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0821ccs012419.pdf
 * Issued Date: 2019-01-24
 * Codes (Parsed):
-  * 6.010: Arrests
   * 8.200: Using Force
+  * 6.010: Arrests
   * 5.140: Bias-Free Policing
 
 ### 2018OPA-0822
@@ -14346,8 +13886,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0829ccs02072019.pdf
 * Issued Date: 2019-02-07
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 8.200: Using Force
+  * 16.090: In-Car and Body-Worn Video
   * 5.140: Bias-Free Policing
 
 ### 2018OPA-0830
@@ -14367,12 +13907,12 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0834ccs061319.pdf
 * Issued Date: 2019-06-13
 * Codes (Parsed):
-  * 15.180: Primary Investigations
-  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
   * 8.100: De-Escalation
+  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
+  * 5.001: Standards and Duties
+  * 15.180: Primary Investigations
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
   * 8.200: Using Force
-  * 5.001: Standards and Duties
   * 16.090: In-Car and Body-Worn Video
 
 ### 2018OPA-0837
@@ -14397,8 +13937,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0847ccs02222019.pdf
 * Issued Date: 2019-02-22
 * Codes (Parsed):
-  * 5.120: Off-Duty Employment
   * 5.001: Standards and Duties
+  * 5.120: Off-Duty Employment
 
 ### 2018OPA-0850
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0850ccs021819.pdf
@@ -14411,8 +13951,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0862ccs013119.pdf
 * Issued Date: 2019-01-31
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
   * 5.001: Standards and Duties
+  * 8.400: Use of Force Reporting and Investigation
 
 ### 2018OPA-0863
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0863ccs02-19-19.pdf
@@ -14437,10 +13977,10 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0872ccs01-27-19.pdf
 * Issued Date: 2019-01-27
 * Codes (Parsed):
+  * 5.001: Standards and Duties
   * 8.300: Use of Force Tools
   * 8.100: De-Escalation
   * 8.200: Using Force
-  * 5.001: Standards and Duties
 
 ### 2018OPA-0873
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0873ccs02-19-19.pdf
@@ -14489,17 +14029,17 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0890ccs030819.pdf
 * Issued Date: 2019-03-08
 * Codes (Parsed):
-  * 15.180: Primary Investigations
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
   * 5.001: Standards and Duties
   * 16.110: Crisis Intervention
+  * 15.180: Primary Investigations
 
 ### 2018OPA-0900
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0900ccs02222019.pdf
 * Issued Date: 2019-02-22
 * Codes (Parsed):
-  * 6.010: Arrests
   * 5.001: Standards and Duties
+  * 6.010: Arrests
   * 5.140: Bias-Free Policing
 
 ### 2018OPA-0901
@@ -14530,14 +14070,14 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0919ccs041219.pdf
 * Issued Date: 2019-04-12
 * Codes (Parsed):
-  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
-  * 13.030: Emergency Vehicle Operations
   * 8.100: De-Escalation
-  * 11.020: Transportation of Detainees
-  * 6.010: Arrests
+  * 13.030: Emergency Vehicle Operations
+  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
+  * 5.001: Standards and Duties
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
   * 8.200: Using Force
-  * 5.001: Standards and Duties
+  * 11.020: Transportation of Detainees
+  * 6.010: Arrests
   * 5.140: Bias-Free Policing
 
 ### 2018OPA-0921
@@ -14575,9 +14115,9 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0940ccs031719.pdf
 * Issued Date: 2019-03-17
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
-  * 8.200: Using Force
   * 5.140: Bias-Free Policing
+  * 8.200: Using Force
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2018OPA-0941
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0941ccs031019.pdf
@@ -14609,8 +14149,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0950ccs100119.pdf
 * Issued Date: 2019-10-01
 * Codes (Parsed):
-  * 15.410: Domestic Violence Investigation
   * 5.001: Standards and Duties
+  * 15.410: Domestic Violence Investigation
 
 ### 2018OPA-0960
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0960ccs121318.pdf
@@ -14629,8 +14169,8 @@
 * Issued Date: 2019-04-02
 * Codes (Parsed):
   * 5.120: Off-Duty Employment
-  * 6.220: Voluntary Contacts, Terry Stops & Detentions
   * 5.001: Standards and Duties
+  * 6.220: Voluntary Contacts, Terry Stops & Detentions
   * 13.080: Use of Department Vehicles
   * 4.070: Limited Duty Assignments
 
@@ -14657,8 +14197,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0980ccs02-20-19.pdf
 * Issued Date: 2019-02-20
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 13.030: Emergency Vehicle Operations
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2018OPA-0983
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0983ccs032119.pdf
@@ -14678,8 +14218,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0991ccs03-26-19.pdf
 * Issued Date: 2019-03-26
 * Codes (Parsed):
-  * 5.120: Off-Duty Employment
   * 5.001: Standards and Duties
+  * 5.120: Off-Duty Employment
 
 ### 2018OPA-0996
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0996ccs042319.pdf
@@ -14691,8 +14231,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0997ccs050919.pdf
 * Issued Date: 2019-05-09
 * Codes (Parsed):
-  * 5.001: Standards and Duties
   * 4.010: Employee Time Off
+  * 5.001: Standards and Duties
 
 ### 2018OPA-0998
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0998ccs04-27-19.pdf
@@ -14750,19 +14290,19 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1022ccs050119.pdf
 * Issued Date: 2019-05-01
 * Codes (Parsed):
-  * 15.180: Primary Investigations
-  * 15.410: Domestic Violence Investigation
   * 5.001: Standards and Duties
+  * 15.410: Domestic Violence Investigation
   * 5.100: Operations Bureau Individual Responsibilities
+  * 15.180: Primary Investigations
 
 ### 2018OPA-1023
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1023ccs03-01-19.pdf
 * Issued Date: 2019-03-01
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
-  * 5.140: Bias-Free Policing
   * 5.001: Standards and Duties
+  * 8.400: Use of Force Reporting and Investigation
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
+  * 5.140: Bias-Free Policing
 
 ### 2018OPA-1032
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1032ccs041019.pdf
@@ -14774,8 +14314,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1035ccs03-24-19.pdf
 * Issued Date: 2019-03-24
 * Codes (Parsed):
-  * 8.300: Use of Force Tools
   * 8.200: Using Force
+  * 8.300: Use of Force Tools
   * 8.100: De-Escalation
   * 5.140: Bias-Free Policing
 
@@ -14784,12 +14324,12 @@
 * Issued Date: 2019-07-30
 * Codes (Parsed):
   * 8.300: Use of Force Tools
-  * 8.400: Use of Force Reporting and Investigation
-  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
   * 8.100: De-Escalation
-  * 8.200: Using Force
+  * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
   * 5.001: Standards and Duties
   * 8.500: Reviewing Use of Force
+  * 8.400: Use of Force Reporting and Investigation
+  * 8.200: Using Force
 
 ### 2018OPA-1042
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1042ccs030419.pdf
@@ -14801,8 +14341,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1043ccs042619.pdf
 * Issued Date: 2019-04-26
 * Codes (Parsed):
-  * 13.010: Collisions Involving Department Vehicles
   * 5.001: Standards and Duties
+  * 13.010: Collisions Involving Department Vehicles
 
 ### 2018OPA-1044
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1044ccs042819.pdf
@@ -14839,8 +14379,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1062ccs043019.pdf
 * Issued Date: 2019-04-30
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 5.001: Standards and Duties
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2018OPA-1065
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1065ccs042419.pdf
@@ -14876,9 +14416,9 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1075ccs05-12-19.pdf
 * Issued Date: 2019-05-12
 * Codes (Parsed):
+  * 5.001: Standards and Duties
   * 15.180: Primary Investigations
   * 15.410: Domestic Violence Investigation
-  * 5.001: Standards and Duties
   * 16.090: In-Car and Body-Worn Video
   * 12.080: Disclosure of Department Records 
 
@@ -14917,8 +14457,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1088ccs070219.pdf
 * Issued Date: 2019-07-02
 * Codes (Parsed):
-  * 15.180: Primary Investigations
   * 6.010: Arrests
+  * 15.180: Primary Investigations
 
 ### 2018OPA-1091
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1091ccs050919.pdf
@@ -14931,8 +14471,8 @@
 * Issued Date: 2019-04-22
 * Codes (Parsed):
   * 15.180: Primary Investigations
-  * 6.010: Arrests
   * 15.170: Conducting Identification Procedures
+  * 6.010: Arrests
   * 5.140: Bias-Free Policing
 
 ### 2018OPA-1093
@@ -14945,8 +14485,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1095ccs041719.pdf
 * Issued Date: 2019-04-17
 * Codes (Parsed):
-  * 8.200: Using Force
   * 5.001: Standards and Duties
+  * 8.200: Using Force
   * 5.140: Bias-Free Policing
 
 ### 2018OPA-1096
@@ -14959,8 +14499,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1100ccs050719.pdf
 * Issued Date: 2019-05-07
 * Codes (Parsed):
-  * 15.180: Primary Investigations
   * 15.250: Interpreters/Translators
+  * 15.180: Primary Investigations
   * 5.140: Bias-Free Policing
 
 ### 2018OPA-1102
@@ -14979,8 +14519,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1107ccs050919.pdf
 * Issued Date: 2019-05-09
 * Codes (Parsed):
-  * 6.180: Searches-General
   * 5.001: Standards and Duties
+  * 6.180: Searches-General
 
 ### 2018OPA-1111
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1111ccs043019.pdf
@@ -14992,8 +14532,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1115ccs051019.pdf
 * Issued Date: 2019-05-10
 * Codes (Parsed):
-  * 6.010: Arrests
   * 6.120: Impounding Vehicles
+  * 6.010: Arrests
 
 ### 2018OPA-1121
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1121ccs051419.pdf
@@ -15024,23 +14564,23 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1134ccs053019.pdf
 * Issued Date: 2019-05-30
 * Codes (Parsed):
-  * 15.180: Primary Investigations
   * 5.001: Standards and Duties
+  * 15.180: Primary Investigations
   * 5.140: Bias-Free Policing
 
 ### 2018OPA-1139
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1139ccs051719.pdf
 * Issued Date: 2019-05-17
 * Codes (Parsed):
-  * 6.010: Arrests
   * 5.001: Standards and Duties
+  * 6.010: Arrests
 
 ### 2018OPA-1142
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1142ccs052119.pdf
 * Issued Date: 2019-05-21
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 5.001: Standards and Duties
+  * 16.090: In-Car and Body-Worn Video
   * 5.140: Bias-Free Policing
 
 ### 2018OPA-1146
@@ -15122,23 +14662,23 @@
 * Issued Date: 2019-05-23
 * Codes (Parsed):
   * 11.050: Detainee Property
-  * 6.010: Arrests
   * 8.200: Using Force
+  * 6.010: Arrests
 
 ### 2018OPA-1181
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1181ccs061819.pdf
 * Issued Date: 2019-06-18
 * Codes (Parsed):
   * 8.500: Reviewing Use of Force
-  * 6.180: Searches-General
   * 6.010: Arrests
+  * 6.180: Searches-General
 
 ### 2018OPA-1182
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1182ccs060419.pdf
 * Issued Date: 2019-06-04
 * Codes (Parsed):
-  * 12.010: Communications
   * 5.001: Standards and Duties
+  * 12.010: Communications
 
 ### 2018OPA-1183
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1183ccs051419.pdf
@@ -15181,10 +14721,10 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0008ccs06-19-19.pdf
 * Issued Date: 2019-06-19
 * Codes (Parsed):
-  * 5.010: Civil Actions
-  * 5.140: Bias-Free Policing
   * 5.001: Standards and Duties
+  * 5.010: Civil Actions
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
+  * 5.140: Bias-Free Policing
 
 ### 2019OPA-0011
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0011ccs060419.pdf
@@ -15217,9 +14757,9 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0025ccs051019.pdf
 * Issued Date: 2019-05-10
 * Codes (Parsed):
-  * 15.180: Primary Investigations
-  * 13.030: Emergency Vehicle Operations
   * 5.001: Standards and Duties
+  * 13.030: Emergency Vehicle Operations
+  * 15.180: Primary Investigations
 
 ### 2019OPA-0026
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0026ccs062519.pdf
@@ -15232,9 +14772,9 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0027ccs062519.pdf
 * Issued Date: 2019-06-25
 * Codes (Parsed):
+  * 5.001: Standards and Duties
   * 8.400: Use of Force Reporting and Investigation
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
-  * 5.001: Standards and Duties
   * 5.140: Bias-Free Policing
 
 ### 2019OPA-0030
@@ -15303,8 +14843,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0060ccs063019.pdf
 * Issued Date: 2019-06-30
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 16.230: Issuing Tickets and Traffic Contact Reports
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2019OPA-0061
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0061ccs052219.pdf
@@ -15322,16 +14862,16 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0069ccs072319.pdf
 * Issued Date: 2019-07-23
 * Codes (Parsed):
-  * 6.180: Searches-General
   * 8.200: Using Force
   * 8.100: De-Escalation
+  * 6.180: Searches-General
 
 ### 2019OPA-0070
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0070ccs072319.pdf
 * Issued Date: 2019-07-23
 * Codes (Parsed):
-  * 6.150: Advising Persons of Right to Counsel and Miranda
   * 8.200: Using Force
+  * 6.150: Advising Persons of Right to Counsel and Miranda
   * 5.140: Bias-Free Policing
 
 ### 2019OPA-0071
@@ -15358,9 +14898,9 @@
 * Issued Date: 2019-07-17
 * Codes (Parsed):
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
-  * 16.230: Issuing Tickets and Traffic Contact Reports
   * 5.001: Standards and Duties
   * 6.120: Impounding Vehicles
+  * 16.230: Issuing Tickets and Traffic Contact Reports
 
 ### 2019OPA-0076
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0076ccs071119.pdf
@@ -15392,8 +14932,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0093ccs073119.pdf
 * Issued Date: 2019-07-31
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 5.001: Standards and Duties
+  * 16.090: In-Car and Body-Worn Video
   * 5.140: Bias-Free Policing
 
 ### 2019OPA-0094
@@ -15424,9 +14964,9 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0102ccs072519.pdf
 * Issued Date: 2019-07-25
 * Codes (Parsed):
-  * 5.001: Standards and Duties
   * 8.200: Using Force
   * 8.100: De-Escalation
+  * 5.001: Standards and Duties
   * 5.140: Bias-Free Policing
 
 ### 2019OPA-0103
@@ -15439,8 +14979,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0105ccs082119.pdf
 * Issued Date: 2019-08-21
 * Codes (Parsed):
-  * 8.300: Use of Force Tools
   * 8.200: Using Force
+  * 8.300: Use of Force Tools
   * 5.001: Standards and Duties
 
 ### 2019OPA-0107
@@ -15478,15 +15018,15 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0131ccs081519.pdf
 * Issued Date: 2019-08-15
 * Codes (Parsed):
-  * 6.181: Performing Inventory Searches
   * 5.001: Standards and Duties
+  * 6.181: Performing Inventory Searches
 
 ### 2019OPA-0132
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0132ccs042919.pdf
 * Issued Date: 2019-04-29
 * Codes (Parsed):
-  * 6.010: Arrests
   * 8.200: Using Force
+  * 6.010: Arrests
 
 ### 2019OPA-0135
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0135ccs081319.pdf
@@ -15516,8 +15056,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0145ccs100819.pdf
 * Issued Date: 2019-10-08
 * Codes (Parsed):
-  * 6.180: Searches-General
   * 8.200: Using Force
+  * 6.180: Searches-General
 
 ### 2019OPA-0147
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0147ccs082219.pdf
@@ -15535,8 +15075,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0157ccs083119.pdf
 * Issued Date: 2019-08-31
 * Codes (Parsed):
-  * 1.020: Chain of Command
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
+  * 1.020: Chain of Command
 
 ### 2019OPA-0160
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0160ccs06-05-19.pdf
@@ -15587,15 +15127,15 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0170ccs090519.pdf
 * Issued Date: 2019-09-05
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
   * 8.200: Using Force
+  * 8.400: Use of Force Reporting and Investigation
 
 ### 2019OPA-0172
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0172ccs06-08-19.pdf
 * Issued Date: 2019-06-08
 * Codes (Parsed):
-  * 8.300: Use of Force Tools
   * 8.200: Using Force
+  * 8.300: Use of Force Tools
 
 ### 2019OPA-0176
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0176ccs060419.pdf
@@ -15608,8 +15148,8 @@
 * Issued Date: 2019-09-17
 * Codes (Parsed):
   * 15.180: Primary Investigations
-  * 6.180: Searches-General
   * 6.220: Voluntary Contacts, Terry Stops & Detentions
+  * 6.180: Searches-General
   * 6.010: Arrests
   * 1.020: Chain of Command
 
@@ -15617,8 +15157,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0186ccs11-25-19.pdf
 * Issued Date: 2019-11-25
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
   * 5.001: Standards and Duties
+  * 8.400: Use of Force Reporting and Investigation
   * 5.100: Operations Bureau Individual Responsibilities
 
 ### 2019OPA-0188
@@ -15673,8 +15213,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0223ccs092419.pdf
 * Issued Date: 2019-09-24
 * Codes (Parsed):
-  * 15.180: Primary Investigations
   * 5.001: Standards and Duties
+  * 15.180: Primary Investigations
 
 ### 2019OPA-0224
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0224ccs09-23-19.pdf
@@ -15686,8 +15226,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0225ccs10022019.pdf
 * Issued Date: 2019-10-02
 * Codes (Parsed):
-  * 6.280: Warrant Arrests
   * 16.110: Crisis Intervention
+  * 6.280: Warrant Arrests
 
 ### 2019OPA-0227
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0227ccs09-25-19.pdf
@@ -15699,15 +15239,15 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0230ccs101119.pdf
 * Issued Date: 2019-10-11
 * Codes (Parsed):
-  * 6.180: Searches-General
   * 16.110: Crisis Intervention
+  * 6.180: Searches-General
 
 ### 2019OPA-0231
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0231ccs091919.pdf
 * Issued Date: 2019-09-19
 * Codes (Parsed):
-  * 15.180: Primary Investigations
   * 13.031: Vehicle Eluding/Pursuits
+  * 15.180: Primary Investigations
 
 ### 2019OPA-0232
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0232ccs080919.pdf
@@ -15727,8 +15267,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0240ccs10-07-19.pdf
 * Issued Date: 2019-10-07
 * Codes (Parsed):
-  * 15.410: Domestic Violence Investigation
   * 5.001: Standards and Duties
+  * 15.410: Domestic Violence Investigation
 
 ### 2019OPA-0243
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0243ccs100719.pdf
@@ -15770,8 +15310,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0280ccs08-19-19.pdf
 * Issued Date: 2019-08-19
 * Codes (Parsed):
-  * 13.030: Emergency Vehicle Operations
   * 13.031: Vehicle Eluding/Pursuits
+  * 13.030: Emergency Vehicle Operations
 
 ### 2019OPA-0282
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0282ccs10-26-19.pdf
@@ -15802,22 +15342,22 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0294ccs11-17-19.pdf
 * Issued Date: 2019-11-17
 * Codes (Parsed):
-  * 12.050: Criminal Justice Information Systems
   * 15.400 (Not found: Might be an OCR error, see the linked PDF)
+  * 12.050: Criminal Justice Information Systems
 
 ### 2019OPA-0300
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0300ccs10-07-19.pdf
 * Issued Date: 2019-10-07
 * Codes (Parsed):
-  * 16.090: In-Car and Body-Worn Video
   * 15.410: Domestic Violence Investigation
+  * 16.090: In-Car and Body-Worn Video
 
 ### 2019OPA-0308
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0308ccs082219.pdf
 * Issued Date: 2019-08-22
 * Codes (Parsed):
-  * 6.180: Searches-General
   * 8.200: Using Force
+  * 6.180: Searches-General
 
 ### 2019OPA-0309
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0309ccs11-05-19.pdf
@@ -15847,9 +15387,9 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0330ccs11-12-19.pdf
 * Issued Date: 2019-11-12
 * Codes (Parsed):
-  * 5.140: Bias-Free Policing
   * 5.001: Standards and Duties
   * 5.002: Responsibilities of Employees Concerning Alleged Policy Violations
+  * 5.140: Bias-Free Policing
 
 ### 2019OPA-0338
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0338ccs110819.pdf
@@ -15868,16 +15408,16 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0344ccs111719.pdf
 * Issued Date: 2019-11-17
 * Codes (Parsed):
-  * 8.100: De-Escalation
   * 8.200: Using Force
   * 16.110: Crisis Intervention
+  * 8.100: De-Escalation
 
 ### 2019OPA-0345
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0345ccs111619.pdf
 * Issued Date: 2019-11-16
 * Codes (Parsed):
-  * 8.400: Use of Force Reporting and Investigation
   * 6.010: Arrests
+  * 8.400: Use of Force Reporting and Investigation
 
 ### 2019OPA-0349
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0349ccs10-25-19.pdf
@@ -15907,8 +15447,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0354ccs11-04-19.pdf
 * Issued Date: 2019-11-04
 * Codes (Parsed):
-  * 7.150: Non-Detainee Property for Safekeeping
   * 5.001: Standards and Duties
+  * 7.150: Non-Detainee Property for Safekeeping
 
 ### 2019OPA-0355
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0355ccs110819.pdf
@@ -15932,8 +15472,8 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0361ccs112019.pdf
 * Issued Date: 2019-11-20
 * Codes (Parsed):
-  * 6.010: Arrests
   * 8.200: Using Force
+  * 6.010: Arrests
 
 ### 2019OPA-0362
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0362ccs111119.pdf
@@ -15960,12 +15500,6 @@
 * Codes (Parsed):
   * 5.140: Bias-Free Policing
 
-### 2019OPA-0369
-* Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0369ccs111919.pdf
-* Issued Date: 2019-11-19
-* Codes (Parsed):
-  * 5.140: Bias-Free Policing
-
 ### 2019OPA-0372
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0372ccs112619.pdf
 * Issued Date: 2019-11-26
@@ -15976,10 +15510,10 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0374ccs11-16-19.pdf
 * Issued Date: 2019-11-16
 * Codes (Parsed):
-  * 6.180: Searches-General
-  * 6.010: Arrests
-  * 6.120: Impounding Vehicles
   * 5.001: Standards and Duties
+  * 6.120: Impounding Vehicles
+  * 6.010: Arrests
+  * 6.180: Searches-General
 
 ### 2019OPA-0377
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0377ccs11-28-19.pdf
@@ -16011,10 +15545,10 @@
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0385ccs09-30-19.pdf
 * Issued Date: 2019-09-30
 * Codes (Parsed):
-  * 8.300: Use of Force Tools
-  * 15.180: Primary Investigations
   * 8.200: Using Force
+  * 8.300: Use of Force Tools
   * 5.001: Standards and Duties
+  * 15.180: Primary Investigations
 
 ### 2019OPA-0390
 * Link: https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0390ccs12-02-19.pdf
@@ -16078,59 +15612,36 @@
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1306ccs05-25-17.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1316ccs04-19-17.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1327ccs05-08-17.pdf
-* https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1327ccs05-08-17.pdf
-* https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1327ccs05-08-17.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1397ccs06-30-17.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0012ccs06-20-17.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0031ccs03-07-18.pdf
-* https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0031ccs03-07-18.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0059ccs101019.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0119ccs113018.pdf
-* https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0119ccs113018.pdf
-* https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0119ccs113018.pdf
-* https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0153ccs12-15-17.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0153ccs12-15-17.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0172ccs11-21-17.pdf
-* https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0172ccs11-21-17.pdf
-* https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0270ccs09-11-17.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0270ccs09-11-17.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0318ccs10-30-17.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0550ccs040418.pdf
-* https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0571ccs02-05-18.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0571ccs02-05-18.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0682ccs10-06-17.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0701ccs12-26-17.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0704ccs12-21-17.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0705ccs12-27-17.pdf
-* https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0705ccs12-27-17.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0731ccs01-05-18.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0751ccs01-04-18.pdf
-* https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0751ccs01-04-18.pdf
-* https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0813ccs12-28-17.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0813ccs12-28-17.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0937ccs03-05-18.pdf
-* https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0937ccs03-05-18.pdf
-* https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1015ccs03-17-18.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1015ccs03-17-18.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1108ccs01-10-18.pdf
-* https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1108ccs01-10-18.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1121ccs041018.pdf
-* https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1121ccs041018.pdf
-* https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1132ccs03-17-18.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1132ccs03-17-18.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1155ccs05-04-18.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1196ccs05-14-18.pdf
-* https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1196ccs05-14-18.pdf
-* https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1196ccs05-14-18.pdf
-* https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1218ccs092618.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1218ccs092618.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1289ccs06-25-18.pdf
-* https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1289ccs06-25-18.pdf
-* https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1301ccs04-04-18.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1301ccs04-04-18.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0016ccs061818.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0118ccs072718.pdf
-* https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0129ccs073018.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0129ccs073018.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0147ccs111318.pdf
 * https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0237ccs121118.pdf
