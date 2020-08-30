@@ -235,28 +235,6 @@
   * [2015OPA-1814](https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2015OPA-1814ccs09-12-16.pdf)
 
 
-## REDACTED, REDACTED REDACTED (REDACTED)
-**Title**: Police Sergeant Detective
-### Allegations:
-* Conformance to Law (1)
-  * [2015OPA-1865](https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2015OPA-1865ccs08-15-16.pdf)
-* Professionalism (10)
-  * [2015OPA-1865](https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2015OPA-1865ccs08-15-16.pdf)
-  * [2016OPA-1265](https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1265ccs05-12-17.pdf)
-  * [2016OPA-1265](https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1265ccs05-12-17.pdf)
-  * [2017OPA-0362](https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0362ccs11-28-17.pdf)
-  * [2017OPA-0362](https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0362ccs11-28-17.pdf)
-  * [2017OPA-0362](https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0362ccs11-28-17.pdf)
-  * [2017OPA-0362](https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0362ccs11-28-17.pdf)
-  * [2017OPA-0362](https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0362ccs11-28-17.pdf)
-  * [2017OPA-0362](https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0362ccs11-28-17.pdf)
-  * [2017OPA-0362](https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0362ccs11-28-17.pdf)
-* Search and Seizure (1)
-  * [2016OPA-1265](https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1265ccs05-12-17.pdf)
-* Force - Reporting (1)
-  * [2016OPA-1265](https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1265ccs05-12-17.pdf)
-
-
 ## Woodward, Carl  (8324)
 **Title**: Police Officer
 ### Allegations:
