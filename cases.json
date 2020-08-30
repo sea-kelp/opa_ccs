@@ -12,8 +12,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2015OPA-0383ccs03-31-17.pdf",
     "issued_date": "2017-03-31",
     "codes": [
-      "5.100",
-      "4.010"
+      "4.010",
+      "5.100"
     ],
     "officers": {
       "5033": {
@@ -785,8 +785,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0013ccs10-04-16.pdf",
     "issued_date": "2016-10-04",
     "codes": [
-      "16.090",
-      "5.002"
+      "5.002",
+      "16.090"
     ],
     "officers": {
       "4760": {
@@ -1080,8 +1080,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0071ccs10-19-16.pdf",
     "issued_date": "2016-10-19",
     "codes": [
-      "6.010",
-      "8.100"
+      "8.100",
+      "6.010"
     ],
     "officers": {
       "7492": {
@@ -1388,8 +1388,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0093ccs10-19-16.pdf",
     "issued_date": "2016-10-19",
     "codes": [
-      "8.300",
-      "8.200"
+      "8.200",
+      "8.300"
     ],
     "officers": {
       "4326": {
@@ -1639,8 +1639,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0109ccs02-15-17.pdf",
     "issued_date": "2017-02-15",
     "codes": [
-      "16.090",
-      "8.400"
+      "8.400",
+      "16.090"
     ],
     "officers": {
       "7446": {
@@ -1750,45 +1750,6 @@
             "allegation": "Discretion and Authority",
             "status": "Completed",
             "finding": "Not Sustained Training Referral"
-          }
-        ]
-      }
-    }
-  },
-  "2016OPA-0115": {
-    "case_id": "2016OPA-0115",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0115ccs08-29-16.pdf",
-    "issued_date": "2016-08-29",
-    "codes": [
-      "5.001"
-    ],
-    "officers": {
-      "REDACTED": {
-        "badge_num": "REDACTED",
-        "first_name": "REDACTED",
-        "middle_name": "REDACTED",
-        "last_name": "REDACTED",
-        "title": "Police Officer",
-        "allegations": [
-          {
-            "allegation": "Force - Use",
-            "status": "Completed",
-            "finding": "Not Sustained Unfounded"
-          },
-          {
-            "allegation": "Force - Use",
-            "status": "Completed",
-            "finding": "Not Sustained Unfounded"
-          },
-          {
-            "allegation": "Force - Use",
-            "status": "Completed",
-            "finding": "Not Sustained Unfounded"
-          },
-          {
-            "allegation": "Force - Use",
-            "status": "Completed",
-            "finding": "Not Sustained Unfounded"
           }
         ]
       }
@@ -2042,92 +2003,6 @@
             "allegation": "Force - Use",
             "status": "Completed",
             "finding": "Not Sustained Lawful and Proper"
-          }
-        ]
-      }
-    }
-  },
-  "2016OPA-0146": {
-    "case_id": "2016OPA-0146",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0146ccs08-24-16.pdf",
-    "issued_date": "2016-08-24",
-    "codes": [
-      "8.200"
-    ],
-    "officers": {
-      "7632": {
-        "badge_num": "7632",
-        "first_name": "Matthew",
-        "middle_name": "Thomas",
-        "last_name": "Atkinson",
-        "title": "Acting Police Officer Detective",
-        "allegations": [
-          {
-            "allegation": "Force - Use",
-            "status": "Completed",
-            "finding": "Not Sustained Unfounded"
-          },
-          {
-            "allegation": "Bias-free Policing",
-            "status": "Completed",
-            "finding": "Not Sustained Unfounded"
-          }
-        ]
-      },
-      "6947": {
-        "badge_num": "6947",
-        "first_name": "Gabriel",
-        "middle_name": "W",
-        "last_name": "Conrad",
-        "title": "Acting Police Sergeant",
-        "allegations": [
-          {
-            "allegation": "Bias-free Policing",
-            "status": "Completed",
-            "finding": "Not Sustained Unfounded"
-          },
-          {
-            "allegation": "Force - Use",
-            "status": "Completed",
-            "finding": "Not Sustained Unfounded"
-          }
-        ]
-      },
-      "7629": {
-        "badge_num": "7629",
-        "first_name": "Amy",
-        "middle_name": "K",
-        "last_name": "Kagelmacher",
-        "title": "Police Officer",
-        "allegations": [
-          {
-            "allegation": "Bias-free Policing",
-            "status": "Completed",
-            "finding": "Not Sustained Unfounded"
-          },
-          {
-            "allegation": "Force - Use",
-            "status": "Completed",
-            "finding": "Not Sustained Unfounded"
-          }
-        ]
-      },
-      "8348": {
-        "badge_num": "8348",
-        "first_name": "Erik",
-        "middle_name": "Leland",
-        "last_name": "Eastgard",
-        "title": "Police Officer",
-        "allegations": [
-          {
-            "allegation": "Force - Use",
-            "status": "Completed",
-            "finding": "Not Sustained Unfounded"
-          },
-          {
-            "allegation": "Bias-free Policing",
-            "status": "Completed",
-            "finding": "Not Sustained Unfounded"
           }
         ]
       }
@@ -3397,14 +3272,6 @@
       }
     }
   },
-  "2016OPA-0341": {
-    "case_id": "2016OPA-0341",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0341ccs092216.pdf",
-    "issued_date": "2016-09-22",
-    "codes": [
-      "7.050"
-    ]
-  },
   "2016OPA-0344": {
     "case_id": "2016OPA-0344",
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0344ccs10-26-16.pdf",
@@ -3586,8 +3453,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0367ccs03-23-17.pdf",
     "issued_date": "2017-03-23",
     "codes": [
-      "15.180",
-      "5.140"
+      "5.140",
+      "15.180"
     ],
     "officers": {
       "7499": {
@@ -3718,8 +3585,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0395ccs10-25-16.pdf",
     "issued_date": "2016-10-25",
     "codes": [
-      "16.090",
-      "11.020"
+      "11.020",
+      "16.090"
     ],
     "officers": {
       "5932": {
@@ -4126,54 +3993,6 @@
             "allegation": "Video and Audio Recording",
             "status": "Completed",
             "finding": "Sustained"
-          }
-        ]
-      }
-    }
-  },
-  "2016OPA-0440": {
-    "case_id": "2016OPA-0440",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0440ccs01-20-17.pdf",
-    "issued_date": "2017-01-20",
-    "codes": [
-      "16.090"
-    ],
-    "officers": {
-      "7634": {
-        "badge_num": "7634",
-        "first_name": "Sandlin",
-        "middle_name": "Jeffrey",
-        "last_name": "Grayson",
-        "title": "Police Officer",
-        "allegations": [
-          {
-            "allegation": "Force - Use",
-            "status": "Completed",
-            "finding": "Not Sustained Lawful and Proper"
-          },
-          {
-            "allegation": "Force - Use",
-            "status": "Completed",
-            "finding": "Not Sustained Lawful and Proper"
-          }
-        ]
-      },
-      "7715": {
-        "badge_num": "7715",
-        "first_name": "Nicolas",
-        "middle_name": "Kedoa",
-        "last_name": "Abts-Olsen",
-        "title": "Police Officer",
-        "allegations": [
-          {
-            "allegation": "Force - Use",
-            "status": "Completed",
-            "finding": "Not Sustained Lawful and Proper"
-          },
-          {
-            "allegation": "Force - Use",
-            "status": "Completed",
-            "finding": "Not Sustained Lawful and Proper"
           }
         ]
       }
@@ -5242,8 +5061,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0587ccs06-26-17.pdf",
     "issued_date": "2017-06-26",
     "codes": [
-      "16.090",
-      "11.020"
+      "11.020",
+      "16.090"
     ],
     "officers": {
       "5110": {
@@ -6079,8 +5898,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0719ccs01-16-18.pdf",
     "issued_date": "2018-01-16",
     "codes": [
-      "5.120",
-      "5.001"
+      "5.001",
+      "5.120"
     ]
   },
   "2016OPA-0733": {
@@ -6170,100 +5989,6 @@
             "allegation": "Stops, Detentions and Arrests",
             "status": "Completed",
             "finding": "Not Sustained Training Referral"
-          }
-        ]
-      }
-    }
-  },
-  "2016OPA-0746": {
-    "case_id": "2016OPA-0746",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0746ccs02-13-17.pdf",
-    "issued_date": "2017-02-13",
-    "codes": [
-      "16.090"
-    ],
-    "officers": {
-      "6799": {
-        "badge_num": "6799",
-        "first_name": "Raul",
-        "middle_name": "",
-        "last_name": "Vaca",
-        "title": "Police Officer",
-        "allegations": [
-          {
-            "allegation": "Bias-free Policing",
-            "status": "Completed",
-            "finding": "Not Sustained Unfounded"
-          }
-        ]
-      },
-      "6890": {
-        "badge_num": "6890",
-        "first_name": "Brian",
-        "middle_name": "Philippe",
-        "last_name": "Rees",
-        "title": "Police Officer",
-        "allegations": [
-          {
-            "allegation": "Bias-free Policing",
-            "status": "Completed",
-            "finding": "Not Sustained Unfounded"
-          }
-        ]
-      },
-      "6979": {
-        "badge_num": "6979",
-        "first_name": "Victor",
-        "middle_name": "Alexei",
-        "last_name": "Pirak",
-        "title": "Police Officer",
-        "allegations": [
-          {
-            "allegation": "Bias-free Policing",
-            "status": "Completed",
-            "finding": "Not Sustained Unfounded"
-          }
-        ]
-      },
-      "5836": {
-        "badge_num": "5836",
-        "first_name": "Donald",
-        "middle_name": "K",
-        "last_name": "Johnson",
-        "title": "Police Officer",
-        "allegations": [
-          {
-            "allegation": "Bias-free Policing",
-            "status": "Completed",
-            "finding": "Not Sustained Unfounded"
-          }
-        ]
-      },
-      "7726": {
-        "badge_num": "7726",
-        "first_name": "Jared",
-        "middle_name": "Dale",
-        "last_name": "Levitt",
-        "title": "Police Officer",
-        "allegations": [
-          {
-            "allegation": "Bias-free Policing",
-            "status": "Completed",
-            "finding": "Not Sustained Unfounded"
-          }
-        ]
-      },
-      "5290": {
-        "badge_num": "5290",
-        "first_name": "Brian",
-        "middle_name": "J",
-        "last_name": "Kraus",
-        "title": "Police Sergeant",
-        "allegations": [
-          {
-            "allegation": "Bias-free Policing",
-            "status": "Completed",
-            "finding": "Not Sustained Unfounded"
           }
         ]
       }
@@ -6567,8 +6292,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0787ccs07-10-17.pdf",
     "issued_date": "2017-07-10",
     "codes": [
-      "9.020",
-      "8.200"
+      "8.200",
+      "9.020"
     ],
     "officers": {
       "6675": {
@@ -6642,9 +6367,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0793ccs011519.pdf",
     "issued_date": "2019-01-15",
     "codes": [
-      "6.010",
       "8.200",
-      "8.100"
+      "8.100",
+      "6.010"
     ]
   },
   "2016OPA-0794": {
@@ -6990,8 +6715,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0866ccs02-28-17.pdf",
     "issued_date": "2017-02-28",
     "codes": [
-      "8.400",
-      "8.200"
+      "8.200",
+      "8.400"
     ],
     "officers": {
       "4621": {
@@ -7048,8 +6773,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0867ccs03-31-17.pdf",
     "issued_date": "2017-03-31",
     "codes": [
-      "8.400",
-      "8.200"
+      "8.200",
+      "8.400"
     ],
     "officers": {
       "5191": {
@@ -7111,44 +6836,6 @@
             "allegation": "Professionalism",
             "status": "Completed",
             "finding": "Not Sustained Inconclusive"
-          }
-        ]
-      }
-    }
-  },
-  "2016OPA-0879": {
-    "case_id": "2016OPA-0879",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0879ccs02-21-17.pdf",
-    "issued_date": "2017-02-21",
-    "codes": [
-      "5.140"
-    ],
-    "officers": {
-      "7491": {
-        "badge_num": "7491",
-        "first_name": "Michael",
-        "middle_name": "B",
-        "last_name": "Spaulding",
-        "title": "Acting Police Officer Detective",
-        "allegations": [
-          {
-            "allegation": "Video and Audio Recording",
-            "status": "Completed",
-            "finding": "Sustained"
-          }
-        ]
-      },
-      "7496": {
-        "badge_num": "7496",
-        "first_name": "Scott",
-        "middle_name": "Matthew",
-        "last_name": "Miller",
-        "title": "Police Officer",
-        "allegations": [
-          {
-            "allegation": "Video and Audio Recording",
-            "status": "Completed",
-            "finding": "Sustained"
           }
         ]
       }
@@ -7487,8 +7174,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0900ccs06-08-17.pdf",
     "issued_date": "2017-06-08",
     "codes": [
-      "15.180",
-      "15.120"
+      "15.120",
+      "15.180"
     ],
     "officers": {
       "6336": {
@@ -7670,8 +7357,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0905ccs07-20-17.pdf",
     "issued_date": "2017-07-20",
     "codes": [
-      "8.400",
-      "8.200"
+      "8.200",
+      "8.400"
     ],
     "officers": {
       "5160": {
@@ -7747,9 +7434,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-0926ccs113018.pdf",
     "issued_date": "2018-11-30",
     "codes": [
-      "6.010",
+      "11.010",
       "8.200",
-      "11.010"
+      "6.010"
     ]
   },
   "2016OPA-0927": {
@@ -8568,8 +8255,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1018ccs04-07-17.pdf",
     "issued_date": "2017-04-07",
     "codes": [
-      "8.400",
-      "8.200"
+      "8.200",
+      "8.400"
     ],
     "officers": {
       "6643": {
@@ -8851,8 +8538,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1066ccs07-24-17.pdf",
     "issued_date": "2017-07-24",
     "codes": [
-      "16.090",
-      "5.002"
+      "5.002",
+      "16.090"
     ],
     "officers": {
       "7582": {
@@ -9001,8 +8688,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1080ccs03-21-17.pdf",
     "issued_date": "2017-03-21",
     "codes": [
-      "5.100",
       "15.260",
+      "5.100",
       "5.140"
     ],
     "officers": {
@@ -9156,8 +8843,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1090ccs03-30-17.pdf",
     "issued_date": "2017-03-30",
     "codes": [
-      "16.090",
-      "13.031"
+      "13.031",
+      "16.090"
     ],
     "officers": {
       "6827": {
@@ -9737,44 +9424,6 @@
       }
     }
   },
-  "2016OPA-1170": {
-    "case_id": "2016OPA-1170",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1170ccs04-03-17.pdf",
-    "issued_date": "2017-04-03",
-    "codes": [
-      "16.090"
-    ],
-    "officers": {
-      "7497": {
-        "badge_num": "7497",
-        "first_name": "Alan",
-        "middle_name": "K.",
-        "last_name": "Richards",
-        "title": "Police Officer",
-        "allegations": [
-          {
-            "allegation": "Video and Audio Recording",
-            "status": "Completed",
-            "finding": "Not Sustained Inconclusive"
-          }
-        ]
-      },
-      "8301": {
-        "badge_num": "8301",
-        "first_name": "Travis",
-        "middle_name": "Aaron",
-        "last_name": "Duennes",
-        "title": "Police Officer",
-        "allegations": [
-          {
-            "allegation": "Video and Audio Recording",
-            "status": "Completed",
-            "finding": "Not Sustained Inconclusive"
-          }
-        ]
-      }
-    }
-  },
   "2016OPA-1172": {
     "case_id": "2016OPA-1172",
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1172ccs06-14-17.pdf",
@@ -10045,72 +9694,6 @@
             "allegation": "Conformance to Law",
             "status": "Completed",
             "finding": "Not Sustained Inconclusive"
-          }
-        ]
-      }
-    }
-  },
-  "2016OPA-1222": {
-    "case_id": "2016OPA-1222",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1222ccs04-11-17.pdf",
-    "issued_date": "2017-04-11",
-    "codes": [
-      "5.001"
-    ],
-    "officers": {
-      "7741": {
-        "badge_num": "7741",
-        "first_name": "Richard",
-        "middle_name": "A",
-        "last_name": "Norris",
-        "title": "Police Officer",
-        "allegations": [
-          {
-            "allegation": "Video and Audio Recording",
-            "status": "Completed",
-            "finding": "Not Sustained Training Referral"
-          }
-        ]
-      },
-      "8368": {
-        "badge_num": "8368",
-        "first_name": "Ryan",
-        "middle_name": "Joseph",
-        "last_name": "Erwin",
-        "title": "Police Officer",
-        "allegations": [
-          {
-            "allegation": "Video and Audio Recording",
-            "status": "Completed",
-            "finding": "Not Sustained Training Referral"
-          }
-        ]
-      },
-      "8369": {
-        "badge_num": "8369",
-        "first_name": "Benjamin",
-        "middle_name": "James",
-        "last_name": "Flick",
-        "title": "Police Officer",
-        "allegations": [
-          {
-            "allegation": "Vehicle Operation",
-            "status": "Completed",
-            "finding": "Not Sustained Training Referral"
-          }
-        ]
-      },
-      "8371": {
-        "badge_num": "8371",
-        "first_name": "Jared",
-        "middle_name": "MacKenzie",
-        "last_name": "Keller",
-        "title": "Police Officer",
-        "allegations": [
-          {
-            "allegation": "Vehicle Operation",
-            "status": "Completed",
-            "finding": "Not Sustained Training Referral"
           }
         ]
       }
@@ -10501,8 +10084,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1265ccs05-12-17.pdf",
     "issued_date": "2017-05-12",
     "codes": [
-      "6.180",
-      "5.001"
+      "5.001",
+      "6.180"
     ],
     "officers": {
       "REDACTED": {
@@ -10676,9 +10259,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1284ccs05-15-17.pdf",
     "issued_date": "2017-05-15",
     "codes": [
-      "15.180",
+      "15.370",
       "6.010",
-      "15.370"
+      "15.180"
     ],
     "officers": {
       "7749": {
@@ -10822,61 +10405,13 @@
       }
     }
   },
-  "2016OPA-1306": {
-    "case_id": "2016OPA-1306",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1306ccs05-25-17.pdf",
-    "issued_date": "2017-05-25",
-    "codes": [
-      "16.090"
-    ],
-    "officers": {
-      "5640": {
-        "badge_num": "5640",
-        "first_name": "John",
-        "middle_name": "M",
-        "last_name": "Skommesa",
-        "title": "Police Officer",
-        "allegations": [
-          {
-            "allegation": "Video and Audio Recording",
-            "status": "Completed",
-            "finding": "Not Sustained Training Referral"
-          },
-          {
-            "allegation": "Video and Audio Recording",
-            "status": "Completed",
-            "finding": "Not Sustained Training Referral"
-          }
-        ]
-      },
-      "7470": {
-        "badge_num": "7470",
-        "first_name": "Nathan",
-        "middle_name": "P",
-        "last_name": "Shopay",
-        "title": "Police Officer",
-        "allegations": [
-          {
-            "allegation": "Video and Audio Recording",
-            "status": "Completed",
-            "finding": "Not Sustained Training Referral"
-          },
-          {
-            "allegation": "Video and Audio Recording",
-            "status": "Completed",
-            "finding": "Not Sustained Training Referral"
-          }
-        ]
-      }
-    }
-  },
   "2016OPA-1308": {
     "case_id": "2016OPA-1308",
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1308ccs05-08-17.pdf",
     "issued_date": "2017-05-08",
     "codes": [
-      "8.200",
-      "11.010"
+      "11.010",
+      "8.200"
     ],
     "officers": {
       "7316": {
@@ -11008,73 +10543,6 @@
       }
     }
   },
-  "2016OPA-1316": {
-    "case_id": "2016OPA-1316",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1316ccs04-19-17.pdf",
-    "issued_date": "2017-04-19",
-    "codes": [
-      "8.200"
-    ],
-    "officers": {
-      "7788": {
-        "badge_num": "7788",
-        "first_name": "Paul",
-        "middle_name": "T",
-        "last_name": "Simbeck",
-        "title": "Police Officer",
-        "allegations": [
-          {
-            "allegation": "Bias-free Policing",
-            "status": "Completed",
-            "finding": "Not Sustained Unfounded"
-          },
-          {
-            "allegation": "Investigations and Reports",
-            "status": "Completed",
-            "finding": "Not Sustained Unfounded"
-          }
-        ]
-      },
-      "8330": {
-        "badge_num": "8330",
-        "first_name": "Kirstyn",
-        "middle_name": "Viana",
-        "last_name": "Keranen-Vermeulen",
-        "title": "Police Officer",
-        "allegations": [
-          {
-            "allegation": "Investigations and Reports",
-            "status": "Completed",
-            "finding": "Not Sustained Unfounded"
-          },
-          {
-            "allegation": "Bias-free Policing",
-            "status": "Completed",
-            "finding": "Not Sustained Unfounded"
-          }
-        ]
-      },
-      "8392": {
-        "badge_num": "8392",
-        "first_name": "Anthony",
-        "middle_name": "R",
-        "last_name": "Morasco",
-        "title": "Police Officer",
-        "allegations": [
-          {
-            "allegation": "Bias-free Policing",
-            "status": "Completed",
-            "finding": "Not Sustained Unfounded"
-          },
-          {
-            "allegation": "Investigations and Reports",
-            "status": "Completed",
-            "finding": "Not Sustained Unfounded"
-          }
-        ]
-      }
-    }
-  },
   "2016OPA-1321": {
     "case_id": "2016OPA-1321",
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1321ccs06-14-17.pdf",
@@ -11192,7 +10660,7 @@
   },
   "2016OPA-1325": {
     "case_id": "2016OPA-1325",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1327ccs05-08-17.pdf",
+    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1325ccs06-08-17.pdf",
     "issued_date": "2017-06-08",
     "codes": [
       "6.010"
@@ -11931,44 +11399,6 @@
             "allegation": "Force - Use",
             "status": "Completed",
             "finding": "Not Sustained Lawful and Proper"
-          }
-        ]
-      }
-    }
-  },
-  "2016OPA-1397": {
-    "case_id": "2016OPA-1397",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1397ccs06-30-17.pdf",
-    "issued_date": "2017-06-30",
-    "codes": [
-      "8.200"
-    ],
-    "officers": {
-      "7758": {
-        "badge_num": "7758",
-        "first_name": "Christopher",
-        "middle_name": "Dean",
-        "last_name": "Couet",
-        "title": "Police Officer",
-        "allegations": [
-          {
-            "allegation": "Video and Audio Recording",
-            "status": "Completed",
-            "finding": "Sustained"
-          }
-        ]
-      },
-      "7761": {
-        "badge_num": "7761",
-        "first_name": "Jamison",
-        "middle_name": "A",
-        "last_name": "Maehler",
-        "title": "Police Officer",
-        "allegations": [
-          {
-            "allegation": "Video and Audio Recording",
-            "status": "Completed",
-            "finding": "Sustained"
           }
         ]
       }
@@ -13375,10 +12805,10 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1531ccs06-27-17.pdf",
     "issued_date": "2017-06-27",
     "codes": [
-      "7.090",
-      "16.090",
+      "5.001",
       "15.180",
-      "5.001"
+      "7.090",
+      "16.090"
     ]
   },
   "2017OPA-0004": {
@@ -13416,44 +12846,6 @@
           },
           {
             "allegation": "Information and Communications Systems",
-            "status": "Completed",
-            "finding": "Not Sustained Unfounded"
-          }
-        ]
-      }
-    }
-  },
-  "2017OPA-0012": {
-    "case_id": "2017OPA-0012",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0012ccs06-20-17.pdf",
-    "issued_date": "2017-06-20",
-    "codes": [
-      "12.050"
-    ],
-    "officers": {
-      "6603": {
-        "badge_num": "6603",
-        "first_name": "Simon",
-        "middle_name": "J",
-        "last_name": "Edison",
-        "title": "Acting Police Officer Detective",
-        "allegations": [
-          {
-            "allegation": "Video and Audio Recording",
-            "status": "Completed",
-            "finding": "Not Sustained Unfounded"
-          }
-        ]
-      },
-      "7523": {
-        "badge_num": "7523",
-        "first_name": "Jorge",
-        "middle_name": "Leonel",
-        "last_name": "Bourdon",
-        "title": "Police Officer",
-        "allegations": [
-          {
-            "allegation": "Video and Audio Recording",
             "status": "Completed",
             "finding": "Not Sustained Unfounded"
           }
@@ -13602,10 +12994,10 @@
   },
   "2017OPA-0025": {
     "case_id": "2017OPA-0025",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0031ccs03-07-18.pdf",
+    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0025ccs07-12-17.pdf",
     "issued_date": "2017-07-12",
     "codes": [
-      "73.075"
+      "15.260"
     ],
     "officers": {
       "8309": {
@@ -13872,14 +13264,6 @@
         ]
       }
     }
-  },
-  "2017OPA-0059": {
-    "case_id": "2017OPA-0059",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0059ccs101019.pdf",
-    "issued_date": "2019-10-10",
-    "codes": [
-      "8.200"
-    ]
   },
   "2017OPA-0065": {
     "case_id": "2017OPA-0065",
@@ -14153,9 +13537,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0112ccs01-16-18.pdf",
     "issued_date": "2018-01-16",
     "codes": [
-      "8.400",
       "8.200",
-      "8.100"
+      "8.100",
+      "8.400"
     ],
     "officers": {
       "6296": {
@@ -14258,7 +13642,7 @@
   },
   "2017OPA-0118": {
     "case_id": "2017OPA-0118",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0119ccs113018.pdf",
+    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0118ccs07-11-17.pdf",
     "issued_date": "2017-07-11",
     "codes": [
       "16.090"
@@ -14570,10 +13954,10 @@
   },
   "2017OPA-0152": {
     "case_id": "2017OPA-0152",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0153ccs12-15-17.pdf",
+    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0152ccs02-27-18.pdf",
     "issued_date": "2018-02-27",
     "codes": [
-      "8.400"
+      "5.001"
     ]
   },
   "2017OPA-0154": {
@@ -14718,10 +14102,10 @@
   },
   "2017OPA-0171": {
     "case_id": "2017OPA-0171",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0172ccs11-21-17.pdf",
+    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0171ccs07-03-17.pdf",
     "issued_date": "2017-07-03",
     "codes": [
-      "13.031"
+      "16.090"
     ],
     "officers": {
       "4892": {
@@ -14912,8 +14296,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0223ccs09-08-17.pdf",
     "issued_date": "2017-09-08",
     "codes": [
-      "16.090",
-      "5.140"
+      "5.140",
+      "16.090"
     ],
     "officers": {
       "7576": {
@@ -15284,9 +14668,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0253ccs03-08-18.pdf",
     "issued_date": "2018-03-08",
     "codes": [
-      "7.020",
+      "5.001",
       "7.010",
-      "5.001"
+      "7.020"
     ]
   },
   "2017OPA-0258": {
@@ -15349,10 +14733,11 @@
   },
   "2017OPA-0268": {
     "case_id": "2017OPA-0268",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0270ccs09-11-17.pdf",
+    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0268ccs07-10-18.pdf",
     "issued_date": "2018-07-10",
     "codes": [
-      "5.007"
+      "6.020",
+      "15.180"
     ]
   },
   "2017OPA-0272": {
@@ -15360,9 +14745,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0272ccs09-22-17.pdf",
     "issued_date": "2017-09-22",
     "codes": [
-      "8.400",
+      "6.020",
       "6.010",
-      "6.020"
+      "8.400"
     ],
     "officers": {
       "6893": {
@@ -15711,18 +15096,6 @@
       }
     }
   },
-  "2017OPA-0318": {
-    "case_id": "2017OPA-0318",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0318ccs10-30-17.pdf",
-    "issued_date": "2017-10-02",
-    "codes": [
-      "8.300",
-      "8.400",
-      "13.031",
-      "73.037",
-      "8.200"
-    ]
-  },
   "2017OPA-0322": {
     "case_id": "2017OPA-0322",
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0322ccs10-02-17.pdf",
@@ -15776,8 +15149,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0332ccs10-17-17.pdf",
     "issued_date": "2017-10-17",
     "codes": [
-      "15.180",
-      "5.001"
+      "5.001",
+      "15.180"
     ],
     "officers": {
       "7537": {
@@ -16609,8 +15982,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0451ccs10-27-17.pdf",
     "issued_date": "2017-10-27",
     "codes": [
-      "5.001",
-      "5.125"
+      "5.125",
+      "5.001"
     ]
   },
   "2017OPA-0452": {
@@ -17070,8 +16443,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0520ccs03-14-18.pdf",
     "issued_date": "2018-03-14",
     "codes": [
-      "16.090",
       "5.001",
+      "16.090",
       "5.140"
     ]
   },
@@ -17080,10 +16453,10 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0521ccs11-09-17.pdf",
     "issued_date": "2017-11-09",
     "codes": [
-      "5.002",
       "8.100",
-      "8.200",
+      "5.002",
       "5.001",
+      "8.200",
       "5.140"
     ]
   },
@@ -17347,18 +16720,6 @@
       "5.001"
     ]
   },
-  "2017OPA-0550": {
-    "case_id": "2017OPA-0550",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0550ccs040418.pdf",
-    "issued_date": "2017-11-16",
-    "codes": [
-      "8.400",
-      "5.002",
-      "11.010",
-      "8.200",
-      "5.001"
-    ]
-  },
   "2017OPA-0552": {
     "case_id": "2017OPA-0552",
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0552ccs12-11-17.pdf",
@@ -17454,9 +16815,9 @@
     "issued_date": "2017-12-22",
     "codes": [
       "5.001",
-      "8.400",
+      "16.110",
       "8.100",
-      "16.110"
+      "8.400"
     ]
   },
   "2017OPA-0567": {
@@ -17509,10 +16870,14 @@
   },
   "2017OPA-0568": {
     "case_id": "2017OPA-0568",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0571ccs02-05-18.pdf",
+    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0568ccs12-01-17.pdf",
     "issued_date": "2017-12-01",
     "codes": [
-      "8.200"
+      "16.110",
+      "5.001",
+      "15.180",
+      "15.410",
+      "15.400"
     ]
   },
   "2017OPA-0575": {
@@ -17622,8 +16987,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0625ccs12-19-17.pdf",
     "issued_date": "2017-12-19",
     "codes": [
-      "1.110",
-      "5.001"
+      "5.001",
+      "1.110"
     ]
   },
   "2017OPA-0628": {
@@ -17647,8 +17012,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0631ccs12-18-17.pdf",
     "issued_date": "2017-12-18",
     "codes": [
-      "16.090",
-      "8.200"
+      "8.200",
+      "16.090"
     ]
   },
   "2017OPA-0632": {
@@ -17680,8 +17045,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0636ccs03-14-18.pdf",
     "issued_date": "2018-03-14",
     "codes": [
-      "15.180",
-      "15.120"
+      "15.120",
+      "15.180"
     ]
   },
   "2017OPA-0637": {
@@ -17697,9 +17062,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0644ccs12-26-17.pdf",
     "issued_date": "2017-12-26",
     "codes": [
-      "4.040",
+      "4.010",
       "5.001",
-      "4.010"
+      "4.040"
     ]
   },
   "2017OPA-0645": {
@@ -17784,65 +17149,13 @@
       "5.140"
     ]
   },
-  "2017OPA-0682": {
-    "case_id": "2017OPA-0682",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0682ccs10-06-17.pdf",
-    "issued_date": "2017-10-06",
-    "codes": [
-      "5.140"
-    ],
-    "officers": {
-      "7702": {
-        "badge_num": "7702",
-        "first_name": "Christopher",
-        "middle_name": "J",
-        "last_name": "Rogers",
-        "title": "Police Officer",
-        "allegations": [
-          {
-            "allegation": "Bias-free Policing",
-            "status": "Completed",
-            "finding": "Not Sustained Unfounded"
-          }
-        ]
-      },
-      "8431": {
-        "badge_num": "8431",
-        "first_name": "Christopher",
-        "middle_name": "Douglas",
-        "last_name": "Twiggs",
-        "title": "Police Officer",
-        "allegations": [
-          {
-            "allegation": "Bias-free Policing",
-            "status": "Completed",
-            "finding": "Not Sustained Unfounded"
-          }
-        ]
-      },
-      "8444": {
-        "badge_num": "8444",
-        "first_name": "Alexandra",
-        "middle_name": "Brenneman",
-        "last_name": "Harris",
-        "title": "Police Officer",
-        "allegations": [
-          {
-            "allegation": "Bias-free Policing",
-            "status": "Completed",
-            "finding": "Not Sustained Unfounded"
-          }
-        ]
-      }
-    }
-  },
   "2017OPA-0685": {
     "case_id": "2017OPA-0685",
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0685ccs12-26-17.pdf",
     "issued_date": "2017-12-26",
     "codes": [
-      "8.400",
-      "8.200"
+      "8.200",
+      "8.400"
     ]
   },
   "2017OPA-0688": {
@@ -17957,14 +17270,6 @@
       "5.001"
     ]
   },
-  "2017OPA-0701": {
-    "case_id": "2017OPA-0701",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0701ccs12-26-17.pdf",
-    "issued_date": "2017-12-26",
-    "codes": [
-      "5.001"
-    ]
-  },
   "2017OPA-0702": {
     "case_id": "2017OPA-0702",
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0702ccs12-20-17.pdf",
@@ -17979,14 +17284,6 @@
     "issued_date": "2019-01-04",
     "codes": [
       "5.001"
-    ]
-  },
-  "2017OPA-0704": {
-    "case_id": "2017OPA-0704",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0705ccs12-27-17.pdf",
-    "issued_date": "2017-12-21",
-    "codes": [
-      "5.007"
     ]
   },
   "2017OPA-0708": {
@@ -18010,22 +17307,14 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0720ccs02-18-19.pdf",
     "issued_date": "2019-02-18",
     "codes": [
-      "6.130",
-      "5.001"
+      "5.001",
+      "6.130"
     ]
   },
   "2017OPA-0727": {
     "case_id": "2017OPA-0727",
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0727ccs03-09-18.pdf",
     "issued_date": "2018-03-09",
-    "codes": [
-      "5.001"
-    ]
-  },
-  "2017OPA-0731": {
-    "case_id": "2017OPA-0731",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0731ccs01-05-18.pdf",
-    "issued_date": "2018-01-05",
     "codes": [
       "5.001"
     ]
@@ -18069,21 +17358,21 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0744ccs01-19-18.pdf",
     "issued_date": "2018-01-19",
     "codes": [
+      "5.001",
       "15.180",
-      "15.410",
-      "5.001"
+      "15.410"
     ]
   },
   "2017OPA-0746": {
     "case_id": "2017OPA-0746",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0751ccs01-04-18.pdf",
+    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0746ccs01-19-18.pdf",
     "issued_date": "2018-01-19",
     "codes": [
-      "8.400",
-      "5.002",
+      "8.100",
+      "5.001",
       "8.200",
-      "16.090",
-      "76.090"
+      "6.010",
+      "5.140"
     ]
   },
   "2017OPA-0753": {
@@ -18091,9 +17380,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0753ccs01-18-18.pdf",
     "issued_date": "2018-01-18",
     "codes": [
-      "8.400",
       "8.200",
-      "5.001"
+      "5.001",
+      "8.400"
     ]
   },
   "2017OPA-0761": {
@@ -18101,9 +17390,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0761ccs011918.pdf",
     "issued_date": "2018-01-19",
     "codes": [
-      "15.180",
       "11.050",
-      "5.001"
+      "5.001",
+      "15.180"
     ]
   },
   "2017OPA-0764": {
@@ -18146,8 +17435,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0805ccs020518.pdf",
     "issued_date": "2018-02-05",
     "codes": [
-      "8.400",
       "8.200",
+      "8.400",
       "5.002"
     ]
   },
@@ -18157,9 +17446,9 @@
     "issued_date": "2018-01-09",
     "codes": [
       "6.220",
-      "6.180",
+      "8.200",
       "6.010",
-      "8.200"
+      "6.180"
     ]
   },
   "2017OPA-0810": {
@@ -18167,23 +17456,18 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0810ccs02-03-18.pdf",
     "issued_date": "2018-02-03",
     "codes": [
-      "7.060",
       "6.220",
       "8.200",
-      "5.001"
+      "5.001",
+      "7.060"
     ]
   },
   "2017OPA-0812": {
     "case_id": "2017OPA-0812",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0813ccs12-28-17.pdf",
+    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0812ccs01-19-18.pdf",
     "issued_date": "2018-01-19",
     "codes": [
-      "8.400",
-      "5.002",
-      "6.070",
-      "75.020",
-      "8.700",
-      "5.007"
+      "5.140"
     ]
   },
   "2017OPA-0820": {
@@ -18191,10 +17475,10 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0820ccs02-05-18.pdf",
     "issued_date": "2018-02-05",
     "codes": [
-      "15.180",
+      "5.001",
       "6.150",
       "6.010",
-      "5.001"
+      "15.180"
     ]
   },
   "2017OPA-0824": {
@@ -18212,8 +17496,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0831ccs02-07-18.pdf",
     "issued_date": "2018-02-07",
     "codes": [
-      "11.020",
       "8.200",
+      "11.020",
       "5.140"
     ]
   },
@@ -18222,8 +17506,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0835ccs02-13-18.pdf",
     "issued_date": "2018-02-13",
     "codes": [
-      "15.180",
       "5.001",
+      "15.180",
       "5.140"
     ]
   },
@@ -18264,9 +17548,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0848ccs02-12-18.pdf",
     "issued_date": "2018-02-12",
     "codes": [
-      "8.400",
       "8.200",
       "5.001",
+      "8.400",
       "5.002"
     ]
   },
@@ -18284,10 +17568,10 @@
     "issued_date": "2018-03-14",
     "codes": [
       "8.100",
+      "5.001",
       "6.220",
-      "6.010",
       "8.200",
-      "5.001"
+      "6.010"
     ]
   },
   "2017OPA-0852": {
@@ -18295,8 +17579,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0852ccs02-14-18.pdf",
     "issued_date": "2018-02-14",
     "codes": [
-      "16.090",
       "5.001",
+      "16.090",
       "5.140"
     ]
   },
@@ -18313,9 +17597,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0858ccs02-15-18.pdf",
     "issued_date": "2018-02-15",
     "codes": [
-      "6.180",
-      "6.120",
       "5.001",
+      "6.120",
+      "6.180",
       "5.140"
     ]
   },
@@ -18333,8 +17617,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0862ccs02-12-18.pdf",
     "issued_date": "2018-02-12",
     "codes": [
-      "6.180",
       "6.220",
+      "6.180",
       "5.140"
     ]
   },
@@ -18376,8 +17660,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0875ccs02-22-18.pdf",
     "issued_date": "2018-02-22",
     "codes": [
-      "5.001",
       "11.010",
+      "5.001",
       "5.002"
     ]
   },
@@ -18395,8 +17679,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0880ccs02-23-18.pdf",
     "issued_date": "2018-02-23",
     "codes": [
-      "5.002",
       "5.001",
+      "5.002",
       "5.140"
     ]
   },
@@ -18413,8 +17697,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0884ccs08-05-18.pdf",
     "issued_date": "2018-08-05",
     "codes": [
-      "8.300",
-      "8.200"
+      "8.200",
+      "8.300"
     ]
   },
   "2017OPA-0886": {
@@ -18431,10 +17715,10 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0887ccs02-18-18.pdf",
     "issued_date": "2018-02-18",
     "codes": [
-      "5.140",
       "8.200",
       "5.001",
-      "5.002"
+      "5.002",
+      "5.140"
     ]
   },
   "2017OPA-0894": {
@@ -18442,9 +17726,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0894ccs02-15-18.pdf",
     "issued_date": "2018-02-15",
     "codes": [
-      "16.090",
+      "5.001",
       "6.010",
-      "5.001"
+      "16.090"
     ]
   },
   "2017OPA-0895": {
@@ -18452,8 +17736,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0895ccs02-24-18.pdf",
     "issued_date": "2018-02-24",
     "codes": [
-      "8.300",
-      "8.200"
+      "8.200",
+      "8.300"
     ]
   },
   "2017OPA-0898": {
@@ -18461,9 +17745,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0898ccs02-23-18.pdf",
     "issued_date": "2018-02-23",
     "codes": [
-      "15.180",
       "6.220",
-      "5.001"
+      "5.001",
+      "15.180"
     ]
   },
   "2017OPA-0899": {
@@ -18471,8 +17755,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0899ccs02-21-18.pdf",
     "issued_date": "2018-02-21",
     "codes": [
-      "8.400",
-      "8.200"
+      "8.200",
+      "8.400"
     ]
   },
   "2017OPA-0900": {
@@ -18507,9 +17791,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0909ccs030218.pdf",
     "issued_date": "2018-03-01",
     "codes": [
-      "5.001",
       "8.200",
-      "8.100"
+      "8.100",
+      "5.001"
     ]
   },
   "2017OPA-0910": {
@@ -18517,8 +17801,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0910ccs02-17-18.pdf",
     "issued_date": "2018-02-17",
     "codes": [
-      "8.300",
-      "8.200"
+      "8.200",
+      "8.300"
     ]
   },
   "2017OPA-0912": {
@@ -18570,8 +17854,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0931ccs03-16-18.pdf",
     "issued_date": "2018-03-16",
     "codes": [
-      "15.180",
-      "5.001"
+      "5.001",
+      "15.180"
     ]
   },
   "2017OPA-0932": {
@@ -18593,10 +17877,10 @@
   },
   "2017OPA-0936": {
     "case_id": "2017OPA-0936",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0937ccs03-05-18.pdf",
+    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0936ccs03-03-18.pdf",
     "issued_date": "2018-03-03",
     "codes": [
-      "76.090"
+      "5.001"
     ]
   },
   "2017OPA-0940": {
@@ -18604,8 +17888,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0940ccs030118.pdf",
     "issued_date": "2018-03-01",
     "codes": [
-      "5.120",
-      "5.001"
+      "5.001",
+      "5.120"
     ]
   },
   "2017OPA-0942": {
@@ -18664,10 +17948,10 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0950ccs03-06-18.pdf",
     "issued_date": "2018-03-06",
     "codes": [
-      "5.001",
       "6.220",
       "8.200",
-      "8.100"
+      "8.100",
+      "5.001"
     ]
   },
   "2017OPA-0952": {
@@ -18703,8 +17987,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0956ccs03-03-18.pdf",
     "issued_date": "2018-03-03",
     "codes": [
-      "6.120",
-      "5.001"
+      "5.001",
+      "6.120"
     ]
   },
   "2017OPA-0958": {
@@ -18712,8 +17996,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0958ccs02-25-18.pdf",
     "issued_date": "2018-02-25",
     "codes": [
-      "5.001",
-      "15.370"
+      "15.370",
+      "5.001"
     ]
   },
   "2017OPA-0960": {
@@ -18729,9 +18013,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0962ccs030918.pdf",
     "issued_date": "2018-03-09",
     "codes": [
-      "15.180",
+      "5.001",
       "16.090",
-      "5.001"
+      "15.180"
     ]
   },
   "2017OPA-0963": {
@@ -18739,8 +18023,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0963ccs03-07-18.pdf",
     "issued_date": "2018-03-07",
     "codes": [
-      "8.100",
-      "5.001"
+      "5.001",
+      "8.100"
     ]
   },
   "2017OPA-0966": {
@@ -18748,8 +18032,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0966ccs03-14-18.pdf",
     "issued_date": "2018-03-14",
     "codes": [
-      "6.010",
-      "8.200"
+      "8.200",
+      "6.010"
     ]
   },
   "2017OPA-0969": {
@@ -18757,8 +18041,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0969ccs03-16-18.pdf",
     "issued_date": "2018-03-16",
     "codes": [
-      "15.180",
-      "15.120"
+      "15.120",
+      "15.180"
     ]
   },
   "2017OPA-0971": {
@@ -18766,10 +18050,10 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0971ccs02-22-18.pdf",
     "issued_date": "2018-02-22",
     "codes": [
-      "16.090",
-      "8.400",
       "8.200",
-      "5.002"
+      "8.400",
+      "5.002",
+      "16.090"
     ]
   },
   "2017OPA-0972": {
@@ -18777,8 +18061,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0972ccs031318.pdf",
     "issued_date": "2018-03-13",
     "codes": [
-      "8.400",
-      "8.200"
+      "8.200",
+      "8.400"
     ]
   },
   "2017OPA-0973": {
@@ -18795,8 +18079,8 @@
     "issued_date": "2018-03-11",
     "codes": [
       "5.001",
-      "8.400",
       "7.010",
+      "8.400",
       "5.002"
     ]
   },
@@ -18805,8 +18089,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0981ccs032018.pdf",
     "issued_date": "2018-03-20",
     "codes": [
-      "15.180",
-      "5.001"
+      "5.001",
+      "15.180"
     ]
   },
   "2017OPA-0982": {
@@ -18839,9 +18123,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0990ccs032318.pdf",
     "issued_date": "2018-03-23",
     "codes": [
-      "15.180",
+      "5.001",
       "6.180",
-      "5.001"
+      "15.180"
     ]
   },
   "2017OPA-0997": {
@@ -18849,10 +18133,10 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0997ccs03-25-18.pdf",
     "issued_date": "2018-03-25",
     "codes": [
-      "6.220",
-      "6.010",
-      "8.200",
       "5.001",
+      "6.220",
+      "8.200",
+      "6.010",
       "5.140"
     ]
   },
@@ -18861,8 +18145,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0998ccs061818.pdf",
     "issued_date": "2018-03-12",
     "codes": [
-      "5.120",
-      "5.001"
+      "5.001",
+      "5.120"
     ]
   },
   "2017OPA-0999": {
@@ -18896,8 +18180,8 @@
     "issued_date": "2018-03-19",
     "codes": [
       "5.001",
-      "8.400",
-      "7.010"
+      "7.010",
+      "8.400"
     ]
   },
   "2017OPA-1010": {
@@ -18910,11 +18194,10 @@
   },
   "2017OPA-1014": {
     "case_id": "2017OPA-1014",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1015ccs03-17-18.pdf",
+    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1014ccs010918.pdf",
     "issued_date": "2018-01-09",
     "codes": [
-      "75.780",
-      "7.770"
+      "5.140"
     ]
   },
   "2017OPA-1016": {
@@ -18946,8 +18229,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1023ccs03-18-18.pdf",
     "issued_date": "2018-03-18",
     "codes": [
-      "16.090",
       "5.001",
+      "16.090",
       "5.140"
     ]
   },
@@ -18973,8 +18256,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1031ccs03-30-18.pdf",
     "issued_date": "2018-03-30",
     "codes": [
-      "5.001",
-      "13.080"
+      "13.080",
+      "5.001"
     ]
   },
   "2017OPA-1036": {
@@ -18982,8 +18265,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1036ccs050418.pdf",
     "issued_date": "2018-05-04",
     "codes": [
-      "5.120",
       "5.001",
+      "5.120",
       "5.140"
     ]
   },
@@ -19008,8 +18291,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1053ccs03-16-18.pdf",
     "issued_date": "2018-03-16",
     "codes": [
-      "8.300",
-      "8.200"
+      "8.200",
+      "8.300"
     ]
   },
   "2017OPA-1054": {
@@ -19017,8 +18300,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1054ccs03-28-18.pdf",
     "issued_date": "2018-03-28",
     "codes": [
-      "6.180",
-      "5.001"
+      "5.001",
+      "6.180"
     ]
   },
   "2017OPA-1055": {
@@ -19026,9 +18309,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1055ccs04-06-18.pdf",
     "issued_date": "2018-04-06",
     "codes": [
-      "15.180",
+      "5.001",
       "6.010",
-      "5.001"
+      "15.180"
     ]
   },
   "2017OPA-1056": {
@@ -19044,10 +18327,10 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1059ccs04-06-18.pdf",
     "issued_date": "2018-04-06",
     "codes": [
+      "5.001",
       "8.300",
       "8.100",
-      "8.200",
-      "5.001"
+      "8.200"
     ]
   },
   "2017OPA-1060": {
@@ -19080,8 +18363,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1074ccs04-05-18.pdf",
     "issued_date": "2018-04-05",
     "codes": [
-      "13.030",
-      "13.031"
+      "13.031",
+      "13.030"
     ]
   },
   "2017OPA-1077": {
@@ -19105,8 +18388,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1080ccs03-29-18.pdf",
     "issued_date": "2018-03-29",
     "codes": [
-      "15.120",
       "5.001",
+      "15.120",
       "5.140"
     ]
   },
@@ -19115,9 +18398,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1081ccs04-07-18.pdf",
     "issued_date": "2018-04-07",
     "codes": [
-      "15.180",
       "5.001",
-      "15.260"
+      "15.260",
+      "15.180"
     ]
   },
   "2017OPA-1087": {
@@ -19141,8 +18424,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1091ccs041318.pdf",
     "issued_date": "2018-04-03",
     "codes": [
-      "5.002",
       "6.220",
+      "5.002",
       "5.140"
     ]
   },
@@ -19168,12 +18451,12 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1101ccs040518.pdf",
     "issued_date": "2018-04-05",
     "codes": [
-      "15.180",
-      "5.002",
-      "13.031",
       "13.030",
+      "5.002",
+      "5.001",
+      "15.180",
       "6.220",
-      "5.001"
+      "13.031"
     ]
   },
   "2017OPA-1102": {
@@ -19181,8 +18464,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1102ccs03-08-18.pdf",
     "issued_date": "2018-03-08",
     "codes": [
-      "6.010",
-      "5.001"
+      "5.001",
+      "6.010"
     ]
   },
   "2017OPA-1103": {
@@ -19199,9 +18482,9 @@
     "issued_date": "2018-06-22",
     "codes": [
       "6.220",
+      "5.001",
       "8.400",
-      "8.200",
-      "5.001"
+      "8.200"
     ]
   },
   "2017OPA-1106": {
@@ -19215,19 +18498,19 @@
   },
   "2017OPA-1107": {
     "case_id": "2017OPA-1107",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1108ccs01-10-18.pdf",
+    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1107ccs03-24-18.pdf",
     "issued_date": "2018-03-24",
     "codes": [
-      "5.740",
-      "5.002"
+      "5.140"
     ]
   },
   "2017OPA-1109": {
     "case_id": "2017OPA-1109",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1121ccs041018.pdf",
+    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1109ccs04-05-18.pdf",
     "issued_date": "2018-04-05",
     "codes": [
-      "5.007"
+      "8.200",
+      "5.001"
     ]
   },
   "2017OPA-1123": {
@@ -19269,16 +18552,16 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1128ccs04-26-18.pdf",
     "issued_date": "2018-04-26",
     "codes": [
-      "16.090",
-      "5.001"
+      "5.001",
+      "16.090"
     ]
   },
   "2017OPA-1131": {
     "case_id": "2017OPA-1131",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1132ccs03-17-18.pdf",
+    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1131ccs033018.pdf",
     "issued_date": "2018-03-30",
     "codes": [
-      "5.007"
+      "16.090"
     ]
   },
   "2017OPA-1138": {
@@ -19286,8 +18569,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1138ccs03-16-18.pdf",
     "issued_date": "2018-03-16",
     "codes": [
-      "15.180",
-      "12.080"
+      "12.080",
+      "15.180"
     ]
   },
   "2017OPA-1143": {
@@ -19295,8 +18578,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1143ccs05-01-18.pdf",
     "issued_date": "2018-05-01",
     "codes": [
-      "16.090",
-      "15.260"
+      "15.260",
+      "16.090"
     ]
   },
   "2017OPA-1151": {
@@ -19319,15 +18602,6 @@
     "case_id": "2017OPA-1154",
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1154ccs04-03-18.pdf",
     "issued_date": "2018-04-03",
-    "codes": [
-      "6.220",
-      "5.001"
-    ]
-  },
-  "2017OPA-1155": {
-    "case_id": "2017OPA-1155",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1155ccs05-04-18.pdf",
-    "issued_date": "2018-05-04",
     "codes": [
       "6.220",
       "5.001"
@@ -19379,8 +18653,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1165ccs05-01-18.pdf",
     "issued_date": "2018-05-01",
     "codes": [
-      "8.400",
-      "8.200"
+      "8.200",
+      "8.400"
     ]
   },
   "2017OPA-1166": {
@@ -19452,7 +18726,7 @@
   },
   "2017OPA-1195": {
     "case_id": "2017OPA-1195",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1196ccs05-14-18.pdf",
+    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1195ccs05-15-18.pdf",
     "issued_date": "2018-05-15",
     "codes": [
       "5.001"
@@ -19471,8 +18745,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1202ccs060818.pdf",
     "issued_date": "2018-06-04",
     "codes": [
-      "5.002",
       "5.001",
+      "5.002",
       "5.140"
     ]
   },
@@ -19497,10 +18771,10 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1208ccs05-08-18.pdf",
     "issued_date": "2018-05-08",
     "codes": [
-      "16.090",
-      "8.400",
       "8.200",
-      "8.100"
+      "8.100",
+      "8.400",
+      "16.090"
     ]
   },
   "2017OPA-1213": {
@@ -19508,17 +18782,18 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1213ccs05-08-18.pdf",
     "issued_date": "2018-05-08",
     "codes": [
-      "6.180",
-      "8.200",
       "5.001",
+      "8.200",
+      "6.180",
       "5.140"
     ]
   },
   "2017OPA-1216": {
     "case_id": "2017OPA-1216",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1218ccs092618.pdf",
+    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1216ccs05-15-18.pdf",
     "issued_date": "2018-05-15",
     "codes": [
+      "5.001",
       "8.200"
     ]
   },
@@ -19553,8 +18828,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1230ccs042418.pdf",
     "issued_date": "2018-04-24",
     "codes": [
-      "8.400",
       "8.200",
+      "8.400",
       "5.002"
     ]
   },
@@ -19645,8 +18920,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1274ccs06-11-18.pdf",
     "issued_date": "2018-06-11",
     "codes": [
-      "15.410",
       "5.001",
+      "15.410",
       "5.140"
     ]
   },
@@ -19655,9 +18930,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1275ccs06-11-18.pdf",
     "issued_date": "2018-06-11",
     "codes": [
-      "16.090",
       "5.001",
-      "15.260"
+      "15.260",
+      "16.090"
     ]
   },
   "2017OPA-1277": {
@@ -19665,9 +18940,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1277ccs06-04-18.pdf",
     "issued_date": "2018-06-04",
     "codes": [
-      "8.400",
       "8.200",
       "5.001",
+      "8.400",
       "5.140"
     ]
   },
@@ -19702,10 +18977,10 @@
     "issued_date": "2018-06-05",
     "codes": [
       "5.002",
-      "6.220",
-      "6.010",
-      "8.200",
       "5.001",
+      "6.220",
+      "8.200",
+      "6.010",
       "5.140"
     ]
   },
@@ -19722,20 +18997,18 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1287ccs06-04-18.pdf",
     "issued_date": "2018-06-04",
     "codes": [
-      "4.040",
+      "4.010",
       "5.001",
-      "4.010"
+      "4.040"
     ]
   },
   "2017OPA-1288": {
     "case_id": "2017OPA-1288",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1289ccs06-25-18.pdf",
+    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1288ccs060418.pdf",
     "issued_date": "2018-06-04",
     "codes": [
-      "5.740",
-      "8.400",
-      "8.200",
-      "5.002"
+      "11.050",
+      "5.001"
     ]
   },
   "2017OPA-1291": {
@@ -19751,8 +19024,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1294ccs08-15-18.pdf",
     "issued_date": "2018-08-15",
     "codes": [
-      "4.100",
-      "5.001"
+      "5.001",
+      "4.100"
     ]
   },
   "2017OPA-1295": {
@@ -19789,10 +19062,10 @@
   },
   "2017OPA-1299": {
     "case_id": "2017OPA-1299",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1301ccs04-04-18.pdf",
+    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1299ccs05-23-18.pdf",
     "issued_date": "2018-05-23",
     "codes": [
-      "76.090"
+      "8.200"
     ]
   },
   "2017OPA-1303": {
@@ -19808,8 +19081,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1306ccs061218.pdf",
     "issued_date": "2018-06-12",
     "codes": [
-      "8.400",
-      "8.200"
+      "8.200",
+      "8.400"
     ]
   },
   "2017OPA-1308": {
@@ -19817,8 +19090,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1308ccs06-22-18.pdf",
     "issued_date": "2018-06-22",
     "codes": [
-      "8.400",
-      "8.200"
+      "8.200",
+      "8.400"
     ]
   },
   "2017OPA-1312": {
@@ -19852,8 +19125,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1323ccs062118.pdf",
     "issued_date": "2018-06-21",
     "codes": [
-      "5.001",
-      "4.010"
+      "4.010",
+      "5.001"
     ]
   },
   "2017OPA-1324": {
@@ -19878,8 +19151,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1327ccs06-11-18.pdf",
     "issued_date": "2018-06-11",
     "codes": [
-      "15.410",
       "5.001",
+      "15.410",
       "5.140"
     ]
   },
@@ -19904,8 +19177,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0010ccs070218.pdf",
     "issued_date": "2018-06-20",
     "codes": [
-      "5.120",
-      "5.001"
+      "5.001",
+      "5.120"
     ]
   },
   "2018OPA-0011": {
@@ -19921,24 +19194,15 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0013ccs011919.pdf",
     "issued_date": "2019-01-19",
     "codes": [
+      "5.001",
       "13.010",
-      "13.030",
-      "5.001"
+      "13.030"
     ]
   },
   "2018OPA-0014": {
     "case_id": "2018OPA-0014",
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0014ccs06-12-18.pdf",
     "issued_date": "2018-06-12",
-    "codes": [
-      "5.001",
-      "5.140"
-    ]
-  },
-  "2018OPA-0016": {
-    "case_id": "2018OPA-0016",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0016ccs061818.pdf",
-    "issued_date": "2018-06-18",
     "codes": [
       "5.001",
       "5.140"
@@ -20081,8 +19345,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0053ccs06-23-18.pdf",
     "issued_date": "2018-06-23",
     "codes": [
-      "6.180",
-      "5.001"
+      "5.001",
+      "6.180"
     ]
   },
   "2018OPA-0054": {
@@ -20115,8 +19379,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0061ccs071518.pdf",
     "issued_date": "2018-07-15",
     "codes": [
-      "8.300",
       "8.200",
+      "8.300",
       "8.100"
     ]
   },
@@ -20125,9 +19389,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0062ccs070318.pdf",
     "issued_date": "2018-07-03",
     "codes": [
-      "16.090",
       "6.220",
       "5.001",
+      "16.090",
       "5.140"
     ]
   },
@@ -20136,8 +19400,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0063ccs07-06-18.pdf",
     "issued_date": "2018-07-06",
     "codes": [
-      "8.400",
       "8.200",
+      "8.400",
       "5.002"
     ]
   },
@@ -20155,8 +19419,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0065ccs101918.pdf",
     "issued_date": "2018-10-19",
     "codes": [
-      "10.020",
-      "5.001"
+      "5.001",
+      "10.020"
     ]
   },
   "2018OPA-0067": {
@@ -20164,10 +19428,10 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0067ccs07-16-18.pdf",
     "issued_date": "2018-07-16",
     "codes": [
-      "8.400",
-      "16.090",
       "6.220",
-      "8.200"
+      "8.200",
+      "8.400",
+      "16.090"
     ]
   },
   "2018OPA-0069": {
@@ -20175,9 +19439,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0069ccs10-07-18.pdf",
     "issued_date": "2018-10-07",
     "codes": [
-      "5.002",
-      "8.400",
       "8.200",
+      "8.400",
+      "5.002",
       "5.140"
     ]
   },
@@ -20186,8 +19450,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0072ccs07-16-18.pdf",
     "issued_date": "2018-07-16",
     "codes": [
-      "16.090",
-      "5.002"
+      "5.002",
+      "16.090"
     ]
   },
   "2018OPA-0074": {
@@ -20195,8 +19459,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0074ccs07-18-18.pdf",
     "issued_date": "2018-07-18",
     "codes": [
-      "16.090",
-      "13.030"
+      "13.030",
+      "16.090"
     ]
   },
   "2018OPA-0075": {
@@ -20231,9 +19495,9 @@
     "issued_date": "2018-07-12",
     "codes": [
       "6.220",
-      "6.010",
       "8.200",
-      "5.001"
+      "5.001",
+      "6.010"
     ]
   },
   "2018OPA-0081": {
@@ -20241,10 +19505,10 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0081ccs10-09-19.pdf",
     "issued_date": "2019-10-09",
     "codes": [
-      "6.010",
-      "15.400",
+      "5.002",
       "5.001",
-      "5.002"
+      "6.010",
+      "15.400"
     ]
   },
   "2018OPA-0084": {
@@ -20284,8 +19548,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0094ccs07-23-18.pdf",
     "issued_date": "2018-07-23",
     "codes": [
-      "16.090",
-      "9.030"
+      "9.030",
+      "16.090"
     ]
   },
   "2018OPA-0101": {
@@ -20335,10 +19599,10 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0113ccs07-31-18.pdf",
     "issued_date": "2018-07-31",
     "codes": [
+      "5.001",
       "15.180",
       "6.220",
       "8.200",
-      "5.001",
       "5.140"
     ]
   },
@@ -20365,20 +19629,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0117ccs07-20-18.pdf",
     "issued_date": "2018-07-20",
     "codes": [
-      "8.200",
       "5.001",
-      "5.002"
-    ]
-  },
-  "2018OPA-0118": {
-    "case_id": "2018OPA-0118",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0118ccs072718.pdf",
-    "issued_date": "2018-07-20",
-    "codes": [
-      "6.070",
-      "5.007",
-      "6.220",
-      "6.780"
+      "5.002",
+      "8.200"
     ]
   },
   "2018OPA-0119": {
@@ -20416,10 +19669,10 @@
   },
   "2018OPA-0127": {
     "case_id": "2018OPA-0127",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0129ccs073018.pdf",
+    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0127ccs072718.pdf",
     "issued_date": "2018-07-27",
     "codes": [
-      "76.090"
+      "8.200"
     ]
   },
   "2018OPA-0130": {
@@ -20507,21 +19760,13 @@
       "8.200"
     ]
   },
-  "2018OPA-0147": {
-    "case_id": "2018OPA-0147",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0147ccs111318.pdf",
-    "issued_date": "2018-11-13",
-    "codes": [
-      "8.200"
-    ]
-  },
   "2018OPA-0153": {
     "case_id": "2018OPA-0153",
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0153ccs08-12-18.pdf",
     "issued_date": "2018-08-12",
     "codes": [
-      "8.300",
       "8.200",
+      "8.300",
       "8.100"
     ]
   },
@@ -20530,8 +19775,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0156ccs08-03-18.pdf",
     "issued_date": "2018-08-03",
     "codes": [
-      "16.090",
-      "5.001"
+      "5.001",
+      "16.090"
     ]
   },
   "2018OPA-0157": {
@@ -20548,11 +19793,11 @@
     "issued_date": "2018-08-14",
     "codes": [
       "8.300",
-      "13.031",
-      "6.010",
-      "8.200",
       "5.001",
-      "16.090"
+      "8.200",
+      "13.031",
+      "16.090",
+      "6.010"
     ]
   },
   "2018OPA-0164": {
@@ -20627,8 +19872,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0175ccs081018.pdf",
     "issued_date": "2018-08-07",
     "codes": [
-      "8.400",
-      "8.200"
+      "8.200",
+      "8.400"
     ]
   },
   "2018OPA-0177": {
@@ -20661,10 +19906,10 @@
     "issued_date": "2018-07-27",
     "codes": [
       "8.300",
-      "8.400",
       "5.002",
-      "8.200",
-      "8.500"
+      "8.500",
+      "8.400",
+      "8.200"
     ]
   },
   "2018OPA-0189": {
@@ -20672,9 +19917,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0189ccs09-25-18.pdf",
     "issued_date": "2018-09-25",
     "codes": [
-      "8.400",
+      "5.125",
       "8.200",
-      "5.125"
+      "8.400"
     ]
   },
   "2018OPA-0190": {
@@ -20717,8 +19962,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0198ccs07-23-18.pdf",
     "issued_date": "2018-07-23",
     "codes": [
-      "13.031",
-      "5.001"
+      "5.001",
+      "13.031"
     ]
   },
   "2018OPA-0199": {
@@ -20734,9 +19979,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0201ccs11-18-18.pdf",
     "issued_date": "2018-11-18",
     "codes": [
-      "16.090",
+      "5.001",
       "6.180",
-      "5.001"
+      "16.090"
     ]
   },
   "2018OPA-0210": {
@@ -20744,9 +19989,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0210ccs08-29-18.pdf",
     "issued_date": "2018-08-29",
     "codes": [
-      "6.180",
       "8.200",
-      "5.001"
+      "5.001",
+      "6.180"
     ]
   },
   "2018OPA-0211": {
@@ -20771,8 +20016,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0213ccs08-27-18.pdf",
     "issued_date": "2018-08-27",
     "codes": [
-      "15.180",
-      "5.001"
+      "5.001",
+      "15.180"
     ]
   },
   "2018OPA-0215": {
@@ -20805,8 +20050,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0222ccs08-28-18.pdf",
     "issued_date": "2018-08-28",
     "codes": [
-      "16.230",
       "5.001",
+      "16.230",
       "5.140"
     ]
   },
@@ -20815,8 +20060,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0223ccs09-05-18.pdf",
     "issued_date": "2018-09-05",
     "codes": [
-      "6.180",
-      "5.001"
+      "5.001",
+      "6.180"
     ]
   },
   "2018OPA-0225": {
@@ -20824,8 +20069,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0225ccs09-03-18.pdf",
     "issued_date": "2018-09-03",
     "codes": [
-      "16.090",
       "6.220",
+      "16.090",
       "6.010",
       "5.140"
     ]
@@ -20852,8 +20097,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0231ccs063018.pdf",
     "issued_date": "2018-06-30",
     "codes": [
-      "8.400",
       "8.200",
+      "8.400",
       "5.002"
     ]
   },
@@ -20862,20 +20107,10 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0235ccs031919.pdf",
     "issued_date": "2019-03-19",
     "codes": [
-      "8.300",
       "8.200",
+      "8.300",
       "5.001",
       "5.002"
-    ]
-  },
-  "2018OPA-0237": {
-    "case_id": "2018OPA-0237",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0237ccs121118.pdf",
-    "issued_date": "2019-03-19",
-    "codes": [
-      "16.090",
-      "6.010",
-      "5.140"
     ]
   },
   "2018OPA-0238": {
@@ -20884,14 +20119,14 @@
     "issued_date": "2018-10-01",
     "codes": [
       "8.300",
-      "15.180",
-      "8.400",
-      "5.002",
-      "13.031",
       "13.030",
+      "5.002",
+      "5.001",
+      "8.400",
+      "15.180",
       "6.220",
       "8.200",
-      "5.001",
+      "13.031",
       "16.090"
     ]
   },
@@ -20930,9 +20165,9 @@
     "issued_date": "2018-09-07",
     "codes": [
       "6.220",
-      "6.180",
+      "5.001",
       "6.010",
-      "5.001"
+      "6.180"
     ]
   },
   "2018OPA-0245": {
@@ -20941,14 +20176,14 @@
     "issued_date": "2019-07-16",
     "codes": [
       "8.300",
-      "8.400",
-      "5.002",
       "8.100",
-      "5.170",
+      "5.002",
+      "5.001",
+      "8.400",
       "6.220",
-      "6.010",
       "8.200",
-      "5.001"
+      "6.010",
+      "5.170"
     ]
   },
   "2018OPA-0247": {
@@ -20956,12 +20191,12 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0247ccs101418.pdf",
     "issued_date": "2018-11-19",
     "codes": [
-      "8.400",
+      "16.110",
       "8.100",
-      "8.200",
       "5.001",
-      "16.090",
-      "16.110"
+      "8.400",
+      "8.200",
+      "16.090"
     ]
   },
   "2018OPA-0248": {
@@ -20977,9 +20212,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0250ccs081418.pdf",
     "issued_date": "2018-08-14",
     "codes": [
-      "6.180",
       "6.220",
       "5.001",
+      "6.180",
       "5.140"
     ]
   },
@@ -20996,17 +20231,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0255ccs07-24-18.pdf",
     "issued_date": "2018-07-24",
     "codes": [
-      "6.010",
-      "5.001"
-    ]
-  },
-  "2018OPA-0256": {
-    "case_id": "2018OPA-0256",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0256ccs09-10-18.pdf",
-    "issued_date": "2018-09-10",
-    "codes": [
-      "6.010",
-      "5.001"
+      "5.001",
+      "6.010"
     ]
   },
   "2018OPA-0258": {
@@ -21014,10 +20240,10 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0258ccs091718.pdf",
     "issued_date": "2018-09-17",
     "codes": [
-      "11.030",
-      "8.400",
+      "8.200",
       "6.010",
-      "8.200"
+      "8.400",
+      "11.030"
     ]
   },
   "2018OPA-0259": {
@@ -21033,13 +20259,13 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0260ccs10-05-18.pdf",
     "issued_date": "2018-10-05",
     "codes": [
-      "5.002",
-      "6.220",
       "16.230",
-      "8.200",
+      "5.002",
       "5.001",
-      "5.140",
-      "16.090"
+      "6.220",
+      "8.200",
+      "16.090",
+      "5.140"
     ]
   },
   "2018OPA-0266": {
@@ -21123,8 +20349,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0300ccs09-17-18.pdf",
     "issued_date": "2018-09-17",
     "codes": [
-      "15.180",
       "5.001",
+      "15.180",
       "5.140"
     ]
   },
@@ -21175,10 +20401,10 @@
     "issued_date": "2018-10-17",
     "codes": [
       "8.300",
-      "8.400",
       "5.002",
-      "8.200",
       "5.001",
+      "8.400",
+      "8.200",
       "16.090"
     ]
   },
@@ -21195,10 +20421,10 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0318ccs121918.pdf",
     "issued_date": "2018-10-19",
     "codes": [
-      "8.400",
-      "6.010",
       "5.001",
-      "16.110"
+      "16.110",
+      "6.010",
+      "8.400"
     ]
   },
   "2018OPA-0319": {
@@ -21206,8 +20432,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0319ccs09-15-18.pdf",
     "issued_date": "2018-09-15",
     "codes": [
-      "8.100",
       "8.200",
+      "8.100",
       "5.001"
     ]
   },
@@ -21276,8 +20502,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0334ccs10-05-18.pdf",
     "issued_date": "2018-10-05",
     "codes": [
-      "8.100",
       "8.200",
+      "8.100",
       "5.001",
       "5.002"
     ]
@@ -21347,8 +20573,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0347ccs10-06-18.pdf",
     "issued_date": "2018-10-06",
     "codes": [
-      "15.180",
       "5.001",
+      "15.180",
       "5.140"
     ]
   },
@@ -21374,13 +20600,13 @@
     "issued_date": "2018-10-15",
     "codes": [
       "7.150",
+      "5.001",
       "8.400",
-      "6.180",
       "6.220",
       "8.200",
-      "5.001",
-      "1.020",
-      "16.090"
+      "6.180",
+      "16.090",
+      "1.020"
     ]
   },
   "2018OPA-0354": {
@@ -21396,9 +20622,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0356ccs04-19-18.pdf",
     "issued_date": "2018-10-20",
     "codes": [
-      "8.200",
       "5.001",
-      "5.002"
+      "5.002",
+      "8.200"
     ]
   },
   "2018OPA-0357": {
@@ -21447,9 +20673,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0377ccs10-22-18.pdf",
     "issued_date": "2018-10-22",
     "codes": [
-      "16.090",
+      "5.001",
       "9.010",
-      "5.001"
+      "16.090"
     ]
   },
   "2018OPA-0378": {
@@ -21465,8 +20691,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0379ccs10-27-18.pdf",
     "issued_date": "2018-10-27",
     "codes": [
-      "5.003",
-      "5.001"
+      "5.001",
+      "5.003"
     ]
   },
   "2018OPA-0390": {
@@ -21483,9 +20709,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0394ccs09-08-18.pdf",
     "issued_date": "2018-09-08",
     "codes": [
-      "15.410",
       "5.001",
-      "15.080"
+      "15.080",
+      "15.410"
     ]
   },
   "2018OPA-0396": {
@@ -21493,10 +20719,10 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0396ccs103118.pdf",
     "issued_date": "2018-10-21",
     "codes": [
-      "8.300",
-      "8.400",
       "8.200",
-      "5.001"
+      "8.300",
+      "5.001",
+      "8.400"
     ]
   },
   "2018OPA-0399": {
@@ -21554,9 +20780,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0413ccs11-06-18.pdf",
     "issued_date": "2018-11-06",
     "codes": [
-      "5.002",
-      "6.010",
       "8.200",
+      "6.010",
+      "5.002",
       "5.140"
     ]
   },
@@ -21582,8 +20808,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0416ccs04-19-19.pdf",
     "issued_date": "2019-06-04",
     "codes": [
-      "6.130",
-      "5.001"
+      "5.001",
+      "6.130"
     ]
   },
   "2018OPA-0417": {
@@ -21591,9 +20817,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0417ccs112118.pdf",
     "issued_date": "2018-11-21",
     "codes": [
-      "6.180",
       "6.220",
-      "8.200"
+      "8.200",
+      "6.180"
     ]
   },
   "2018OPA-0418": {
@@ -21611,8 +20837,8 @@
     "codes": [
       "11.030",
       "8.400",
-      "8.200",
-      "5.002"
+      "5.002",
+      "8.200"
     ]
   },
   "2018OPA-0428": {
@@ -21628,10 +20854,10 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0429ccs102619.pdf",
     "issued_date": "2018-10-26",
     "codes": [
-      "13.010",
-      "5.002",
+      "13.080",
       "5.001",
-      "13.080"
+      "13.010",
+      "5.002"
     ]
   },
   "2018OPA-0430": {
@@ -21640,9 +20866,9 @@
     "issued_date": "2018-11-07",
     "codes": [
       "6.220",
-      "5.120",
       "5.001",
-      "8.100"
+      "8.100",
+      "5.120"
     ]
   },
   "2018OPA-0431": {
@@ -21708,8 +20934,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0460ccs080518.pdf",
     "issued_date": "2018-08-05",
     "codes": [
-      "8.400",
-      "8.200"
+      "8.200",
+      "8.400"
     ]
   },
   "2018OPA-0461": {
@@ -21717,9 +20943,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0461ccs112418.pdf",
     "issued_date": "2018-11-24",
     "codes": [
-      "5.140",
       "5.001",
-      "5.002"
+      "5.002",
+      "5.140"
     ]
   },
   "2018OPA-0467": {
@@ -21743,8 +20969,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0471ccs11-05-18.pdf",
     "issued_date": "2018-11-05",
     "codes": [
-      "5.140",
-      "5.002"
+      "5.002",
+      "5.140"
     ]
   },
   "2018OPA-0477": {
@@ -21760,10 +20986,10 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0479ccs101419.pdf",
     "issued_date": "2019-10-14",
     "codes": [
-      "5.001",
-      "8.400",
       "8.200",
-      "8.100"
+      "8.100",
+      "8.400",
+      "5.001"
     ]
   },
   "2018OPA-0480": {
@@ -21771,8 +20997,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0480ccs112318.pdf",
     "issued_date": "2018-11-23",
     "codes": [
-      "6.180",
-      "5.001"
+      "5.001",
+      "6.180"
     ]
   },
   "2018OPA-0482": {
@@ -21821,9 +21047,9 @@
     "issued_date": "2018-12-03",
     "codes": [
       "5.001",
-      "1.020",
+      "16.110",
       "8.100",
-      "16.110"
+      "1.020"
     ]
   },
   "2018OPA-0490": {
@@ -21921,8 +21147,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0505ccs112318.pdf",
     "issued_date": "2018-11-23",
     "codes": [
-      "12.050",
-      "5.001"
+      "5.001",
+      "12.050"
     ]
   },
   "2018OPA-0507": {
@@ -22028,9 +21254,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0547ccs121518.pdf",
     "issued_date": "2018-12-15",
     "codes": [
+      "5.001",
       "15.360",
-      "1.020",
-      "5.001"
+      "1.020"
     ]
   },
   "2018OPA-0548": {
@@ -22046,11 +21272,11 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0552ccs012319.pdf",
     "issued_date": "2019-01-23",
     "codes": [
+      "5.001",
       "8.400",
       "6.220",
-      "6.010",
       "8.200",
-      "5.001"
+      "6.010"
     ]
   },
   "2018OPA-0553": {
@@ -22066,8 +21292,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0554ccs121818.pdf",
     "issued_date": "2018-12-18",
     "codes": [
-      "6.150",
-      "5.001"
+      "5.001",
+      "6.150"
     ]
   },
   "2018OPA-0556": {
@@ -22102,9 +21328,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0563ccs121618.pdf",
     "issued_date": "2018-12-16",
     "codes": [
-      "6.010",
       "8.200",
       "8.100",
+      "6.010",
       "5.140"
     ]
   },
@@ -22121,8 +21347,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0570ccs020919.pdf",
     "issued_date": "2019-02-09",
     "codes": [
-      "5.002",
       "8.200",
+      "5.002",
       "5.140"
     ]
   },
@@ -22133,15 +21359,6 @@
     "codes": [
       "5.002",
       "5.140"
-    ]
-  },
-  "2018OPA-0577": {
-    "case_id": "2018OPA-0577",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0577ccs121918.pdf",
-    "issued_date": "2019-01-18",
-    "codes": [
-      "8.700",
-      "8.200"
     ]
   },
   "2018OPA-0581": {
@@ -22158,9 +21375,9 @@
     "issued_date": "2019-01-26",
     "codes": [
       "8.300",
-      "8.400",
-      "5.002",
       "13.010",
+      "5.002",
+      "8.400",
       "13.031",
       "16.090"
     ]
@@ -22203,10 +21420,10 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0596ccs052119.pdf",
     "issued_date": "2019-05-21",
     "codes": [
-      "5.120",
-      "6.010",
       "8.200",
-      "8.100"
+      "8.100",
+      "6.010",
+      "5.120"
     ]
   },
   "2018OPA-0597": {
@@ -22222,8 +21439,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0599ccs122718.pdf",
     "issued_date": "2018-12-27",
     "codes": [
-      "16.090",
       "8.200",
+      "16.090",
       "5.140"
     ]
   },
@@ -22274,8 +21491,8 @@
     "issued_date": "2018-12-27",
     "codes": [
       "6.220",
-      "6.010",
-      "8.200"
+      "8.200",
+      "6.010"
     ]
   },
   "2018OPA-0618": {
@@ -22301,9 +21518,9 @@
     "issued_date": "2018-12-18",
     "codes": [
       "8.100",
+      "5.001",
       "6.220",
       "8.200",
-      "5.001",
       "5.140"
     ]
   },
@@ -22312,8 +21529,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0622ccs11-24-18.pdf",
     "issued_date": "2018-11-24",
     "codes": [
-      "8.300",
-      "8.200"
+      "8.200",
+      "8.300"
     ]
   },
   "2018OPA-0625": {
@@ -22362,10 +21579,10 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0639ccs123118.pdf",
     "issued_date": "2018-12-31",
     "codes": [
-      "16.090",
       "6.220",
       "5.001",
-      "16.110"
+      "16.110",
+      "16.090"
     ]
   },
   "2018OPA-0641": {
@@ -22381,9 +21598,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0642ccs01-03-19.pdf",
     "issued_date": "2019-01-03",
     "codes": [
-      "6.180",
       "6.220",
       "5.001",
+      "6.180",
       "5.140"
     ]
   },
@@ -22453,10 +21670,10 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0656ccs060519.pdf",
     "issued_date": "2019-06-05",
     "codes": [
-      "16.090",
       "8.200",
       "5.001",
-      "5.002"
+      "5.002",
+      "16.090"
     ]
   },
   "2018OPA-0659": {
@@ -22506,8 +21723,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0678ccs040519.pdf",
     "issued_date": "2019-02-15",
     "codes": [
-      "4.130",
       "5.001",
+      "4.130",
       "4.010"
     ]
   },
@@ -22543,8 +21760,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0690ccs022119.pdf",
     "issued_date": "2019-02-21",
     "codes": [
-      "6.180",
-      "5.001"
+      "5.001",
+      "6.180"
     ]
   },
   "2018OPA-0691": {
@@ -22552,8 +21769,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0691ccs01-28-19.pdf",
     "issued_date": "2019-01-28",
     "codes": [
-      "16.090",
       "5.001",
+      "16.090",
       "5.140"
     ]
   },
@@ -22562,9 +21779,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0694ccs01092019.pdf",
     "issued_date": "2019-01-09",
     "codes": [
-      "15.180",
+      "5.001",
       "6.185",
-      "5.001"
+      "15.180"
     ]
   },
   "2018OPA-0698": {
@@ -22572,8 +21789,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0698ccs01-18-19.pdf",
     "issued_date": "2019-01-18",
     "codes": [
-      "12.050",
-      "5.001"
+      "5.001",
+      "12.050"
     ]
   },
   "2018OPA-0701": {
@@ -22591,8 +21808,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0704ccs012019.pdf",
     "issued_date": "2019-01-20",
     "codes": [
-      "8.100",
-      "5.001"
+      "5.001",
+      "8.100"
     ]
   },
   "2018OPA-0705": {
@@ -22640,11 +21857,11 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0718ccs012619.pdf",
     "issued_date": "2019-01-26",
     "codes": [
-      "7.150",
-      "5.001",
-      "1.020",
       "7.010",
-      "16.110"
+      "7.150",
+      "16.110",
+      "5.001",
+      "1.020"
     ]
   },
   "2018OPA-0719": {
@@ -22669,9 +21886,9 @@
     "issued_date": "2019-01-29",
     "codes": [
       "8.100",
-      "6.180",
-      "6.220",
       "5.001",
+      "6.220",
+      "6.180",
       "5.140"
     ]
   },
@@ -22706,10 +21923,10 @@
     "issued_date": "2019-02-08",
     "codes": [
       "8.300",
-      "5.002",
       "8.100",
-      "8.200",
-      "5.001"
+      "5.002",
+      "5.001",
+      "8.200"
     ]
   },
   "2018OPA-0741": {
@@ -22775,11 +21992,11 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0751ccs020319.pdf",
     "issued_date": "2019-02-03",
     "codes": [
+      "5.001",
       "11.010",
-      "11.020",
-      "6.010",
       "8.200",
-      "5.001"
+      "11.020",
+      "6.010"
     ]
   },
   "2018OPA-0752": {
@@ -22804,9 +22021,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0757ccs02-02-19.pdf",
     "issued_date": "2019-02-02",
     "codes": [
+      "5.001",
       "15.180",
-      "16.090",
-      "5.001"
+      "16.090"
     ]
   },
   "2018OPA-0758": {
@@ -22815,8 +22032,8 @@
     "issued_date": "2019-02-02",
     "codes": [
       "6.220",
-      "6.010",
       "8.200",
+      "6.010",
       "5.140"
     ]
   },
@@ -22843,8 +22060,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0765ccs122918.pdf",
     "issued_date": "2018-12-29",
     "codes": [
-      "6.010",
       "8.200",
+      "6.010",
       "5.140"
     ]
   },
@@ -22872,8 +22089,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0776ccs012419.pdf",
     "issued_date": "2019-01-24",
     "codes": [
-      "8.200",
-      "5.001"
+      "5.001",
+      "8.200"
     ]
   },
   "2018OPA-0781": {
@@ -22881,9 +22098,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0781ccs051619.pdf",
     "issued_date": "2019-05-16",
     "codes": [
-      "16.090",
       "9.060",
       "9.020",
+      "16.090",
       "5.140"
     ]
   },
@@ -22892,10 +22109,10 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0783ccs050219.pdf",
     "issued_date": "2019-05-02",
     "codes": [
+      "5.001",
       "8.300",
       "8.100",
-      "8.200",
-      "5.001"
+      "8.200"
     ]
   },
   "2018OPA-0791": {
@@ -22954,9 +22171,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0799ccs032919.pdf",
     "issued_date": "2019-02-02",
     "codes": [
-      "15.180",
+      "5.001",
       "16.090",
-      "5.001"
+      "15.180"
     ]
   },
   "2018OPA-0806": {
@@ -22964,8 +22181,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0806ccs021219.pdf",
     "issued_date": "2019-02-12",
     "codes": [
-      "5.120",
-      "5.001"
+      "5.001",
+      "5.120"
     ]
   },
   "2018OPA-0812": {
@@ -22983,9 +22200,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0813ccs020919.pdf",
     "issued_date": "2019-02-09",
     "codes": [
-      "16.090",
       "8.200",
-      "5.001"
+      "5.001",
+      "16.090"
     ]
   },
   "2018OPA-0814": {
@@ -23011,8 +22228,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0819ccs021019.pdf",
     "issued_date": "2019-02-10",
     "codes": [
-      "5.140",
-      "5.002"
+      "5.002",
+      "5.140"
     ]
   },
   "2018OPA-0820": {
@@ -23028,8 +22245,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0821ccs012419.pdf",
     "issued_date": "2019-01-24",
     "codes": [
-      "6.010",
       "8.200",
+      "6.010",
       "5.140"
     ]
   },
@@ -23047,8 +22264,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0829ccs02072019.pdf",
     "issued_date": "2019-02-07",
     "codes": [
-      "16.090",
       "8.200",
+      "16.090",
       "5.140"
     ]
   },
@@ -23074,12 +22291,12 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0834ccs061319.pdf",
     "issued_date": "2019-06-13",
     "codes": [
-      "15.180",
-      "5.002",
       "8.100",
+      "5.002",
+      "5.001",
+      "15.180",
       "6.220",
       "8.200",
-      "5.001",
       "16.090"
     ]
   },
@@ -23112,8 +22329,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0847ccs02222019.pdf",
     "issued_date": "2019-02-22",
     "codes": [
-      "5.120",
-      "5.001"
+      "5.001",
+      "5.120"
     ]
   },
   "2018OPA-0850": {
@@ -23130,8 +22347,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0862ccs013119.pdf",
     "issued_date": "2019-01-31",
     "codes": [
-      "8.400",
-      "5.001"
+      "5.001",
+      "8.400"
     ]
   },
   "2018OPA-0863": {
@@ -23164,10 +22381,10 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0872ccs01-27-19.pdf",
     "issued_date": "2019-01-27",
     "codes": [
+      "5.001",
       "8.300",
       "8.100",
-      "8.200",
-      "5.001"
+      "8.200"
     ]
   },
   "2018OPA-0873": {
@@ -23232,10 +22449,10 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0890ccs030819.pdf",
     "issued_date": "2019-03-08",
     "codes": [
-      "15.180",
       "6.220",
       "5.001",
-      "16.110"
+      "16.110",
+      "15.180"
     ]
   },
   "2018OPA-0900": {
@@ -23243,8 +22460,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0900ccs02222019.pdf",
     "issued_date": "2019-02-22",
     "codes": [
-      "6.010",
       "5.001",
+      "6.010",
       "5.140"
     ]
   },
@@ -23285,14 +22502,14 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0919ccs041219.pdf",
     "issued_date": "2019-04-12",
     "codes": [
-      "5.002",
-      "13.030",
       "8.100",
-      "11.020",
-      "6.010",
+      "13.030",
+      "5.002",
+      "5.001",
       "6.220",
       "8.200",
-      "5.001",
+      "11.020",
+      "6.010",
       "5.140"
     ]
   },
@@ -23342,9 +22559,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0940ccs031719.pdf",
     "issued_date": "2019-03-17",
     "codes": [
-      "16.090",
+      "5.140",
       "8.200",
-      "5.140"
+      "16.090"
     ]
   },
   "2018OPA-0941": {
@@ -23386,8 +22603,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0950ccs100119.pdf",
     "issued_date": "2019-10-01",
     "codes": [
-      "15.410",
-      "5.001"
+      "5.001",
+      "15.410"
     ]
   },
   "2018OPA-0960": {
@@ -23412,8 +22629,8 @@
     "issued_date": "2019-04-02",
     "codes": [
       "5.120",
-      "6.220",
       "5.001",
+      "6.220",
       "13.080",
       "4.070"
     ]
@@ -23448,8 +22665,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0980ccs02-20-19.pdf",
     "issued_date": "2019-02-20",
     "codes": [
-      "16.090",
-      "13.030"
+      "13.030",
+      "16.090"
     ]
   },
   "2018OPA-0983": {
@@ -23475,8 +22692,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0991ccs03-26-19.pdf",
     "issued_date": "2019-03-26",
     "codes": [
-      "5.120",
-      "5.001"
+      "5.001",
+      "5.120"
     ]
   },
   "2018OPA-0996": {
@@ -23492,8 +22709,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0997ccs050919.pdf",
     "issued_date": "2019-05-09",
     "codes": [
-      "5.001",
-      "4.010"
+      "4.010",
+      "5.001"
     ]
   },
   "2018OPA-0998": {
@@ -23569,10 +22786,10 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1022ccs050119.pdf",
     "issued_date": "2019-05-01",
     "codes": [
-      "15.180",
-      "15.410",
       "5.001",
-      "5.100"
+      "15.410",
+      "5.100",
+      "15.180"
     ]
   },
   "2018OPA-1023": {
@@ -23580,10 +22797,10 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1023ccs03-01-19.pdf",
     "issued_date": "2019-03-01",
     "codes": [
-      "8.400",
-      "5.140",
       "5.001",
-      "5.002"
+      "8.400",
+      "5.002",
+      "5.140"
     ]
   },
   "2018OPA-1032": {
@@ -23599,8 +22816,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1035ccs03-24-19.pdf",
     "issued_date": "2019-03-24",
     "codes": [
-      "8.300",
       "8.200",
+      "8.300",
       "8.100",
       "5.140"
     ]
@@ -23611,12 +22828,12 @@
     "issued_date": "2019-07-30",
     "codes": [
       "8.300",
-      "8.400",
-      "5.002",
       "8.100",
-      "8.200",
+      "5.002",
       "5.001",
-      "8.500"
+      "8.500",
+      "8.400",
+      "8.200"
     ]
   },
   "2018OPA-1042": {
@@ -23632,8 +22849,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1043ccs042619.pdf",
     "issued_date": "2019-04-26",
     "codes": [
-      "13.010",
-      "5.001"
+      "5.001",
+      "13.010"
     ]
   },
   "2018OPA-1044": {
@@ -23682,8 +22899,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1062ccs043019.pdf",
     "issued_date": "2019-04-30",
     "codes": [
-      "16.090",
-      "5.001"
+      "5.001",
+      "16.090"
     ]
   },
   "2018OPA-1065": {
@@ -23731,9 +22948,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1075ccs05-12-19.pdf",
     "issued_date": "2019-05-12",
     "codes": [
+      "5.001",
       "15.180",
       "15.410",
-      "5.001",
       "16.090",
       "12.080"
     ]
@@ -23784,8 +23001,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1088ccs070219.pdf",
     "issued_date": "2019-07-02",
     "codes": [
-      "15.180",
-      "6.010"
+      "6.010",
+      "15.180"
     ]
   },
   "2018OPA-1091": {
@@ -23802,8 +23019,8 @@
     "issued_date": "2019-04-22",
     "codes": [
       "15.180",
-      "6.010",
       "15.170",
+      "6.010",
       "5.140"
     ]
   },
@@ -23820,8 +23037,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1095ccs041719.pdf",
     "issued_date": "2019-04-17",
     "codes": [
-      "8.200",
       "5.001",
+      "8.200",
       "5.140"
     ]
   },
@@ -23838,8 +23055,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1100ccs050719.pdf",
     "issued_date": "2019-05-07",
     "codes": [
-      "15.180",
       "15.250",
+      "15.180",
       "5.140"
     ]
   },
@@ -23864,8 +23081,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1107ccs050919.pdf",
     "issued_date": "2019-05-09",
     "codes": [
-      "6.180",
-      "5.001"
+      "5.001",
+      "6.180"
     ]
   },
   "2018OPA-1111": {
@@ -23881,8 +23098,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1115ccs051019.pdf",
     "issued_date": "2019-05-10",
     "codes": [
-      "6.010",
-      "6.120"
+      "6.120",
+      "6.010"
     ]
   },
   "2018OPA-1121": {
@@ -23923,8 +23140,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1134ccs053019.pdf",
     "issued_date": "2019-05-30",
     "codes": [
-      "15.180",
       "5.001",
+      "15.180",
       "5.140"
     ]
   },
@@ -23933,8 +23150,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1139ccs051719.pdf",
     "issued_date": "2019-05-17",
     "codes": [
-      "6.010",
-      "5.001"
+      "5.001",
+      "6.010"
     ]
   },
   "2018OPA-1142": {
@@ -23942,8 +23159,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1142ccs052119.pdf",
     "issued_date": "2019-05-21",
     "codes": [
-      "16.090",
       "5.001",
+      "16.090",
       "5.140"
     ]
   },
@@ -24051,8 +23268,8 @@
     "issued_date": "2019-05-23",
     "codes": [
       "11.050",
-      "6.010",
-      "8.200"
+      "8.200",
+      "6.010"
     ]
   },
   "2018OPA-1181": {
@@ -24061,8 +23278,8 @@
     "issued_date": "2019-06-18",
     "codes": [
       "8.500",
-      "6.180",
-      "6.010"
+      "6.010",
+      "6.180"
     ]
   },
   "2018OPA-1182": {
@@ -24070,8 +23287,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-1182ccs060419.pdf",
     "issued_date": "2019-06-04",
     "codes": [
-      "12.010",
-      "5.001"
+      "5.001",
+      "12.010"
     ]
   },
   "2018OPA-1183": {
@@ -24128,10 +23345,10 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0008ccs06-19-19.pdf",
     "issued_date": "2019-06-19",
     "codes": [
-      "5.010",
-      "5.140",
       "5.001",
-      "5.002"
+      "5.010",
+      "5.002",
+      "5.140"
     ]
   },
   "2019OPA-0011": {
@@ -24174,9 +23391,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0025ccs051019.pdf",
     "issued_date": "2019-05-10",
     "codes": [
-      "15.180",
+      "5.001",
       "13.030",
-      "5.001"
+      "15.180"
     ]
   },
   "2019OPA-0026": {
@@ -24193,9 +23410,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0027ccs062519.pdf",
     "issued_date": "2019-06-25",
     "codes": [
+      "5.001",
       "8.400",
       "5.002",
-      "5.001",
       "5.140"
     ]
   },
@@ -24286,8 +23503,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0060ccs063019.pdf",
     "issued_date": "2019-06-30",
     "codes": [
-      "16.090",
-      "16.230"
+      "16.230",
+      "16.090"
     ]
   },
   "2019OPA-0061": {
@@ -24311,9 +23528,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0069ccs072319.pdf",
     "issued_date": "2019-07-23",
     "codes": [
-      "6.180",
       "8.200",
-      "8.100"
+      "8.100",
+      "6.180"
     ]
   },
   "2019OPA-0070": {
@@ -24321,8 +23538,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0070ccs072319.pdf",
     "issued_date": "2019-07-23",
     "codes": [
-      "6.150",
       "8.200",
+      "6.150",
       "5.140"
     ]
   },
@@ -24357,9 +23574,9 @@
     "issued_date": "2019-07-17",
     "codes": [
       "6.220",
-      "16.230",
       "5.001",
-      "6.120"
+      "6.120",
+      "16.230"
     ]
   },
   "2019OPA-0076": {
@@ -24401,8 +23618,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0093ccs073119.pdf",
     "issued_date": "2019-07-31",
     "codes": [
-      "16.090",
       "5.001",
+      "16.090",
       "5.140"
     ]
   },
@@ -24443,9 +23660,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0102ccs072519.pdf",
     "issued_date": "2019-07-25",
     "codes": [
-      "5.001",
       "8.200",
       "8.100",
+      "5.001",
       "5.140"
     ]
   },
@@ -24462,8 +23679,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0105ccs082119.pdf",
     "issued_date": "2019-08-21",
     "codes": [
-      "8.300",
       "8.200",
+      "8.300",
       "5.001"
     ]
   },
@@ -24513,8 +23730,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0131ccs081519.pdf",
     "issued_date": "2019-08-15",
     "codes": [
-      "6.181",
-      "5.001"
+      "5.001",
+      "6.181"
     ]
   },
   "2019OPA-0132": {
@@ -24522,8 +23739,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0132ccs042919.pdf",
     "issued_date": "2019-04-29",
     "codes": [
-      "6.010",
-      "8.200"
+      "8.200",
+      "6.010"
     ]
   },
   "2019OPA-0135": {
@@ -24563,8 +23780,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0145ccs100819.pdf",
     "issued_date": "2019-10-08",
     "codes": [
-      "6.180",
-      "8.200"
+      "8.200",
+      "6.180"
     ]
   },
   "2019OPA-0147": {
@@ -24588,8 +23805,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0157ccs083119.pdf",
     "issued_date": "2019-08-31",
     "codes": [
-      "1.020",
-      "5.002"
+      "5.002",
+      "1.020"
     ]
   },
   "2019OPA-0160": {
@@ -24656,8 +23873,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0170ccs090519.pdf",
     "issued_date": "2019-09-05",
     "codes": [
-      "8.400",
-      "8.200"
+      "8.200",
+      "8.400"
     ]
   },
   "2019OPA-0172": {
@@ -24665,8 +23882,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0172ccs06-08-19.pdf",
     "issued_date": "2019-06-08",
     "codes": [
-      "8.300",
-      "8.200"
+      "8.200",
+      "8.300"
     ]
   },
   "2019OPA-0176": {
@@ -24683,8 +23900,8 @@
     "issued_date": "2019-09-17",
     "codes": [
       "15.180",
-      "6.180",
       "6.220",
+      "6.180",
       "6.010",
       "1.020"
     ]
@@ -24694,8 +23911,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0186ccs11-25-19.pdf",
     "issued_date": "2019-11-25",
     "codes": [
-      "8.400",
       "5.001",
+      "8.400",
       "5.100"
     ]
   },
@@ -24768,8 +23985,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0223ccs092419.pdf",
     "issued_date": "2019-09-24",
     "codes": [
-      "15.180",
-      "5.001"
+      "5.001",
+      "15.180"
     ]
   },
   "2019OPA-0224": {
@@ -24785,8 +24002,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0225ccs10022019.pdf",
     "issued_date": "2019-10-02",
     "codes": [
-      "6.280",
-      "16.110"
+      "16.110",
+      "6.280"
     ]
   },
   "2019OPA-0227": {
@@ -24802,8 +24019,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0230ccs101119.pdf",
     "issued_date": "2019-10-11",
     "codes": [
-      "6.180",
-      "16.110"
+      "16.110",
+      "6.180"
     ]
   },
   "2019OPA-0231": {
@@ -24811,8 +24028,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0231ccs091919.pdf",
     "issued_date": "2019-09-19",
     "codes": [
-      "15.180",
-      "13.031"
+      "13.031",
+      "15.180"
     ]
   },
   "2019OPA-0232": {
@@ -24838,8 +24055,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0240ccs10-07-19.pdf",
     "issued_date": "2019-10-07",
     "codes": [
-      "15.410",
-      "5.001"
+      "5.001",
+      "15.410"
     ]
   },
   "2019OPA-0243": {
@@ -24895,8 +24112,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0280ccs08-19-19.pdf",
     "issued_date": "2019-08-19",
     "codes": [
-      "13.030",
-      "13.031"
+      "13.031",
+      "13.030"
     ]
   },
   "2019OPA-0282": {
@@ -24937,8 +24154,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0294ccs11-17-19.pdf",
     "issued_date": "2019-11-17",
     "codes": [
-      "12.050",
-      "15.400"
+      "15.400",
+      "12.050"
     ]
   },
   "2019OPA-0300": {
@@ -24946,8 +24163,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0300ccs10-07-19.pdf",
     "issued_date": "2019-10-07",
     "codes": [
-      "16.090",
-      "15.410"
+      "15.410",
+      "16.090"
     ]
   },
   "2019OPA-0308": {
@@ -24955,8 +24172,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0308ccs082219.pdf",
     "issued_date": "2019-08-22",
     "codes": [
-      "6.180",
-      "8.200"
+      "8.200",
+      "6.180"
     ]
   },
   "2019OPA-0309": {
@@ -24996,9 +24213,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0330ccs11-12-19.pdf",
     "issued_date": "2019-11-12",
     "codes": [
-      "5.140",
       "5.001",
-      "5.002"
+      "5.002",
+      "5.140"
     ]
   },
   "2019OPA-0338": {
@@ -25023,9 +24240,9 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0344ccs111719.pdf",
     "issued_date": "2019-11-17",
     "codes": [
-      "8.100",
       "8.200",
-      "16.110"
+      "16.110",
+      "8.100"
     ]
   },
   "2019OPA-0345": {
@@ -25033,8 +24250,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0345ccs111619.pdf",
     "issued_date": "2019-11-16",
     "codes": [
-      "8.400",
-      "6.010"
+      "6.010",
+      "8.400"
     ]
   },
   "2019OPA-0349": {
@@ -25074,8 +24291,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0354ccs11-04-19.pdf",
     "issued_date": "2019-11-04",
     "codes": [
-      "7.150",
-      "5.001"
+      "5.001",
+      "7.150"
     ]
   },
   "2019OPA-0355": {
@@ -25107,8 +24324,8 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0361ccs112019.pdf",
     "issued_date": "2019-11-20",
     "codes": [
-      "6.010",
-      "8.200"
+      "8.200",
+      "6.010"
     ]
   },
   "2019OPA-0362": {
@@ -25144,14 +24361,6 @@
       "5.140"
     ]
   },
-  "2019OPA-0369": {
-    "case_id": "2019OPA-0369",
-    "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0369ccs111919.pdf",
-    "issued_date": "2019-11-19",
-    "codes": [
-      "5.140"
-    ]
-  },
   "2019OPA-0372": {
     "case_id": "2019OPA-0372",
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0372ccs112619.pdf",
@@ -25165,10 +24374,10 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0374ccs11-16-19.pdf",
     "issued_date": "2019-11-16",
     "codes": [
-      "6.180",
-      "6.010",
+      "5.001",
       "6.120",
-      "5.001"
+      "6.010",
+      "6.180"
     ]
   },
   "2019OPA-0377": {
@@ -25210,10 +24419,10 @@
     "link": "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2019OPA-0385ccs09-30-19.pdf",
     "issued_date": "2019-09-30",
     "codes": [
-      "8.300",
-      "15.180",
       "8.200",
-      "5.001"
+      "8.300",
+      "5.001",
+      "15.180"
     ]
   },
   "2019OPA-0390": {
@@ -25294,59 +24503,36 @@
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1306ccs05-25-17.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1316ccs04-19-17.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1327ccs05-08-17.pdf",
-    "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1327ccs05-08-17.pdf",
-    "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1327ccs05-08-17.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2016OPA-1397ccs06-30-17.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0012ccs06-20-17.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0031ccs03-07-18.pdf",
-    "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0031ccs03-07-18.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0059ccs101019.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0119ccs113018.pdf",
-    "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0119ccs113018.pdf",
-    "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0119ccs113018.pdf",
-    "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0153ccs12-15-17.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0153ccs12-15-17.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0172ccs11-21-17.pdf",
-    "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0172ccs11-21-17.pdf",
-    "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0270ccs09-11-17.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0270ccs09-11-17.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0318ccs10-30-17.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0550ccs040418.pdf",
-    "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0571ccs02-05-18.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0571ccs02-05-18.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0682ccs10-06-17.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0701ccs12-26-17.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0704ccs12-21-17.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0705ccs12-27-17.pdf",
-    "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0705ccs12-27-17.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0731ccs01-05-18.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0751ccs01-04-18.pdf",
-    "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0751ccs01-04-18.pdf",
-    "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0813ccs12-28-17.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0813ccs12-28-17.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0937ccs03-05-18.pdf",
-    "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-0937ccs03-05-18.pdf",
-    "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1015ccs03-17-18.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1015ccs03-17-18.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1108ccs01-10-18.pdf",
-    "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1108ccs01-10-18.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1121ccs041018.pdf",
-    "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1121ccs041018.pdf",
-    "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1132ccs03-17-18.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1132ccs03-17-18.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1155ccs05-04-18.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1196ccs05-14-18.pdf",
-    "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1196ccs05-14-18.pdf",
-    "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1196ccs05-14-18.pdf",
-    "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1218ccs092618.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1218ccs092618.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1289ccs06-25-18.pdf",
-    "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1289ccs06-25-18.pdf",
-    "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1301ccs04-04-18.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2017OPA-1301ccs04-04-18.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0016ccs061818.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0118ccs072718.pdf",
-    "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0129ccs073018.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0129ccs073018.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0147ccs111318.pdf",
     "https://www.seattle.gov/Documents/Departments/OPA/ClosedCaseSummaries/2018OPA-0237ccs121118.pdf",
