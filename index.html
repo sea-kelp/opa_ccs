@@ -1,30 +1,152 @@
 <!DOCTYPE html>
 <html>
-<meta charset="utf-8">
-<body>
-<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-<script src="https://d3js.org/d3.v5.min.js"></script>
-<script src="https://unpkg.com/@hpcc-js/wasm@0.3.11/dist/index.min.js"></script>
-<script src="https://unpkg.com/d3-graphviz@3.0.5/build/d3-graphviz.js"></script>
-<div id="graph" style="text-align: center;"></div>
-<script>
-
-var dotIndex = 0;
-var graphviz = d3.select("#graph").graphviz()
-    .transition(function () {
-        return d3.transition("main")
-            .ease(d3.easeLinear)
-            .delay(500)
-            .duration(1500);
-    })
-    .logEvents(true)
-    .on("initEnd", render);
-
-function render() {
-    var dotLines = $.get('out.dot', function(data) {
-        console.log(data)
-        graphviz.renderDot(data);
-    });
+<head>
+<style>
+html, body {
+    font-family: Arial, sans-serif;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
 }
+section#controls {
+    padding: 15px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+section#controls ul {
+    padding: 0;
+    list-style: none;
+}
+</style>
+</head>
+<body>
+<section id="controls">
+    <h3>Classify by</h3>
+    <ul>
+        <li>
+            <input id="precinct" type="radio" name="color" value="precinct" checked>
+            <label for="precinct">Precinct</label>
+        </li>
+
+        <li>
+            <input id="force" type="radio" name="color" value="Force - Use">
+            <label for="force">Use of Force</label>
+        </li>
+
+        <li>
+            <input id="professionalism" type="radio" name="color" value="Professionalism">
+            <label for="professionalism">Professionalism</label>
+        </li>
+
+        <li>
+            <input id="bias" type="radio" name="color" value="Bias-free Policing">
+            <label for="bias">Bias-free Policing</label>
+        </li>
+
+        <li>
+            <input id="law" type="radio" name="color" value="Conformance to Law">
+            <label for="law">Conformance to Law</label>
+        </li>
+    </ul>
+</section>
+
+<script src="https://d3js.org/d3.v6.min.js"></script>
+<script>
+// Large portions "borrowed" directly from https://observablehq.com/@d3/force-directed-graph
+const [width, height]  = [document.body.clientWidth, document.body.clientHeight];
+
+const colorByProp = prop => {
+    const scale = d3.scaleOrdinal(d3.schemeCategory10);
+    return d => scale(d[prop]);
+};
+
+const drag = simulation => {
+    function dragstarted(event, d) {
+        if (!event.active) simulation.alphaTarget(0.3).restart();
+        d.fx = d.x;
+        d.fy = d.y;
+    }
+
+    function dragged(event, d) {
+        d.fx = event.x;
+        d.fy = event.y;
+    }
+
+    function dragended(event,d) {
+        if (!event.active) simulation.alphaTarget(0);
+        d.fx = null;
+        d.fy = null;
+    }
+
+    return d3.drag()
+        .on("start", dragstarted)
+        .on("drag", dragged)
+        .on("end", dragended);
+};
+
+const render = data => {
+    const links = data.links.map(Object.create);
+    const nodes = data.nodes.map(Object.create);
+
+    const simulation = d3.forceSimulation(nodes)
+        .force("link", d3.forceLink(links).id(d => d.badge_num))
+        .force("charge", d3.forceManyBody())
+        .force("x", d3.forceX())
+        .force("y", d3.forceY());
+
+    const svg = d3.select("body").append("svg")
+        .attr("width", width)
+        .attr("height", height)
+        .attr("viewBox", [-width / 2, -height / 2, width, height]);
+
+    const link = svg
+        .append("g")
+            .attr("stroke", "#999")
+            .attr("stroke-opacity", 0.6)
+        .selectAll("line")
+        .data(links)
+        .join("line")
+            .attr("stroke-width", d => d.value);
+
+    const node = svg
+        .selectAll("circle")
+        .data(nodes)
+        .join("circle")
+            .attr("r", d => 2 + d.allegations / 2)
+            .attr("fill", colorByProp("precinct"))
+            .call(drag(simulation));
+
+    node.append("title")
+        .text(d => `${d.name} (${d.badge_num})`);
+
+    simulation.on("tick", () => {
+        link
+            .attr("x1", d => d.source.x)
+            .attr("y1", d => d.source.y)
+            .attr("x2", d => d.target.x)
+            .attr("y2", d => d.target.y);
+
+        node
+            .attr("cx", d => d.x)
+            .attr("cy", d => d.y);
+    });
+
+    const radios = document.querySelectorAll("section#controls input");
+    radios.forEach(radio => {
+        radio.addEventListener("change", evt => {
+            if (evt.target.checked) {
+                d3.selectAll("circle")
+                    .attr("fill", colorByProp(evt.target.value));
+            }
+        });
+    });
+};
+
+d3.json("graph.json").then(render);
 </script>
+</body>
 </html>
+
