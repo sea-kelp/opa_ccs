@@ -54,13 +54,40 @@ section#controls ul {
 </section>
 
 <script src="https://d3js.org/d3.v6.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js"></script>
 <script>
-// Large portions "borrowed" directly from https://observablehq.com/@d3/force-directed-graph
 const [width, height]  = [document.body.clientWidth, document.body.clientHeight];
 
+// Draw force graph
+// Large portions "borrowed" directly from https://observablehq.com/@d3/force-directed-graph
 const colorByProp = prop => {
     const scale = d3.scaleOrdinal(d3.schemeCategory10);
     return d => scale(d[prop]);
+};
+
+const drawLegend = (svg, data, prop) => {
+    const labels = new Set(
+        data.nodes
+            .map(d => d[prop])
+            .map(d => d === undefined ? "" : d));
+    const colors = Array.from(labels)
+        .map(d => { return {"color": d}}).map(colorByProp("color"));
+    const ordinal = d3.scaleOrdinal()
+        .domain(labels)
+        .range(colors);
+
+    svg.append("g")
+      .attr("class", "legendOrdinal")
+        .attr("transform", `translate(${width / 2 - 180}, ${height / 2 - 180})`);
+
+    const legendOrdinal = d3.legendColor()
+      .shapeWidth(20)
+      .shapePadding(10)
+        .cellFilter(d => d.label != "")
+      .scale(ordinal);
+
+    svg.select(".legendOrdinal")
+      .call(legendOrdinal);
 };
 
 const drag = simulation => {
@@ -122,6 +149,8 @@ const render = data => {
     node.append("title")
         .text(d => `${d.name} (${d.badge_num})`);
 
+    drawLegend(svg, data, "precinct");
+
     simulation.on("tick", () => {
         link
             .attr("x1", d => d.source.x)
@@ -140,6 +169,7 @@ const render = data => {
             if (evt.target.checked) {
                 d3.selectAll("circle")
                     .attr("fill", colorByProp(evt.target.value));
+                drawLegend(svg, data, evt.target.value);
             }
         });
     });
